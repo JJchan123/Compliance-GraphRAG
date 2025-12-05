@@ -1,0 +1,2884 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="edge" attr.name="weight" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="HKMA" />
+    <node id="RISK-BASED SUPERVISORY APPROACH" />
+    <node id="CAMEL RATING SYSTEM" />
+    <node id="AUTHORIZED INSTITUTIONS" />
+    <node id="RISK-BASED APPROACH" />
+    <node id="INHERENT RISK" />
+    <node id="RISK MANAGEMENT SYSTEM" />
+    <node id="CREDIT RISK" />
+    <node id="MARKET RISK" />
+    <node id="INTEREST RATE RISK" />
+    <node id="LIQUIDITY RISK" />
+    <node id="OPERATIONAL RISK" />
+    <node id="REPUTATION RISK" />
+    <node id="LEGAL RISK" />
+    <node id="STRATEGIC RISK" />
+    <node id="EMERGING RISK" />
+    <node id="BOARD OVERSIGHT" />
+    <node id="POLICIES AND PROCEDURES" />
+    <node id="RISK MEASUREMENT" />
+    <node id="INTERNAL CONTROLS" />
+    <node id="COMPREHENSIVE AUDITS" />
+    <node id="RISK PROFILE" />
+    <node id="RISK ASSESSMENT" />
+    <node id="SUPERVISORY PROCESS" />
+    <node id="EXAMINATION TEAMS" />
+    <node id="PRUDENTIAL OBLIGATIONS" />
+    <node id="KEY BENEFITS" />
+    <node id="INHERENT RISKS" />
+    <node id="EMERGING RISKS" />
+    <node id="RISK-BASED SUPERVISION" />
+    <node id="CAMEL RATING" />
+    <node id="RISK MANAGEMENT RATING" />
+    <node id="RISK-FOCUSED EXAMINATION PROCESS" />
+    <node id="INSTITUTIONAL OVERVIEW" />
+    <node id="RISK ASSESSMENT NARRATIVE" />
+    <node id="RISK-BASED METHODOLOGY" />
+    <node id="PROBLEM ISSUES" />
+    <node id="FINANCIAL CONDITION" />
+    <node id="RISK ASSESSMENT EXERCISE" />
+    <node id="RISK-FOCUSED EXAMINATION" />
+    <node id="PLANNING AND SCOPE MEMORANDUM" />
+    <node id="RISK ASSESSMENT PROCESS" />
+    <node id="DYNAMIC DOCUMENT" />
+    <node id="OVERALL RISK PROFILE" />
+    <node id="RISK LEVEL" />
+    <node id="EXTERNAL RISK FACTORS" />
+    <node id="PHASE ONE" />
+    <node id="PHASE TWO" />
+    <node id="PHASE THREE" />
+    <node id="FUNCTIONAL ACTIVITY" />
+    <node id="QUALITATIVE FACTORS" />
+    <node id="QUANTITATIVE FACTORS" />
+    <node id="HIGH INHERENT RISK" />
+    <node id="MODERATE INHERENT RISK" />
+    <node id="LOW INHERENT RISK" />
+    <node id="HIGH RISK" />
+    <node id="MODERATE RISK" />
+    <node id="LOW RISK" />
+    <node id="COMPOSITE RISK PROFILE" />
+    <node id="DIRECTION OF RISK" />
+    <node id="RISK MATRIX SUMMARY" />
+    <node id="AGGREGATE RISK" />
+    <node id="LIMITED REVIEW" />
+    <node id="NO REVIEW" />
+    <node id="FULL-SCOPE REVIEW" />
+    <node id="KEY RISKS" />
+    <node id="SUPERVISORY CONCERNS" />
+    <node id="ON-SITE EXAMINATION" />
+    <node id="PRUDENTIAL INTERVIEWS" />
+    <node id="TRIPARTITE MEETINGS" />
+    <node id="CONSOLIDATED RISK MANAGEMENT SYSTEM" />
+    <node id="INTERNAL AUDIT FUNCTION" />
+    <node id="ANNUAL SUPERVISORY MEETINGS" />
+    <node id="PRUDENTIAL MEETING" />
+    <node id="PRE-ON-SITE VISITATION" />
+    <node id="POST-ON-SITE VISITATION" />
+    <node id="CASE OFFICERS" />
+    <node id="REPRICING RISK" />
+    <node id="BASIS RISK" />
+    <node id="OPTIONS RISK" />
+    <node id="YIELD CURVE RISK" />
+    <node id="FUNDING LIQUIDITY RISK" />
+    <node id="MARKET LIQUIDITY RISK" />
+    <node id="AI" />
+    <node id="CLIMATE RISK" />
+    <node id="BOARD AND SENIOR MANAGEMENT OVERSIGHT" />
+    <node id="POLICIES, PROCEDURES AND LIMITS" />
+    <node id="RISK MEASUREMENT, MONITORING AND MANAGEMENT INFORMATION SYSTEMS" />
+    <node id="INTERNAL CONTROLS AND AUDITS" />
+    <node id="ACTIVE BOARD AND SENIOR MANAGEMENT OVERSIGHT" />
+    <node id="ADEQUATE RISK MEASUREMENT, MONITORING AND MANAGEMENT INFORMATION SYSTEMS" />
+    <node id="ESTABLISHED INTERNAL CONTROLS AND AUDITS" />
+    <node id="COMPLIANCE MONITORING PROCEDURES" />
+    <node id="BOARD AND SENIOR MANAGEMENT" />
+    <node id="STAFFING" />
+    <node id="ACCOUNTABILITY" />
+    <node id="INTERNAL CONTROL UNIT" />
+    <node id="RISK FACTORS" />
+    <node id="DOCUMENTATION" />
+    <node id="RISK MEASUREMENT AND MONITORING SYSTEMS" />
+    <node id="RISK EXPOSURE" />
+    <node id="MANAGEMENT INFORMATION SYSTEMS" />
+    <node id="COMPLIANCE" />
+    <node id="SENIOR MANAGEMENT" />
+    <node id="MATERIAL CHANGES" />
+    <node id="BOARD" />
+    <node id="ORGANIZATIONAL STRUCTURE" />
+    <node id="INTERNAL AUDIT" />
+    <node id="RISK" />
+    <node id="FINANCIAL REPORTING" />
+    <node id="REGULATORY REPORTING" />
+    <node id="RISK POLICIES" />
+    <node id="RISK MONITORING" />
+    <node id="RISK CONTROL" />
+    <node id="MATERIAL WEAKNESSES" />
+    <node id="LENDING GUIDELINES" />
+    <node id="MANAGEMENT INFORMATION SYSTEM" />
+    <node id="LENDING AREA" />
+    <node id="CREDIT RISK EVALUATION SYSTEM" />
+    <node id="UNDERWRITING STANDARDS" />
+    <node id="PROBLEM CREDITS" />
+    <node id="PROVISIONING" />
+    <node id="BUSINESS CLIMATE" />
+    <node id="CAMEL COMPONENTS" />
+    <node id="CREDIT RISK MANAGEMENT PROCESS" />
+    <node id="COMPOSITE CAMEL RATING" />
+    <node id="MANAGEMENT COMPONENT" />
+    <node id="ASSET QUALITY COMPONENT" />
+    <node id="EARNINGS COMPONENT" />
+    <node id="LIQUIDITY COMPONENT" />
+    <node id="CAPITAL ADEQUACY COMPONENT" />
+    <node id="RISK MANAGEMENT" />
+    <node id="RISK MANAGEMENT PRACTICES" />
+    <node id="RISK MONITORING PROCEDURES" />
+    <node id="SUPERVISORY ATTENTION" />
+    <node id="RISK MANAGEMENT WEAKNESSES" />
+    <node id="SUPERVISORY CONCERN" />
+    <node id="INTERNAL CONTROL SYSTEM" />
+    <node id="CONTROL EXCEPTIONS" />
+    <node id="WRITTEN POLICIES AND PROCEDURES" />
+    <node id="RISK EXPOSURES" />
+    <node id="SUPERVISORY STANDARDS" />
+    <node id="FINANCIAL RECORDS" />
+    <node id="OPERATING LOSSES" />
+    <node id="MARGINAL RISK MANAGEMENT PRACTICES" />
+    <node id="CRITICAL ABSENCE OF EFFECTIVE RISK MANAGEMENT" />
+    <node id="SIGNIFICANT RISKS" />
+    <node id="RISK MANAGEMENT PROCEDURES" />
+    <node id="DEFICIENCIES" />
+    <node id="REGULATORY REPORTS" />
+    <node id="ACCOUNTING RECORDS" />
+    <node id="VIABILITY" />
+    <node id="MA" />
+    <node id="RISK MANAGEMENT FRAMEWORK" />
+    <node id="RISK GOVERNANCE" />
+    <node id="RISK APPETITE FRAMEWORK" />
+    <node id="RISK MANAGEMENT POLICIES" />
+    <node id="COMPLIANCE FUNCTION" />
+    <node id="CONTINGENCY PLANNING" />
+    <node id="RISK LIMITS" />
+    <node id="NEW PRODUCTS AND SERVICES" />
+    <node id="RISK MEASUREMENT AND ASSESSMENT" />
+    <node id="SENSITIVITY ANALYSIS" />
+    <node id="STRESS-TESTING" />
+    <node id="BASEL CORE PRINCIPLES" />
+    <node id="BOARD OF DIRECTORS" />
+    <node id="RISK GOVERNANCE FRAMEWORK" />
+    <node id="FIRST LINE OF DEFENCE" />
+    <node id="SECOND LINE OF DEFENCE" />
+    <node id="THIRD LINE OF DEFENCE" />
+    <node id="RISK APPETITE" />
+    <node id="RISK OWNERS" />
+    <node id="RISK ASSESSMENTS" />
+    <node id="AUTHORIZED INSTITUTION" />
+    <node id="SPECIALIZED COMMITTEES" />
+    <node id="RISK COMMITTEE" />
+    <node id="REMUNERATION COMMITTEE" />
+    <node id="OTHER RISK MANAGEMENT COMMITTEES" />
+    <node id="ASSET AND LIABILITY COMMITTEE" />
+    <node id="CREDIT COMMITTEE" />
+    <node id="OPERATIONAL RISK MANAGEMENT COMMITTEE" />
+    <node id="RISK MITIGATION STRATEGIES" />
+    <node id="COMPLIANCE FRAMEWORK" />
+    <node id="REGULATORY COMPLIANCE" />
+    <node id="RISK REPORTING" />
+    <node id="RISK CULTURE" />
+    <node id="RISK MANAGEMENT UNIT" />
+    <node id="INDIVIDUAL BUSINESS UNITS" />
+    <node id="OBSTACLES TO RISK MANAGEMENT" />
+    <node id="DAY-TO-DAY RISK MANAGEMENT" />
+    <node id="RISK GOVERNANCE ARRANGEMENTS" />
+    <node id="MATERIAL RISK-RELATED INFORMATION" />
+    <node id="OBSTACLES TO INFORMATION SHARING" />
+    <node id="RISK MANAGEMENT PROCESS" />
+    <node id="CONTROL ENVIRONMENT" />
+    <node id="REMUNERATION SYSTEM" />
+    <node id="BEST PRACTICES" />
+    <node id="TRANSPARENT COMMUNICATION MECHANISMS" />
+    <node id="INTERNAL POLICIES" />
+    <node id="STRATEGIC PLANS" />
+    <node id="RISK-TAKING CAPACITY" />
+    <node id="CONDUCT RISK" />
+    <node id="RISK APPETITE STATEMENT" />
+    <node id="FIRM-WIDE RISK MANAGEMENT" />
+    <node id="CAPITAL" />
+    <node id="STRESS TESTS" />
+    <node id="RISK LEVELS" />
+    <node id="MANAGEMENT ACTIONS" />
+    <node id="RISK MITIGATION" />
+    <node id="FIRM-WIDE RISKS" />
+    <node id="RISK MANAGEMENT STRATEGIES" />
+    <node id="RISK MANAGEMENT OVERSIGHT" />
+    <node id="NEW PRODUCTS OR SERVICES" />
+    <node id="INFORMATION SYSTEMS AND INFRASTRUCTURE" />
+    <node id="CONTROL FUNCTIONS" />
+    <node id="RISK MANAGEMENT LIMITS" />
+    <node id="COMPETENCE" />
+    <node id="MONETARY AUTHORITY" />
+    <node id="CAPITAL MANAGEMENT" />
+    <node id="LIQUIDITY MANAGEMENT" />
+    <node id="SYSTEMICALLY IMPORTANT INSTITUTIONS" />
+    <node id="STRESS TESTING" />
+    <node id="RISK IDENTIFICATION" />
+    <node id="RISK MONITORING CAPABILITY" />
+    <node id="LEGAL AND REGULATORY REQUIREMENTS" />
+    <node id="RISK-MITIGATING TECHNIQUES" />
+    <node id="RISK CONCENTRATION" />
+    <node id="NEW PRODUCT APPROVAL POLICY" />
+    <node id="CHIEF RISK OFFICER" />
+    <node id="EXCESS OR EXCEPTIONS" />
+    <node id="RISK MANAGEMENT TOOLS" />
+    <node id="APPROVAL PROCEDURES" />
+    <node id="BUSINESS UNITS" />
+    <node id="PRODUCT RISK PROFILE" />
+    <node id="SIGNIFICANT CHANGES" />
+    <node id="COST AND BENEFIT ANALYSIS" />
+    <node id="SYSTEM ENHANCEMENT" />
+    <node id="TECHNOLOGY" />
+    <node id="CAPITAL STRENGTH" />
+    <node id="LIQUIDITY RESOURCES" />
+    <node id="POST-IMPLEMENTATION EVALUATION" />
+    <node id="RISK CONTROLS" />
+    <node id="NEW PRODUCT COMMITTEE" />
+    <node id="RISK MANAGEMENT FUNCTION" />
+    <node id="RISK MANAGEMENT PROCESSES" />
+    <node id="RISK MEASUREMENT TECHNIQUES" />
+    <node id="RISK ASSESSMENT MODELS" />
+    <node id="RISK INFORMATION" />
+    <node id="HIGH RISK ACTIVITIES" />
+    <node id="RISK MITIGATING ACTIONS" />
+    <node id="MATERIAL BREACH" />
+    <node id="RISK MANAGEMENT ACTIVITIES" />
+    <node id="RISK MANAGEMENT INFORMATION SYSTEM" />
+    <node id="RISK REPORTING FRAMEWORK" />
+    <node id="RISK DATA AGGREGATION" />
+    <node id="RISK DRIVERS" />
+    <node id="RISK MANAGEMENT REPORTS" />
+    <node id="REGULATORY RATIOS" />
+    <node id="RISK CONCENTRATIONS" />
+    <node id="AIS" />
+    <node id="RISK METHODOLOGIES" />
+    <node id="QUANTIFIABLE RISK" />
+    <node id="NON-QUANTIFIABLE RISK" />
+    <node id="DATA AVAILABILITY" />
+    <node id="EXPERT JUDGEMENT" />
+    <node id="BACK-TESTING" />
+    <node id="PERIODIC UPDATE" />
+    <node id="METHODOLOGIES" />
+    <node id="ASSUMPTIONS" />
+    <node id="RISK MEASURES" />
+    <node id="RISK-ADJUSTED PERFORMANCE MEASUREMENT" />
+    <node id="RISK MANAGEMENT MODELS" />
+    <node id="MACROECONOMIC TRENDS" />
+    <node id="QUALITATIVE APPROACH" />
+    <node id="RELEVANT RISKS" />
+    <node id="LIMITATIONS OF MODELS" />
+    <node id="DECISION-MAKING" />
+    <node id="FINANCIAL PERFORMANCE" />
+    <node id="CAPITAL ALLOCATION" />
+    <node id="INTERNAL PRICING MECHANISMS" />
+    <node id="RISK MITIGATING MEASURES" />
+    <node id="POLICIES AND LIMITS" />
+    <node id="OPERATING RISK" />
+    <node id="AUDITS" />
+    <node id="PERFORMANCE ASSESSMENT" />
+    <node id="POLICIES AND CONTROL PROCEDURES" />
+    <node id="COMPLIANCE WITH INTERNAL POLICIES" />
+    <node id="AUDIT COMMITTEE" />
+    <node id="REGULATORY REQUIREMENTS" />
+    <node id="MATERIAL RISK MANAGEMENT DEFICIENCIES" />
+    <node id="COMPLIANCE RISK" />
+    <node id="HEAD OF COMPLIANCE" />
+    <node id="COMPLIANCE PROGRAMME" />
+    <node id="CODES OF CONDUCT" />
+    <node id="INDEPENDENT COMPLIANCE FUNCTION" />
+    <node id="COMPLIANCE MATTERS" />
+    <node id="BUSINESS CONTINUITY PLANNING" />
+    <node id="RECOVERY PLANNING" />
+    <node id="COMPLIANCE POLICY" />
+    <node id="EUROPEAN CALL OPTION" />
+    <node id="RISK PROFILES" />
+    <node id="HEDGING STRATEGY" />
+    <node id="TREASURIES" />
+    <node id="KOREAN WON" />
+    <node id="REGULATORY RISK" />
+    <node id="AMERICAN OPTION" />
+    <node id="OFF-SHORE KOREAN WON" />
+    <node id="ON-SHORE KOREAN WON" />
+    <node id="VOLATILITY RISK" />
+    <node id="CHANGE IN DISTRIBUTION CHANNEL" />
+    <node id="CHANGE IN BOOKING ARRANGEMENT" />
+    <node id="CHANGE IN SETTLEMENT METHODOLOGY" />
+    <node id="CHANGE IN CURRENCY DENOMINATION" />
+    <node id="MAJOR CHANGES IN DOCUMENTATION" />
+    <node id="CHANGE IN COUNTERPARTY" />
+    <node id="CHANGE IN MARKET POSITIONING" />
+    <node id="CHANGE IN PLATFORM" />
+    <node id="CHANGE IN PROCESS" />
+    <node id="AML/CFT SYSTEMS" />
+    <node id="LEGAL AND REGULATORY FRAMEWORK" />
+    <node id="AML/CFT REGIME" />
+    <node id="FINANCIAL ACTION TASK FORCE" />
+    <node id="ASIA/PACIFIC GROUP ON MONEY LAUNDERING" />
+    <node id="FINANCIAL SANCTIONS" />
+    <node id="SANCTIONS REGIMES" />
+    <node id="MONEY LAUNDERING AND TERRORIST FINANCING" />
+    <node id="PROLIFERATION OF WEAPONS OF MASS DESTRUCTION" />
+    <node id="INTERNATIONAL STANDARDS" />
+    <node id="ANTI-MONEY LAUNDERING AND COUNTER-TERRORIST FINANCING ORDINANCE" />
+    <node id="BANKING ORDINANCE" />
+    <node id="AML/CFT GUIDELINE" />
+    <node id="FINANCIAL INSTITUTIONS" />
+    <node id="CUSTOMER DUE DILIGENCE" />
+    <node id="ORGANIZED AND SERIOUS CRIMES ORDINANCE" />
+    <node id="DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE" />
+    <node id="RISK OF FRAUD" />
+    <node id="SYSTEMS OF CONTROL" />
+    <node id="RECORD-KEEPING" />
+    <node id="MONEY LAUNDERING" />
+    <node id="TERRORIST FINANCING" />
+    <node id="DRUG TRAFFICKING" />
+    <node id="PROCEEDS OF DRUG TRAFFICKING" />
+    <node id="TERRORIST PROPERTY" />
+    <node id="ANTI-MONEY LAUNDERING (AML)" />
+    <node id="COUNTER-TERRORISM FINANCING (CFT)" />
+    <node id="TERRORISM" />
+    <node id="WEAPONS OF MASS DESTRUCTION (WMD)" />
+    <node id="UNATMO" />
+    <node id="UNSANCTIONS ORDINANCE" />
+    <node id="WMD CONTROL ORDINANCE" />
+    <node id="SECTOR-SPECIFIC GUIDELINES" />
+    <node id="HONG KONG ASSOCIATION OF BANKS" />
+    <node id="DOMESTIC AND INTERNATIONAL DEVELOPMENTS" />
+    <node id="SUSPICIOUS TRANSACTION DETECTION" />
+    <node id="AMLO" />
+    <node id="SUSPICIOUS TRANSACTION REPORTING" />
+    <node id="REGULATORY AUTHORITIES" />
+    <node id="GOVERNMENT" />
+    <node id="COUNTER FINANCING OF TERRORISM (CFT)" />
+    <node id="FINANCIAL SYSTEM" />
+    <node id="RISK-BASED APPROACH (RBA)" />
+    <node id="AUTHORIZED INSTITUTIONS (AIS)" />
+    <node id="JOINT FINANCIAL INTELLIGENCE UNIT (JFIU)" />
+    <node id="ILLICIT FUND FLOWS" />
+    <node id="VULNERABILITIES" />
+    <node id="MONEY LAUNDERING (ML)" />
+    <node id="TERRORIST FINANCING (TF)" />
+    <node id="COMPLIANCE OBLIGATIONS" />
+    <node id="FATF" />
+    <node id="AML/CFT CAPACITY" />
+    <node id="REGULATORY FRAMEWORK" />
+    <node id="MONEY LAUNDERING/TERRORIST FINANCING RISKS" />
+    <node id="SANCTIONS COMPLIANCE" />
+    <node id="COMPLIANCE BURDEN" />
+    <node id="ILLICIT ACTIVITIES" />
+    <node id="COMPLIANCE EFFORTS" />
+    <node id="CENTRAL COORDINATING COMMITTEE ON AML/CFT" />
+    <node id="LAW ENFORCEMENT AGENCIES" />
+    <node id="SUSPICIOUS TRANSACTION REPORTS" />
+    <node id="CORRESPONDENT BANKING RELATIONSHIPS" />
+    <node id="TRADE-RELATED BUSINESSES" />
+    <node id="CROSS-BORDER PAYMENTS" />
+    <node id="FINANCIAL REGULATORS" />
+    <node id="BANKING SECTOR" />
+    <node id="MONEY LAUNDERING/TERRORIST FINANCING RISK" />
+    <node id="HIGH ML/TF RISK" />
+    <node id="LOW ML/TF RISK" />
+    <node id="ML/TF RISK ASSESSMENT" />
+    <node id="MONEY LAUNDERING/TERRORIST FINANCING (ML/TF)" />
+    <node id="RISK PROFILING" />
+    <node id="TRADE FINANCE" />
+    <node id="PRIVATE BANKING" />
+    <node id="INTERNATIONAL FUND TRANSFER" />
+    <node id="RETAIL BANKING" />
+    <node id="CORPORATE BANKING" />
+    <node id="RISK RATING" />
+    <node id="IMPACT RATING" />
+    <node id="RISK-FOCUSED EXAMINATIONS" />
+    <node id="THEMATIC EXAMINATIONS" />
+    <node id="ON-SITE EXAMINATIONS" />
+    <node id="OFF-SITE REVIEWS" />
+    <node id="SELF-ASSESSMENTS" />
+    <node id="AML" />
+    <node id="CFT" />
+    <node id="ML/TF RISKS" />
+    <node id="ENHANCED COMPETENCY FRAMEWORK" />
+    <node id="SUPERVISORY MEASURES" />
+    <node id="TRAINING EVENTS" />
+    <node id="CIRCULARS" />
+    <node id="MERGER OR ACQUISITION" />
+    <node id="HEADS OF COMPLIANCE" />
+    <node id="MONEY LAUNDERING RISK" />
+    <node id="TERRORIST FINANCING RISK" />
+    <node id="ENFORCEMENT TOOLS" />
+    <node id="DEFICIENCIES IN AML/CFT SYSTEMS" />
+    <node id="INDEPENDENT VALIDATION" />
+    <node id="TIMELINE FOR REMEDIAL ACTIONS" />
+    <node id="REMEDIAL ACTIONS" />
+    <node id="CHIEF EXECUTIVE" />
+    <node id="DISCIPLINARY MEASURES" />
+    <node id="COOPERATION" />
+    <node id="GUIDELINE ON EXERCISING POWER TO IMPOSE PECUNIARY PENALTY" />
+    <node id="PUBLIC REPRIMAND" />
+    <node id="SERIOUS FINDINGS" />
+    <node id="LESS SERIOUS CASES" />
+    <node id="EVIDENCE" />
+    <node id="COMPLIANCE ADVICE LETTERS" />
+    <node id="PECUNIARY PENALTY" />
+    <node id="AML/CFT" />
+    <node id="GUIDANCE NOTE" />
+    <node id="CAPACITY BUILDING" />
+    <node id="ENFORCEMENT ACTION" />
+    <node id="SUPERVISORY FEEDBACK" />
+    <node id="GOOD PRACTICES" />
+    <node id="THEMATIC REVIEWS" />
+    <node id="INDUSTRY ASSOCIATIONS" />
+    <node id="SANCTIONS" />
+    <node id="REGULATORY EXPECTATIONS" />
+    <node id="DIRECT SUPPORT" />
+    <node id="AML/CFT FRAMEWORK" />
+    <node id="CCC" />
+    <node id="SFC" />
+    <node id="IA" />
+    <node id="CCE" />
+    <node id="APG" />
+    <node id="FRAUD AND MONEY LAUNDERING INTELLIGENCE TASKFORCE" />
+    <node id="CUSTOMER DUE DILIGENCE (CDD)" />
+    <node id="COUNTRY RISK" />
+    <node id="BUSINESS RISK" />
+    <node id="PRODUCT/SERVICE RISK" />
+    <node id="DELIVERY/DISTRIBUTION CHANNEL RISK" />
+    <node id="FINANCIAL EXCLUSION" />
+    <node id="ENHANCED DUE DILIGENCE" />
+    <node id="SUPERVISORY STANCE" />
+    <node id="ADMINISTRATIVE MEASURES" />
+    <node id="PRUDENTIAL MEASURES" />
+    <node id="MATERIAL FAILINGS" />
+    <node id="REMEDIAL ACTION PLAN" />
+    <node id="AML/CFT DEFICIENCIES" />
+    <node id="SUPERVISORY PLAN" />
+    <node id="CAMEL RATINGS" />
+    <node id="DTROP" />
+    <node id="OSCO" />
+    <node id="INDEPENDENT PARTY" />
+    <node id="FOLLOW-UP EXAMINATIONS" />
+    <node id="SUPERVISORY RATINGS" />
+    <node id="RING-FENCING MEASURES" />
+    <node id="AUTHORIZATION" />
+    <node id="SUPERVISORY AUTHORITY" />
+    <node id="EXTERNAL AUDITORS" />
+    <node id="SECTION 24(1)" />
+    <node id="SECTION 25(1)" />
+    <node id="SECTION 52" />
+    <node id="SECTION 59(2)" />
+    <node id="SECTION 70A(3)" />
+    <node id="SECTION 71(4)" />
+    <node id="SECTION 97F" />
+    <node id="SECTION 117" />
+    <node id="REGISTERED INSTITUTION" />
+    <node id="DISCIPLINARY POWERS" />
+    <node id="ANTI-MONEY LAUNDERING" />
+    <node id="COUNTER-TERRORIST FINANCING" />
+    <node id="SECTION 58A" />
+    <node id="MISCONDUCT" />
+    <node id="SECTION 196" />
+    <node id="SECTION 197" />
+    <node id="REGULATORY OVERSIGHT" />
+    <node id="REMEDIAL ACTION" />
+    <node id="DAILY PECUNIARY PENALTY" />
+    <node id="SECRETARY FOR JUSTICE" />
+    <node id="SPECIFIED PROVISION" />
+    <node id="OFFENCE" />
+    <node id="REGULATORY RISKS" />
+    <node id="COMPLIANCE MEASURES" />
+    <edge source="HKMA" target="RISK-BASED SUPERVISORY APPROACH">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="HKMA" target="CAMEL RATING SYSTEM">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="HKMA" target="AUTHORIZED INSTITUTIONS">
+      <data key="d0">217.0</data>
+    </edge>
+    <edge source="HKMA" target="RISK-BASED APPROACH">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="HKMA" target="SUPERVISORY PROCESS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="HKMA" target="RISK ASSESSMENT EXERCISE">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="HKMA" target="RISK-FOCUSED EXAMINATION">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="HKMA" target="RISK ASSESSMENT PROCESS">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="HKMA" target="DYNAMIC DOCUMENT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HKMA" target="INHERENT RISKS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="HKMA" target="INHERENT RISK">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="HKMA" target="ANNUAL SUPERVISORY MEETINGS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HKMA" target="RISK MANAGEMENT SYSTEM">
+      <data key="d0">53.0</data>
+    </edge>
+    <edge source="HKMA" target="INTERNAL AUDIT FUNCTION">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="HKMA" target="PRUDENTIAL MEETING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HKMA" target="ON-SITE EXAMINATION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="HKMA" target="TRIPARTITE MEETINGS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HKMA" target="PRE-ON-SITE VISITATION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="HKMA" target="POST-ON-SITE VISITATION">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="HKMA" target="CAMEL RATING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HKMA" target="RISK MANAGEMENT FRAMEWORK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HKMA" target="BASEL CORE PRINCIPLES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="HKMA" target="HEAD OF COMPLIANCE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="HKMA" target="COMPLIANCE FUNCTION">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="HKMA" target="AML/CFT SYSTEMS">
+      <data key="d0">36.0</data>
+    </edge>
+    <edge source="HKMA" target="RISK-BASED SUPERVISION">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="HKMA" target="AML/CFT REGIME">
+      <data key="d0">37.0</data>
+    </edge>
+    <edge source="HKMA" target="FINANCIAL ACTION TASK FORCE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HKMA" target="ASIA/PACIFIC GROUP ON MONEY LAUNDERING">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="HKMA" target="FINANCIAL SANCTIONS">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="HKMA" target="SANCTIONS REGIMES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HKMA" target="ANTI-MONEY LAUNDERING AND COUNTER-TERRORIST FINANCING ORDINANCE">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="HKMA" target="BANKING ORDINANCE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="HKMA" target="AML/CFT GUIDELINE">
+      <data key="d0">42.0</data>
+    </edge>
+    <edge source="HKMA" target="LEGAL AND REGULATORY FRAMEWORK">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="HKMA" target="FINANCIAL INSTITUTIONS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="HKMA" target="DRUG TRAFFICKING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HKMA" target="PROCEEDS OF DRUG TRAFFICKING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HKMA" target="TERRORIST PROPERTY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="HKMA" target="ANTI-MONEY LAUNDERING (AML)">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="HKMA" target="COUNTER-TERRORISM FINANCING (CFT)">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="HKMA" target="TERRORISM">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="HKMA" target="WEAPONS OF MASS DESTRUCTION (WMD)">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="HKMA" target="SECTOR-SPECIFIC GUIDELINES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="HKMA" target="CUSTOMER DUE DILIGENCE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="HKMA" target="HONG KONG ASSOCIATION OF BANKS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HKMA" target="DOMESTIC AND INTERNATIONAL DEVELOPMENTS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="HKMA" target="RISK-BASED APPROACH (RBA)">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="HKMA" target="AUTHORIZED INSTITUTIONS (AIS)">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="HKMA" target="JOINT FINANCIAL INTELLIGENCE UNIT (JFIU)">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="HKMA" target="ILLICIT FUND FLOWS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HKMA" target="VULNERABILITIES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="HKMA" target="FINANCIAL SYSTEM">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="HKMA" target="FATF">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="HKMA" target="AML/CFT CAPACITY">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="HKMA" target="REGULATORY FRAMEWORK">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="HKMA" target="CENTRAL COORDINATING COMMITTEE ON AML/CFT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HKMA" target="LAW ENFORCEMENT AGENCIES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="HKMA" target="BANKING SECTOR">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="HKMA" target="MONEY LAUNDERING/TERRORIST FINANCING (ML/TF)">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HKMA" target="RISK PROFILING">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="HKMA" target="TRADE FINANCE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HKMA" target="PRIVATE BANKING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HKMA" target="INTERNATIONAL FUND TRANSFER">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="HKMA" target="RETAIL BANKING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HKMA" target="CORPORATE BANKING">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="HKMA" target="ML/TF RISK ASSESSMENT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="HKMA" target="RISK RATING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HKMA" target="IMPACT RATING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HKMA" target="RISK-FOCUSED EXAMINATIONS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="HKMA" target="THEMATIC EXAMINATIONS">
+      <data key="d0">16.0</data>
+    </edge>
+    <edge source="HKMA" target="ON-SITE EXAMINATIONS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="HKMA" target="OFF-SITE REVIEWS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="HKMA" target="SELF-ASSESSMENTS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="HKMA" target="AML">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="HKMA" target="CFT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="HKMA" target="AMLO">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="HKMA" target="ENHANCED COMPETENCY FRAMEWORK">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="HKMA" target="SUPERVISORY MEASURES">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="HKMA" target="TRAINING EVENTS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HKMA" target="CIRCULARS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="HKMA" target="ENFORCEMENT TOOLS">
+      <data key="d0">16.0</data>
+    </edge>
+    <edge source="HKMA" target="DEFICIENCIES IN AML/CFT SYSTEMS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="HKMA" target="INDEPENDENT VALIDATION">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="HKMA" target="TIMELINE FOR REMEDIAL ACTIONS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="HKMA" target="RISK MANAGEMENT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="HKMA" target="DISCIPLINARY MEASURES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HKMA" target="COOPERATION">
+      <data key="d0">15.0</data>
+    </edge>
+    <edge source="HKMA" target="GUIDELINE ON EXERCISING POWER TO IMPOSE PECUNIARY PENALTY">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HKMA" target="PUBLIC REPRIMAND">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="HKMA" target="SERIOUS FINDINGS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="HKMA" target="LESS SERIOUS CASES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HKMA" target="EVIDENCE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="HKMA" target="AML/CFT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HKMA" target="GUIDANCE NOTE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HKMA" target="CAPACITY BUILDING">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="HKMA" target="ENFORCEMENT ACTION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="HKMA" target="SUPERVISORY FEEDBACK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HKMA" target="GOOD PRACTICES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HKMA" target="THEMATIC REVIEWS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HKMA" target="INDUSTRY ASSOCIATIONS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="HKMA" target="SANCTIONS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="HKMA" target="REGULATORY EXPECTATIONS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="HKMA" target="DIRECT SUPPORT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HKMA" target="AML/CFT FRAMEWORK">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="HKMA" target="CCC">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HKMA" target="SFC">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HKMA" target="IA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HKMA" target="CCE">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="HKMA" target="APG">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HKMA" target="FRAUD AND MONEY LAUNDERING INTELLIGENCE TASKFORCE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="HKMA" target="FINANCIAL REGULATORS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HKMA" target="SUPERVISORY STANCE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="HKMA" target="TECHNOLOGY">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HKMA" target="ADMINISTRATIVE MEASURES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="HKMA" target="PRUDENTIAL MEASURES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK-BASED SUPERVISORY APPROACH" target="INHERENT RISK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK-BASED SUPERVISORY APPROACH" target="RISK MANAGEMENT SYSTEM">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="RISK-BASED SUPERVISORY APPROACH" target="INHERENT RISKS">
+      <data key="d0">16.0</data>
+    </edge>
+    <edge source="RISK-BASED SUPERVISORY APPROACH" target="EMERGING RISKS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK-BASED SUPERVISORY APPROACH" target="CAMEL RATING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK-BASED SUPERVISORY APPROACH" target="CREDIT RISK">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK-BASED SUPERVISORY APPROACH" target="INSTITUTIONAL OVERVIEW">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK-BASED SUPERVISORY APPROACH" target="RISK ASSESSMENT NARRATIVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK-BASED SUPERVISORY APPROACH" target="RISK-BASED METHODOLOGY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK-BASED SUPERVISORY APPROACH" target="AUTHORIZED INSTITUTIONS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="CAMEL RATING SYSTEM" target="INHERENT RISK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CAMEL RATING SYSTEM" target="RISK-BASED SUPERVISION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CAMEL RATING SYSTEM" target="INHERENT RISKS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="PRUDENTIAL OBLIGATIONS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="INHERENT RISKS">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="FINANCIAL CONDITION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="RISK MANAGEMENT SYSTEM">
+      <data key="d0">26.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="RISK ASSESSMENT NARRATIVE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="SUPERVISORY PROCESS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="RISK-FOCUSED EXAMINATION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="ON-SITE EXAMINATION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="PRUDENTIAL INTERVIEWS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="TRIPARTITE MEETINGS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="INTERNAL AUDIT FUNCTION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="CREDIT RISK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="MARKET RISK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="INTEREST RATE RISK">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="LIQUIDITY RISK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="OPERATIONAL RISK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="REPUTATION RISK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="LEGAL RISK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="STRATEGIC RISK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="EMERGING RISK">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="CAMEL COMPONENTS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="MA">
+      <data key="d0">27.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="RISK MANAGEMENT FRAMEWORK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="RISK COMMITTEE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="MONETARY AUTHORITY">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="NEW PRODUCT APPROVAL POLICY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="RISK LIMITS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="CHIEF RISK OFFICER">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="RISK MANAGEMENT FUNCTION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="FINANCIAL PERFORMANCE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="CAPITAL ALLOCATION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="INTERNAL CONTROL SYSTEM">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="COMPLIANCE FUNCTION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="COMPLIANCE PROGRAMME">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="REGULATORY REQUIREMENTS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="CODES OF CONDUCT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="AML/CFT SYSTEMS">
+      <data key="d0">19.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="CUSTOMER DUE DILIGENCE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="ORGANIZED AND SERIOUS CRIMES ORDINANCE">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="DRUG TRAFFICKING (RECOVERY OF PROCEEDS) ORDINANCE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="RISK OF FRAUD">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="SYSTEMS OF CONTROL">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="RECORD-KEEPING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="MONEY LAUNDERING">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="TERRORIST FINANCING">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="UNATMO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="UNSANCTIONS ORDINANCE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="WMD CONTROL ORDINANCE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="SUSPICIOUS TRANSACTION DETECTION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="AMLO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="SUSPICIOUS TRANSACTION REPORTING">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="RISK ASSESSMENT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="MONEY LAUNDERING/TERRORIST FINANCING RISKS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="SANCTIONS COMPLIANCE">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="COMPLIANCE BURDEN">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="ILLICIT ACTIVITIES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="SUSPICIOUS TRANSACTION REPORTS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="CORRESPONDENT BANKING RELATIONSHIPS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="TRADE-RELATED BUSINESSES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="CROSS-BORDER PAYMENTS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="MONEY LAUNDERING/TERRORIST FINANCING (ML/TF)">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="RISK PROFILING">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="ML/TF RISKS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="MERGER OR ACQUISITION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="RISK PROFILES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="INDEPENDENT VALIDATION">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="REMEDIAL ACTIONS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="AML/CFT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="GUIDANCE NOTE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="RISK ASSESSMENTS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="MATERIAL FAILINGS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="REMEDIAL ACTION PLAN">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="EXTERNAL AUDITORS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="COMPLIANCE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="AML/CFT DEFICIENCIES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="SPECIFIED PROVISION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="OFFENCE">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="REGULATORY RISKS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS" target="COMPLIANCE MEASURES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK-BASED APPROACH" target="KEY BENEFITS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK-BASED APPROACH" target="CAMEL COMPONENTS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="INHERENT RISK" target="CREDIT RISK">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="INHERENT RISK" target="MARKET RISK">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="INHERENT RISK" target="INTEREST RATE RISK">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="INHERENT RISK" target="LIQUIDITY RISK">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="INHERENT RISK" target="OPERATIONAL RISK">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="INHERENT RISK" target="REPUTATION RISK">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="INHERENT RISK" target="LEGAL RISK">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="INHERENT RISK" target="STRATEGIC RISK">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="INHERENT RISK" target="EMERGING RISK">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="INHERENT RISK" target="RISK MANAGEMENT SYSTEM">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="INHERENT RISK" target="HIGH RISK">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="INHERENT RISK" target="MODERATE RISK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="INHERENT RISK" target="LOW RISK">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="INHERENT RISK" target="RISK MATRIX SUMMARY">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="INHERENT RISK" target="RISK ASSESSMENT NARRATIVE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="BOARD OVERSIGHT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="POLICIES AND PROCEDURES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="RISK MEASUREMENT">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="INTERNAL CONTROLS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="COMPREHENSIVE AUDITS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="RISK PROFILE">
+      <data key="d0">16.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="INHERENT RISKS">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="CREDIT RISK">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="RISK-FOCUSED EXAMINATION PROCESS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="RISK ASSESSMENT EXERCISE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="CAMEL RATING">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="RISK-FOCUSED EXAMINATION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="RISK ASSESSMENT PROCESS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="HIGH INHERENT RISK">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="MODERATE INHERENT RISK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="LOW INHERENT RISK">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="HIGH RISK">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="MODERATE RISK">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="LOW RISK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="BOARD AND SENIOR MANAGEMENT OVERSIGHT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="POLICIES, PROCEDURES AND LIMITS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="RISK MEASUREMENT, MONITORING AND MANAGEMENT INFORMATION SYSTEMS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="INTERNAL CONTROLS AND AUDITS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="ACTIVE BOARD AND SENIOR MANAGEMENT OVERSIGHT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="ADEQUATE RISK MEASUREMENT, MONITORING AND MANAGEMENT INFORMATION SYSTEMS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="ESTABLISHED INTERNAL CONTROLS AND AUDITS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="AI">
+      <data key="d0">54.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="RISK MEASUREMENT AND MONITORING SYSTEMS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="RISK EXPOSURE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="MANAGEMENT INFORMATION SYSTEMS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="SENIOR MANAGEMENT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="MATERIAL CHANGES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="ORGANIZATIONAL STRUCTURE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="RISK POLICIES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="RISK MONITORING">
+      <data key="d0">28.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="RISK CONTROL">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="MATERIAL WEAKNESSES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="MANAGEMENT INFORMATION SYSTEM">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="MANAGEMENT COMPONENT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="RISK MANAGEMENT FRAMEWORK">
+      <data key="d0">25.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="RISK MEASUREMENT AND ASSESSMENT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="SENSITIVITY ANALYSIS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="STRESS-TESTING">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="RISK GOVERNANCE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="RISK ASSESSMENTS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="RISK ASSESSMENT">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="RISK MITIGATION STRATEGIES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="RISK MANAGEMENT POLICIES">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="RISK REPORTING">
+      <data key="d0">16.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="RISK CULTURE">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="STRESS TESTING">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="REMUNERATION SYSTEM">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="RISK IDENTIFICATION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="RISK MANAGEMENT PROCEDURES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="NEW PRODUCT APPROVAL POLICY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="RISK MANAGEMENT FUNCTION">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="RISK DRIVERS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="RISK LIMITS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="RISK CONTROLS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="RISK APPETITE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="RISK">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="DATA AVAILABILITY">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="EXPERT JUDGEMENT">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="BACK-TESTING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="PERIODIC UPDATE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="RISK CONCENTRATIONS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="INTERNAL PRICING MECHANISMS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="RISK MITIGATING MEASURES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="RISK FACTORS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT SYSTEM" target="MA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CREDIT RISK" target="INHERENT RISKS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="CREDIT RISK" target="REPUTATION RISK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CREDIT RISK" target="LENDING AREA">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CREDIT RISK" target="CREDIT RISK EVALUATION SYSTEM">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="CREDIT RISK" target="RISK LIMITS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CREDIT RISK" target="RISK REPORTING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CREDIT RISK" target="RISK MANAGEMENT REPORTS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CREDIT RISK" target="CHANGE IN COUNTERPARTY">
+      <data key="d0">16.0</data>
+    </edge>
+    <edge source="MARKET RISK" target="INHERENT RISKS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="MARKET RISK" target="REPUTATION RISK">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MARKET RISK" target="RISK LIMITS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MARKET RISK" target="RISK REPORTING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MARKET RISK" target="RISK MANAGEMENT REPORTS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MARKET RISK" target="RISK PROFILES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTEREST RATE RISK" target="INHERENT RISKS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="INTEREST RATE RISK" target="LIQUIDITY RISK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="INTEREST RATE RISK" target="REPRICING RISK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="INTEREST RATE RISK" target="BASIS RISK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="INTEREST RATE RISK" target="OPTIONS RISK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="INTEREST RATE RISK" target="YIELD CURVE RISK">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="INTEREST RATE RISK" target="RISK LIMITS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="INTEREST RATE RISK" target="RISK REPORTING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="INTEREST RATE RISK" target="RISK MANAGEMENT REPORTS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="LIQUIDITY RISK" target="INHERENT RISKS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="LIQUIDITY RISK" target="OPERATIONAL RISK">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="LIQUIDITY RISK" target="FUNDING LIQUIDITY RISK">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="LIQUIDITY RISK" target="MARKET LIQUIDITY RISK">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="LIQUIDITY RISK" target="REPUTATION RISK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LIQUIDITY RISK" target="RISK LIMITS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="LIQUIDITY RISK" target="RISK REPORTING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LIQUIDITY RISK" target="RISK MANAGEMENT REPORTS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="LIQUIDITY RISK" target="RISK PROFILES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="LIQUIDITY RISK" target="VOLATILITY RISK">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="LIQUIDITY RISK" target="LEGAL RISK">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="LIQUIDITY RISK" target="CHANGE IN DISTRIBUTION CHANNEL">
+      <data key="d0">12.0</data>
+    </edge>
+    <edge source="LIQUIDITY RISK" target="CHANGE IN BOOKING ARRANGEMENT">
+      <data key="d0">14.0</data>
+    </edge>
+    <edge source="LIQUIDITY RISK" target="CHANGE IN SETTLEMENT METHODOLOGY">
+      <data key="d0">12.0</data>
+    </edge>
+    <edge source="OPERATIONAL RISK" target="INHERENT RISKS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="OPERATIONAL RISK" target="REPUTATION RISK">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="OPERATIONAL RISK" target="RISK REPORTING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="OPERATIONAL RISK" target="RISK MANAGEMENT REPORTS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="OPERATIONAL RISK" target="CHANGE IN PLATFORM">
+      <data key="d0">14.0</data>
+    </edge>
+    <edge source="OPERATIONAL RISK" target="CHANGE IN PROCESS">
+      <data key="d0">16.0</data>
+    </edge>
+    <edge source="REPUTATION RISK" target="INHERENT RISKS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="REPUTATION RISK" target="AI">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="REPUTATION RISK" target="LEGAL RISK">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="REPUTATION RISK" target="STRATEGIC RISK">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="REPUTATION RISK" target="RISK APPETITE FRAMEWORK">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="REPUTATION RISK" target="RISK MANAGEMENT POLICIES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="REPUTATION RISK" target="RISK REPORTING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="REPUTATION RISK" target="RISK MANAGEMENT REPORTS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="REPUTATION RISK" target="AIS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LEGAL RISK" target="INHERENT RISKS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="LEGAL RISK" target="AI">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="LEGAL RISK" target="RISK APPETITE FRAMEWORK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LEGAL RISK" target="RISK REPORTING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LEGAL RISK" target="RISK MANAGEMENT REPORTS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="LEGAL RISK" target="MAJOR CHANGES IN DOCUMENTATION">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="STRATEGIC RISK" target="INHERENT RISKS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="STRATEGIC RISK" target="AI">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="STRATEGIC RISK" target="RISK REPORTING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="STRATEGIC RISK" target="RISK MANAGEMENT REPORTS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="STRATEGIC RISK" target="CHANGE IN MARKET POSITIONING">
+      <data key="d0">16.0</data>
+    </edge>
+    <edge source="EMERGING RISK" target="INHERENT RISKS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="EMERGING RISK" target="CLIMATE RISK">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="EMERGING RISK" target="BUSINESS CLIMATE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="EMERGING RISK" target="RISK REPORTING">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="EMERGING RISK" target="RISK MANAGEMENT REPORTS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POLICIES AND PROCEDURES" target="AI">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERNAL CONTROLS" target="AI">
+      <data key="d0">26.0</data>
+    </edge>
+    <edge source="INTERNAL CONTROLS" target="RISK MANAGEMENT">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="INTERNAL CONTROLS" target="RISK MANAGEMENT PROCEDURES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="INTERNAL CONTROLS" target="DEFICIENCIES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="INTERNAL CONTROLS" target="RISK MANAGEMENT FRAMEWORK">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK PROFILE" target="INHERENT RISKS">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="RISK PROFILE" target="BOARD AND SENIOR MANAGEMENT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK PROFILE" target="AI">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="RISK PROFILE" target="RISK APPETITE FRAMEWORK">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK PROFILE" target="NEW PRODUCTS OR SERVICES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK ASSESSMENT" target="SUPERVISORY PROCESS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK ASSESSMENT" target="EXAMINATION TEAMS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK ASSESSMENT" target="AI">
+      <data key="d0">19.0</data>
+    </edge>
+    <edge source="RISK ASSESSMENT" target="RISK MANAGEMENT FRAMEWORK">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK ASSESSMENT" target="AIS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK ASSESSMENT" target="METHODOLOGIES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SUPERVISORY PROCESS" target="RISK ASSESSMENT NARRATIVE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="INHERENT RISKS" target="EMERGING RISKS">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="INHERENT RISKS" target="RISK-BASED SUPERVISION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="INHERENT RISKS" target="RISK ASSESSMENT EXERCISE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="INHERENT RISKS" target="RISK ASSESSMENT PROCESS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="INHERENT RISKS" target="FUNCTIONAL ACTIVITY">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="INHERENT RISKS" target="QUALITATIVE FACTORS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="INHERENT RISKS" target="QUANTITATIVE FACTORS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="INHERENT RISKS" target="CAMEL RATING">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="INHERENT RISKS" target="RISK MANAGEMENT FRAMEWORK">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="EMERGING RISKS" target="BOARD AND SENIOR MANAGEMENT">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="EMERGING RISKS" target="AI">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="EMERGING RISKS" target="RISK MANAGEMENT FUNCTION">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK-BASED SUPERVISION" target="LEGAL AND REGULATORY FRAMEWORK">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK-BASED SUPERVISION" target="MONEY LAUNDERING/TERRORIST FINANCING RISK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK-BASED SUPERVISION" target="HIGH ML/TF RISK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK-BASED SUPERVISION" target="LOW ML/TF RISK">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK-BASED SUPERVISION" target="ML/TF RISK ASSESSMENT">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CAMEL RATING" target="RISK MANAGEMENT RATING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CAMEL RATING" target="AI">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT RATING" target="RISK ASSESSMENT NARRATIVE">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT RATING" target="CONSOLIDATED RISK MANAGEMENT SYSTEM">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT RATING" target="CAMEL COMPONENTS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT RATING" target="CREDIT RISK MANAGEMENT PROCESS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INSTITUTIONAL OVERVIEW" target="PROBLEM ISSUES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK ASSESSMENT NARRATIVE" target="RISK MATRIX SUMMARY">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK ASSESSMENT NARRATIVE" target="HIGH INHERENT RISK">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK ASSESSMENT NARRATIVE" target="MODERATE INHERENT RISK">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="RISK ASSESSMENT NARRATIVE" target="LOW INHERENT RISK">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK ASSESSMENT NARRATIVE" target="AGGREGATE RISK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK ASSESSMENT NARRATIVE" target="KEY RISKS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK ASSESSMENT NARRATIVE" target="SUPERVISORY CONCERNS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FINANCIAL CONDITION" target="COMPOSITE CAMEL RATING">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="FINANCIAL CONDITION" target="NEW PRODUCTS OR SERVICES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FINANCIAL CONDITION" target="MA">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK ASSESSMENT EXERCISE" target="PLANNING AND SCOPE MEMORANDUM">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK ASSESSMENT EXERCISE" target="PHASE ONE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK ASSESSMENT EXERCISE" target="PHASE TWO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK ASSESSMENT EXERCISE" target="PHASE THREE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK ASSESSMENT PROCESS" target="OVERALL RISK PROFILE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK ASSESSMENT PROCESS" target="RISK LEVEL">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK ASSESSMENT PROCESS" target="EXTERNAL RISK FACTORS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK ASSESSMENT PROCESS" target="CASE OFFICERS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HIGH INHERENT RISK" target="FULL-SCOPE REVIEW">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MODERATE INHERENT RISK" target="LIMITED REVIEW">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="LOW INHERENT RISK" target="NO REVIEW">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="HIGH RISK" target="COMPOSITE RISK PROFILE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MODERATE RISK" target="COMPOSITE RISK PROFILE">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="LOW RISK" target="COMPOSITE RISK PROFILE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="COMPOSITE RISK PROFILE" target="DIRECTION OF RISK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="ON-SITE EXAMINATION" target="CASE OFFICERS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CONSOLIDATED RISK MANAGEMENT SYSTEM" target="INTERNAL AUDIT FUNCTION">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT FUNCTION" target="THIRD LINE OF DEFENCE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT FUNCTION" target="INTERNAL CONTROL SYSTEM">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT FUNCTION" target="PERFORMANCE ASSESSMENT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT FUNCTION" target="AI">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT FUNCTION" target="COMPLIANCE FUNCTION">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AI" target="COMPLIANCE MONITORING PROCEDURES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI" target="BOARD AND SENIOR MANAGEMENT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AI" target="STAFFING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI" target="ACCOUNTABILITY">
+      <data key="d0">16.0</data>
+    </edge>
+    <edge source="AI" target="INTERNAL CONTROL UNIT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AI" target="RISK FACTORS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AI" target="DOCUMENTATION">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AI" target="COMPLIANCE">
+      <data key="d0">27.0</data>
+    </edge>
+    <edge source="AI" target="ORGANIZATIONAL STRUCTURE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI" target="INTERNAL AUDIT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI" target="RISK">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AI" target="FINANCIAL REPORTING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AI" target="REGULATORY REPORTING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AI" target="RISK POLICIES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI" target="RISK EXPOSURE">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="AI" target="LENDING GUIDELINES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AI" target="RISK MANAGEMENT">
+      <data key="d0">26.0</data>
+    </edge>
+    <edge source="AI" target="BOARD AND SENIOR MANAGEMENT OVERSIGHT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AI" target="RISK MANAGEMENT PRACTICES">
+      <data key="d0">16.0</data>
+    </edge>
+    <edge source="AI" target="RISK MONITORING PROCEDURES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI" target="MANAGEMENT INFORMATION SYSTEMS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AI" target="SUPERVISORY ATTENTION">
+      <data key="d0">11.0</data>
+    </edge>
+    <edge source="AI" target="RISK MANAGEMENT WEAKNESSES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI" target="SUPERVISORY CONCERN">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AI" target="INTERNAL CONTROL SYSTEM">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AI" target="CONTROL EXCEPTIONS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI" target="WRITTEN POLICIES AND PROCEDURES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI" target="RISK EXPOSURES">
+      <data key="d0">27.0</data>
+    </edge>
+    <edge source="AI" target="SUPERVISORY STANDARDS">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="AI" target="FINANCIAL RECORDS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AI" target="OPERATING LOSSES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AI" target="MARGINAL RISK MANAGEMENT PRACTICES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI" target="CRITICAL ABSENCE OF EFFECTIVE RISK MANAGEMENT">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AI" target="SIGNIFICANT RISKS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AI" target="RISK MANAGEMENT PROCEDURES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AI" target="DEFICIENCIES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AI" target="REGULATORY REPORTS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI" target="ACCOUNTING RECORDS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AI" target="RISK GOVERNANCE ARRANGEMENTS">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="AI" target="RISK APPETITE FRAMEWORK">
+      <data key="d0">26.0</data>
+    </edge>
+    <edge source="AI" target="MATERIAL RISK-RELATED INFORMATION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AI" target="OBSTACLES TO INFORMATION SHARING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI" target="RISK MANAGEMENT PROCESS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AI" target="REMUNERATION SYSTEM">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI" target="BEST PRACTICES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI" target="TRANSPARENT COMMUNICATION MECHANISMS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI" target="INTERNAL POLICIES">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="AI" target="STRATEGIC PLANS">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="AI" target="RISK APPETITE STATEMENT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI" target="BOARD">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AI" target="FIRM-WIDE RISK MANAGEMENT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AI" target="CAPITAL">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AI" target="STRESS TESTS">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="AI" target="RISK LEVELS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AI" target="MANAGEMENT ACTIONS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI" target="RISK LIMITS">
+      <data key="d0">25.0</data>
+    </edge>
+    <edge source="AI" target="RISK APPETITE">
+      <data key="d0">25.0</data>
+    </edge>
+    <edge source="AI" target="COMPETENCE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AI" target="RISK CULTURE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI" target="CAPITAL MANAGEMENT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI" target="LIQUIDITY MANAGEMENT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AI" target="RISK MANAGEMENT POLICIES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AI" target="RISK MONITORING CAPABILITY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AI" target="RISK CONCENTRATION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI" target="RISK MANAGEMENT FRAMEWORK">
+      <data key="d0">27.0</data>
+    </edge>
+    <edge source="AI" target="CAPITAL STRENGTH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI" target="LIQUIDITY RESOURCES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AI" target="CHIEF RISK OFFICER">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AI" target="NEW PRODUCTS OR SERVICES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AI" target="POST-IMPLEMENTATION EVALUATION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI" target="RISK MITIGATION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AI" target="RISK MONITORING">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="AI" target="RISK CONTROLS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AI" target="RISK ASSESSMENT MODELS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI" target="RISK INFORMATION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AI" target="HIGH RISK ACTIVITIES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AI" target="RISK MITIGATING ACTIONS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AI" target="RISK MANAGEMENT FUNCTION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AI" target="COMPLIANCE FUNCTION">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="AI" target="AUDIT COMMITTEE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI" target="RISK COMMITTEE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI" target="REGULATORY REQUIREMENTS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AI" target="COMPLIANCE RISK">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AI" target="CONTINGENCY PLANNING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI" target="BUSINESS CONTINUITY PLANNING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AI" target="RECOVERY PLANNING">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AI" target="AML/CFT DEFICIENCIES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AI" target="SUPERVISORY PLAN">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI" target="CAMEL RATINGS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AI" target="DTROP">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI" target="OSCO">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI" target="UNATMO">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AI" target="INDEPENDENT PARTY">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AI" target="REMEDIAL ACTIONS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AI" target="FOLLOW-UP EXAMINATIONS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI" target="SUPERVISORY RATINGS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AI" target="RING-FENCING MEASURES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AI" target="AUTHORIZATION">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AI" target="MONEY LAUNDERING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AI" target="TERRORIST FINANCING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AI" target="SUPERVISORY AUTHORITY">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="BOARD AND SENIOR MANAGEMENT OVERSIGHT" target="RISK MANAGEMENT">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="BOARD AND SENIOR MANAGEMENT" target="RISK CULTURE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BOARD AND SENIOR MANAGEMENT" target="RISK APPETITE FRAMEWORK">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="BOARD AND SENIOR MANAGEMENT" target="RISK MANAGEMENT PROCESS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="BOARD AND SENIOR MANAGEMENT" target="RISK METHODOLOGIES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="STAFFING" target="NEW PRODUCTS OR SERVICES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK EXPOSURE" target="NEW PRODUCTS OR SERVICES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK EXPOSURE" target="RISK MANAGEMENT FUNCTION">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="COMPLIANCE" target="RISK MANAGEMENT UNIT">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="COMPLIANCE" target="AUTHORIZED INSTITUTION">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="COMPLIANCE" target="NEW PRODUCTS OR SERVICES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="COMPLIANCE" target="INTERNAL CONTROL SYSTEM">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="COMPLIANCE" target="MA">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SENIOR MANAGEMENT" target="BOARD">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SENIOR MANAGEMENT" target="BOARD OF DIRECTORS">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="SENIOR MANAGEMENT" target="SPECIALIZED COMMITTEES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SENIOR MANAGEMENT" target="ASSET AND LIABILITY COMMITTEE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SENIOR MANAGEMENT" target="CREDIT COMMITTEE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SENIOR MANAGEMENT" target="OPERATIONAL RISK MANAGEMENT COMMITTEE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SENIOR MANAGEMENT" target="RISK MANAGEMENT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SENIOR MANAGEMENT" target="RISK MANAGEMENT PROCEDURES">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="SENIOR MANAGEMENT" target="RISK MANAGEMENT FRAMEWORK">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="SENIOR MANAGEMENT" target="RISK EXPOSURES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SENIOR MANAGEMENT" target="NEW PRODUCTS OR SERVICES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SENIOR MANAGEMENT" target="INFORMATION SYSTEMS AND INFRASTRUCTURE">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="SENIOR MANAGEMENT" target="CONTROL FUNCTIONS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SENIOR MANAGEMENT" target="RISK MANAGEMENT POLICIES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SENIOR MANAGEMENT" target="RISK MANAGEMENT LIMITS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SENIOR MANAGEMENT" target="CHIEF RISK OFFICER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SENIOR MANAGEMENT" target="RISK MANAGEMENT INFORMATION SYSTEM">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SENIOR MANAGEMENT" target="COMPLIANCE FUNCTION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BOARD" target="RISK GOVERNANCE ARRANGEMENTS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="BOARD" target="RISK APPETITE FRAMEWORK">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="BOARD" target="RISK APPETITE STATEMENT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="BOARD" target="RISK MANAGEMENT FRAMEWORK">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="BOARD" target="FIRM-WIDE RISKS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BOARD" target="RISK MANAGEMENT STRATEGIES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="BOARD" target="RISK MANAGEMENT OVERSIGHT">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="BOARD" target="RISK MANAGEMENT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="BOARD" target="SPECIALIZED COMMITTEES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="BOARD" target="RISK LIMITS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="BOARD" target="NEW PRODUCTS OR SERVICES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="BOARD" target="CHIEF RISK OFFICER">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="BOARD" target="RISK COMMITTEE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BOARD" target="HEAD OF COMPLIANCE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BOARD" target="COMPLIANCE POLICY">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BOARD" target="AUDIT COMMITTEE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK" target="QUANTIFIABLE RISK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK" target="NON-QUANTIFIABLE RISK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MANAGEMENT INFORMATION SYSTEM" target="RISK MANAGEMENT FUNCTION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="LENDING AREA" target="UNDERWRITING STANDARDS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="PROBLEM CREDITS" target="PROVISIONING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MANAGEMENT COMPONENT" target="ASSET QUALITY COMPONENT">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MANAGEMENT COMPONENT" target="EARNINGS COMPONENT">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="LIQUIDITY COMPONENT" target="CAPITAL ADEQUACY COMPONENT">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT" target="AUTHORIZED INSTITUTION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT" target="RISK EXPOSURES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT" target="DAY-TO-DAY RISK MANAGEMENT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT" target="RISK CULTURE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT" target="NEW PRODUCTS OR SERVICES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT" target="CHIEF RISK OFFICER">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT" target="NEW PRODUCT COMMITTEE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT PRACTICES" target="INTERNAL CONTROL SYSTEM">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="SUPERVISORY ATTENTION" target="VIABILITY">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="INTERNAL CONTROL SYSTEM" target="STRESS TESTING">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="INTERNAL CONTROL SYSTEM" target="POLICIES AND LIMITS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="INTERNAL CONTROL SYSTEM" target="OPERATING RISK">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERNAL CONTROL SYSTEM" target="RISK MANAGEMENT FRAMEWORK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="INTERNAL CONTROL SYSTEM" target="AUDITS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK EXPOSURES" target="RISK MANAGEMENT FRAMEWORK">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT PROCEDURES" target="DEFICIENCIES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT PROCEDURES" target="RISK APPETITE FRAMEWORK">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="DEFICIENCIES" target="VIABILITY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MA" target="AML/CFT SYSTEMS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MA" target="EXTERNAL AUDITORS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MA" target="SECTION 24(1)">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MA" target="SECTION 25(1)">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MA" target="SECTION 52">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MA" target="SECTION 59(2)">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MA" target="SECTION 70A(3)">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MA" target="SECTION 71(4)">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MA" target="SECTION 97F">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MA" target="SECTION 117">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="MA" target="REGISTERED INSTITUTION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MA" target="DISCIPLINARY POWERS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MA" target="SFC">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MA" target="ANTI-MONEY LAUNDERING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MA" target="COUNTER-TERRORIST FINANCING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MA" target="SECTION 58A">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MA" target="FINANCIAL INSTITUTIONS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MA" target="MISCONDUCT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MA" target="AMLO">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MA" target="PECUNIARY PENALTY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MA" target="REMEDIAL ACTION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MA" target="DAILY PECUNIARY PENALTY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MA" target="SECRETARY FOR JUSTICE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="MA" target="SUPERVISORY MEASURES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT FRAMEWORK" target="RISK GOVERNANCE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT FRAMEWORK" target="RISK APPETITE FRAMEWORK">
+      <data key="d0">15.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT FRAMEWORK" target="RISK MANAGEMENT POLICIES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT FRAMEWORK" target="COMPLIANCE FUNCTION">
+      <data key="d0">16.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT FRAMEWORK" target="CONTINGENCY PLANNING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT FRAMEWORK" target="RISK LIMITS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT FRAMEWORK" target="NEW PRODUCTS AND SERVICES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT FRAMEWORK" target="RISK COMMITTEE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT FRAMEWORK" target="CAPITAL MANAGEMENT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT FRAMEWORK" target="LIQUIDITY MANAGEMENT">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT FRAMEWORK" target="RISK MANAGEMENT STRATEGIES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT FRAMEWORK" target="CHIEF RISK OFFICER">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT FRAMEWORK" target="POLICIES AND CONTROL PROCEDURES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT FRAMEWORK" target="MATERIAL RISK MANAGEMENT DEFICIENCIES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK GOVERNANCE" target="RISK MANAGEMENT UNIT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK APPETITE FRAMEWORK" target="RISK GOVERNANCE ARRANGEMENTS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK APPETITE FRAMEWORK" target="AUTHORIZED INSTITUTION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK APPETITE FRAMEWORK" target="RISK LIMITS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="RISK APPETITE FRAMEWORK" target="RISK-TAKING CAPACITY">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK APPETITE FRAMEWORK" target="CONDUCT RISK">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK APPETITE FRAMEWORK" target="RISK APPETITE STATEMENT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK APPETITE FRAMEWORK" target="RISK MANAGEMENT FUNCTION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT POLICIES" target="FIRM-WIDE RISK MANAGEMENT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT POLICIES" target="RISK COMMITTEE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT POLICIES" target="SENSITIVITY ANALYSIS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT POLICIES" target="STRESS TESTS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT POLICIES" target="LEGAL AND REGULATORY REQUIREMENTS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT POLICIES" target="RISK-MITIGATING TECHNIQUES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT POLICIES" target="RISK LIMITS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT POLICIES" target="RISK MANAGEMENT FUNCTION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="COMPLIANCE FUNCTION" target="SECOND LINE OF DEFENCE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="COMPLIANCE FUNCTION" target="COMPLIANCE RISK">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="COMPLIANCE FUNCTION" target="REGULATORY REQUIREMENTS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="COMPLIANCE FUNCTION" target="HEAD OF COMPLIANCE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="COMPLIANCE FUNCTION" target="INDEPENDENT COMPLIANCE FUNCTION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="COMPLIANCE FUNCTION" target="COMPLIANCE MATTERS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="COMPLIANCE FUNCTION" target="CODES OF CONDUCT">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK LIMITS" target="RISK GOVERNANCE FRAMEWORK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK LIMITS" target="RISK APPETITE">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="RISK LIMITS" target="CHIEF RISK OFFICER">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK LIMITS" target="BUSINESS UNITS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK LIMITS" target="RISK MANAGEMENT REPORTS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK MEASUREMENT AND ASSESSMENT" target="AIS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK MEASUREMENT AND ASSESSMENT" target="RISK METHODOLOGIES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BOARD OF DIRECTORS" target="DEFICIENCIES IN AML/CFT SYSTEMS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK GOVERNANCE FRAMEWORK" target="FIRST LINE OF DEFENCE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK GOVERNANCE FRAMEWORK" target="SECOND LINE OF DEFENCE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK GOVERNANCE FRAMEWORK" target="THIRD LINE OF DEFENCE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK GOVERNANCE FRAMEWORK" target="RISK APPETITE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="FIRST LINE OF DEFENCE" target="SECOND LINE OF DEFENCE">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="FIRST LINE OF DEFENCE" target="RISK OWNERS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SECOND LINE OF DEFENCE" target="THIRD LINE OF DEFENCE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK APPETITE" target="RISK COMMITTEE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK APPETITE" target="NEW PRODUCTS OR SERVICES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK APPETITE" target="CHIEF RISK OFFICER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK APPETITE" target="RISK MANAGEMENT FUNCTION">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK APPETITE" target="RISK MANAGEMENT REPORTS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="CONTROL ENVIRONMENT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SPECIALIZED COMMITTEES" target="RISK COMMITTEE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SPECIALIZED COMMITTEES" target="REMUNERATION COMMITTEE">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="SPECIALIZED COMMITTEES" target="OTHER RISK MANAGEMENT COMMITTEES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK COMMITTEE" target="CHIEF RISK OFFICER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK COMMITTEE" target="STRESS TESTING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK MITIGATION STRATEGIES" target="NEW PRODUCTS OR SERVICES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="COMPLIANCE FRAMEWORK" target="REGULATORY COMPLIANCE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK CULTURE" target="RISK MANAGEMENT UNIT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK CULTURE" target="INDIVIDUAL BUSINESS UNITS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT UNIT" target="INDIVIDUAL BUSINESS UNITS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT UNIT" target="OBSTACLES TO RISK MANAGEMENT">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK GOVERNANCE ARRANGEMENTS" target="RISK MANAGEMENT FUNCTION">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MATERIAL RISK-RELATED INFORMATION" target="OBSTACLES TO INFORMATION SHARING">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK APPETITE STATEMENT" target="FIRM-WIDE RISK MANAGEMENT">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="FIRM-WIDE RISK MANAGEMENT" target="RISK MITIGATION">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="STRESS TESTS" target="AIS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="NEW PRODUCTS OR SERVICES" target="COST AND BENEFIT ANALYSIS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NEW PRODUCTS OR SERVICES" target="SYSTEM ENHANCEMENT">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NEW PRODUCTS OR SERVICES" target="TECHNOLOGY">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="MONETARY AUTHORITY" target="SYSTEMICALLY IMPORTANT INSTITUTIONS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NEW PRODUCT APPROVAL POLICY" target="RISK MANAGEMENT TOOLS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NEW PRODUCT APPROVAL POLICY" target="APPROVAL PROCEDURES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CHIEF RISK OFFICER" target="EXCESS OR EXCEPTIONS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CHIEF RISK OFFICER" target="RISK MANAGEMENT FUNCTION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="CHIEF RISK OFFICER" target="MATERIAL BREACH">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CHIEF RISK OFFICER" target="RISK MANAGEMENT ACTIVITIES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="PRODUCT RISK PROFILE" target="SIGNIFICANT CHANGES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT FUNCTION" target="RISK MANAGEMENT PROCESSES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT FUNCTION" target="RISK MEASUREMENT TECHNIQUES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT FUNCTION" target="RISK MANAGEMENT INFORMATION SYSTEM">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT FUNCTION" target="RISK REPORTING FRAMEWORK">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT INFORMATION SYSTEM" target="RISK DATA AGGREGATION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT INFORMATION SYSTEM" target="RISK MANAGEMENT REPORTS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK DATA AGGREGATION" target="RISK MANAGEMENT REPORTS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT REPORTS" target="REGULATORY RATIOS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT REPORTS" target="RISK CONCENTRATIONS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AIS" target="RISK MEASURES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AIS" target="RISK-ADJUSTED PERFORMANCE MEASUREMENT">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AIS" target="RISK MANAGEMENT MODELS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AIS" target="MACROECONOMIC TRENDS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="AIS" target="QUALITATIVE APPROACH">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AIS" target="RELEVANT RISKS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AIS" target="LIMITATIONS OF MODELS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AIS" target="DECISION-MAKING">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="METHODOLOGIES" target="ASSUMPTIONS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK MITIGATING MEASURES" target="AML/CFT SYSTEMS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POLICIES AND CONTROL PROCEDURES" target="COMPLIANCE WITH INTERNAL POLICIES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AUDIT COMMITTEE" target="COMPLIANCE POLICY">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="REGULATORY REQUIREMENTS" target="COMPLIANCE PROGRAMME">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="EUROPEAN CALL OPTION" target="RISK PROFILES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="EUROPEAN CALL OPTION" target="HEDGING STRATEGY">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="RISK PROFILES" target="TREASURIES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK PROFILES" target="KOREAN WON">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK PROFILES" target="HEDGING STRATEGY">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="RISK PROFILES" target="REGULATORY RISK">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK PROFILES" target="AMERICAN OPTION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK PROFILES" target="OFF-SHORE KOREAN WON">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK PROFILES" target="ON-SHORE KOREAN WON">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="HEDGING STRATEGY" target="TREASURIES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="VOLATILITY RISK" target="CHANGE IN CURRENCY DENOMINATION">
+      <data key="d0">14.0</data>
+    </edge>
+    <edge source="AML/CFT SYSTEMS" target="MONEY LAUNDERING">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AML/CFT SYSTEMS" target="TERRORIST FINANCING">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AML/CFT SYSTEMS" target="ENFORCEMENT TOOLS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AML/CFT REGIME" target="MONEY LAUNDERING AND TERRORIST FINANCING">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AML/CFT REGIME" target="GOVERNMENT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING AND TERRORIST FINANCING" target="PROLIFERATION OF WEAPONS OF MASS DESTRUCTION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING AND TERRORIST FINANCING" target="INTERNATIONAL STANDARDS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="FINANCIAL INSTITUTIONS" target="SFC">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FINANCIAL INSTITUTIONS" target="REGULATORY OVERSIGHT">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING" target="COMPLIANCE EFFORTS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="TERRORIST FINANCING" target="COMPLIANCE EFFORTS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ANTI-MONEY LAUNDERING (AML)" target="GOVERNMENT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SECTOR-SPECIFIC GUIDELINES" target="REGULATORY AUTHORITIES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="GOVERNMENT" target="COUNTER FINANCING OF TERRORISM (CFT)">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="GOVERNMENT" target="FINANCIAL SYSTEM">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK-BASED APPROACH (RBA)" target="AUTHORIZED INSTITUTIONS (AIS)">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK-BASED APPROACH (RBA)" target="CUSTOMER DUE DILIGENCE (CDD)">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK-BASED APPROACH (RBA)" target="COUNTRY RISK">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="RISK-BASED APPROACH (RBA)" target="BUSINESS RISK">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="RISK-BASED APPROACH (RBA)" target="PRODUCT/SERVICE RISK">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="RISK-BASED APPROACH (RBA)" target="DELIVERY/DISTRIBUTION CHANNEL RISK">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="RISK-BASED APPROACH (RBA)" target="FINANCIAL EXCLUSION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS (AIS)" target="MONEY LAUNDERING (ML)">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS (AIS)" target="TERRORIST FINANCING (TF)">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTIONS (AIS)" target="COMPLIANCE OBLIGATIONS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING (ML)" target="CUSTOMER DUE DILIGENCE (CDD)">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="TERRORIST FINANCING (TF)" target="CUSTOMER DUE DILIGENCE (CDD)">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CENTRAL COORDINATING COMMITTEE ON AML/CFT" target="FINANCIAL REGULATORS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="LAW ENFORCEMENT AGENCIES" target="SUSPICIOUS TRANSACTION REPORTS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ML/TF RISK ASSESSMENT" target="RISK RATING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK PROFILING" target="ML/TF RISKS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK RATING" target="IMPACT RATING">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="HEADS OF COMPLIANCE" target="MONEY LAUNDERING RISK">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="HEADS OF COMPLIANCE" target="TERRORIST FINANCING RISK">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ENFORCEMENT TOOLS" target="COMPLIANCE ADVICE LETTERS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="ENFORCEMENT TOOLS" target="PECUNIARY PENALTY">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="DEFICIENCIES IN AML/CFT SYSTEMS" target="CHIEF EXECUTIVE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SFC" target="SECTION 196">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SFC" target="SECTION 197">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SFC" target="MISCONDUCT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CUSTOMER DUE DILIGENCE (CDD)" target="ENHANCED DUE DILIGENCE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AML/CFT DEFICIENCIES" target="REGISTERED INSTITUTION">
+      <data key="d0">1.0</data>
+    </edge>
+  </graph>
+</graphml>

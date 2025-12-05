@@ -1,0 +1,2784 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="edge" attr.name="weight" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="TERRORIST FINANCING" />
+    <node id="FATF" />
+    <node id="UNITED NATIONS (SANCTIONS) ORDINANCE" />
+    <node id="UNITED NATIONS (ANTI-TERRORISM MEASURES) ORDINANCE" />
+    <node id="MONEY LAUNDERING REGIME" />
+    <node id="SPECIAL RECOMMENDATIONS ON TERRORIST FINANCING" />
+    <node id="UNITED NATIONS SECURITY COUNCIL" />
+    <node id="UNSC RESOLUTION 1373" />
+    <node id="UNITED NATIONS SECURITY COUNCIL RESOLUTIONS" />
+    <node id="UNITED NATIONS SANCTIONS (AFGHANISTAN) REGULATION" />
+    <node id="DESIGNATED TERRORISTS" />
+    <node id="GAZETTE" />
+    <node id="THE ORDINANCE" />
+    <node id="AUTHORIZED INSTITUTION" />
+    <node id="THE GAZETTE" />
+    <node id="REPORTING OBLIGATION" />
+    <node id="DATABASE OF TERRORIST SUSPECTS" />
+    <node id="SUSPICIOUS TRANSACTION IDENTIFICATION SYSTEM" />
+    <node id="FATF GUIDANCE ON TERRORIST FINANCING" />
+    <node id="STAFF TRAINING AND GUIDANCE" />
+    <node id="WIRE TRANSFER MONITORING" />
+    <node id="TERRORIST PROPERTY" />
+    <node id="SUSPICIOUS TRANSACTION REPORTING" />
+    <node id="THIRD PARTY SERVICE PROVIDERS" />
+    <node id="US EXECUTIVE ORDER OF 23 SEPTEMBER 2001" />
+    <node id="NON-PROFIT ORGANISATIONS" />
+    <node id="JFIU" />
+    <node id="HKMA" />
+    <node id="FATF PAPER ON TERRORIST FINANCING" />
+    <node id="SUSPICIOUS TRANSACTION REPORT" />
+    <node id="SUSPICIOUS TRANSACTION" />
+    <node id="LIST OF SUSPECTED TERRORISTS" />
+    <node id="FATF FORTY RECOMMENDATIONS" />
+    <node id="FINANCIAL INSTITUTIONS" />
+    <node id="NON-FINANCIAL INSTITUTIONS" />
+    <node id="BASEL CUSTOMER DUE DILIGENCE REQUIREMENTS" />
+    <node id="RISK-BASED APPROACH" />
+    <node id="CUSTOMER DUE DILIGENCE (CDD)" />
+    <node id="SIMPLIFIED CUSTOMER DUE DILIGENCE" />
+    <node id="ENHANCED CUSTOMER DUE DILIGENCE" />
+    <node id="SUSPICION OF MONEY LAUNDERING" />
+    <node id="PUBLIC DISCLOSURE" />
+    <node id="RISK OF MONEY LAUNDERING" />
+    <node id="REGULATORY REGIME FOR PROFESSIONAL INTERMEDIARIES" />
+    <node id="GUIDELINE ON PREVENTION OF MONEY LAUNDERING" />
+    <node id="SUPPLEMENT TO THE GUIDELINE ON PREVENTION OF MONEY LAUNDERING" />
+    <node id="MONEY LAUNDERING RISK" />
+    <node id="PROFESSIONAL INTERMEDIARIES" />
+    <node id="AML/CFT SYSTEM" />
+    <node id="CUSTOMER" />
+    <node id="BENEFICIAL OWNER" />
+    <node id="CUSTOMER DUE DILIGENCE (CDD) REQUIREMENTS" />
+    <node id="SENIOR MANAGEMENT" />
+    <node id="DOCUMENTATION REQUIREMENTS" />
+    <node id="GROUP POLICIES" />
+    <node id="RELEVANT AUTHORITY" />
+    <node id="BANKING GROUP" />
+    <node id="CUSTOMER DUE DILIGENCE" />
+    <node id="IDENTITY VERIFICATION" />
+    <node id="JURISDICTIONS WITH INSUFFICIENT FATF COMPLIANCE" />
+    <node id="NON-RESIDENT CUSTOMER IDENTIFICATION" />
+    <node id="MONEY LAUNDERING" />
+    <node id="ENHANCED CDD PROCESS" />
+    <node id="NON-PHYSICAL PRESENCE CUSTOMER VERIFICATION" />
+    <node id="FATF RECOMMENDATIONS" />
+    <node id="RISK MITIGATING MEASURES" />
+    <node id="IDENTITY DOCUMENTS" />
+    <node id="CUSTOMER ADDRESS VERIFICATION" />
+    <node id="WATCH LISTS" />
+    <node id="ADDRESS VERIFICATION" />
+    <node id="THIRD PARTY PAYMENT APPROVAL" />
+    <node id="WATCH LIST SCREENING" />
+    <node id="CUSTOMER IDENTITY VERIFICATION" />
+    <node id="FUNDS REPAYMENT POLICY" />
+    <node id="UTILITY BILL" />
+    <node id="RATES BILL" />
+    <node id="HOME VISIT" />
+    <node id="COMPETENT NATIONAL AUTHORITY" />
+    <node id="CUSTOMER DUE DILIGENCE PROCESS" />
+    <node id="SIMPLIFIED CUSTOMER DUE DILIGENCE PROCESS" />
+    <node id="NON-ACCOUNT HOLDER TRANSACTIONS" />
+    <node id="CASHIER ORDER" />
+    <node id="GIFT CHEQUE" />
+    <node id="WIRE TRANSFER" />
+    <node id="CURRENCY EXCHANGE TRANSACTION" />
+    <node id="TRAVEL DOCUMENT" />
+    <node id="IMMIGRATION OFFICER" />
+    <node id="RECOGNISED STOCK EXCHANGE" />
+    <node id="FINANCIAL ACTION TASK FORCE (FATF)" />
+    <node id="SECURITIES AND FUTURES ORDINANCE" />
+    <node id="STATE-OWNED ENTERPRISES" />
+    <node id="PRINCIPAL SHAREHOLDER" />
+    <node id="EQUIVALENT JURISDICTIONS" />
+    <node id="INTERNATIONAL MONETARY FUND" />
+    <node id="WORLD BANK" />
+    <node id="ACCOUNT SIGNATORY" />
+    <node id="STATE-OWNED ENTERPRISE" />
+    <node id="MUTUAL EVALUATIONS" />
+    <node id="COUNTRY ASSESSMENTS" />
+    <node id="FATF-STYLE REGIONAL BODIES" />
+    <node id="IMF" />
+    <node id="ANTI-MONEY LAUNDERING/COUNTER-TERRORIST FINANCING SYSTEMS AND CONTROLS" />
+    <node id="OFFSHORE INVESTMENT VEHICLES" />
+    <node id="PROFESSIONAL THIRD PARTIES" />
+    <node id="COMPREHENSIVE CUSTOMER DUE DILIGENCE PROCESS" />
+    <node id="DOCUMENTATION FROM PROFESSIONAL THIRD PARTIES" />
+    <node id="PRIVATE BANKING RELATIONSHIP" />
+    <node id="COMPANY SEARCHES" />
+    <node id="CERTIFICATES OF INCUMBENCY" />
+    <node id="EXCEPTIONS TO CUSTOMER DUE DILIGENCE REQUIREMENTS" />
+    <node id="SELF-DECLARATIONS" />
+    <node id="ULTIMATE BENEFICIAL OWNERS" />
+    <node id="JURISDICTION" />
+    <node id="AI POLICY" />
+    <node id="TRUSTEE" />
+    <node id="WAIVER" />
+    <node id="RESIDENTIAL ADDRESS VERIFICATION" />
+    <node id="E-BANKING TRANSACTION APPROVER" />
+    <node id="EXPRESS TRUST" />
+    <node id="CORPORATE CUSTOMER" />
+    <node id="DIRECTOR" />
+    <node id="SIGNATORY" />
+    <node id="SETTLOR/GRANTOR/FOUNDER" />
+    <node id="PROTECTOR" />
+    <node id="KNOWN BENEFICIARY" />
+    <node id="TRUST SUBSIDIARY" />
+    <node id="BEARER SHARES" />
+    <node id="BENEFICIAL OWNER DECLARATION" />
+    <node id="SOURCE OF FUNDS" />
+    <node id="DECLARATION" />
+    <node id="GROUP KNOW-YOUR-CUSTOMER POLICY" />
+    <node id="MULTI-LAYER OWNERSHIP STRUCTURE" />
+    <node id="INTERMEDIARIES" />
+    <node id="SETTLOR" />
+    <node id="ASSET CONTRIBUTOR" />
+    <node id="BENEFICIARY" />
+    <node id="DECLARATION FROM TRUSTEE" />
+    <node id="DOCUMENTATION" />
+    <node id="PAYMENT OUT OF TRUST ACCOUNT" />
+    <node id="KNOW-YOUR-CUSTOMER POLICY" />
+    <node id="DOCUMENTATION RETENTION" />
+    <node id="RISK-BASED CUSTOMER DUE DILIGENCE" />
+    <node id="FATF STANDARDS" />
+    <node id="LEGAL REQUIREMENTS" />
+    <node id="INTERMEDIARY REGULATION" />
+    <node id="CLIENT ACCOUNT" />
+    <node id="IDENTIFICATION DOCUMENTATION" />
+    <node id="CORRESPONDENCE ADDRESS VERIFICATION" />
+    <node id="FATF REQUIREMENTS" />
+    <node id="INTERMEDIARIES REGULATION" />
+    <node id="WIRE TRANSFER MESSAGE" />
+    <node id="NATIONAL IDENTITY NUMBER" />
+    <node id="POLITICALLY EXPOSED PERSONS" />
+    <node id="CONNECTED PARTIES" />
+    <node id="CORRESPONDENT BANKING" />
+    <node id="WIRE TRANSFER ACTIVITIES" />
+    <node id="THRESHOLD AMOUNT" />
+    <node id="FORMAL DELEGATION OF AUTHORITY" />
+    <node id="PROPER DOCUMENTATION" />
+    <node id="WIRE TRANSFER THRESHOLD" />
+    <node id="ORIGINATOR INFORMATION RETENTION" />
+    <node id="NEW CORRESPONDENT BANKING RELATIONSHIP APPROVAL" />
+    <node id="RISK MANAGEMENT FRAMEWORK" />
+    <node id="ORIGINATOR INFORMATION" />
+    <node id="ANTI-MONEY LAUNDERING EFFORTS" />
+    <node id="SHELL BANK" />
+    <node id="RESPONDENT BANK" />
+    <node id="EXTRA CARE MEASURE" />
+    <node id="EXISTING ACCOUNT" />
+    <node id="INDIVIDUAL CUSTOMER" />
+    <node id="TRANSACTION" />
+    <node id="INTERMEDIARY" />
+    <node id="PROFESSIONAL REGISTRATION" />
+    <node id="CUSTOMER DUE DILIGENCE PROCEDURES" />
+    <node id="SFC" />
+    <node id="OCI" />
+    <node id="SYSTEMS TO VERIFY CUSTOMER IDENTITY" />
+    <node id="FIT AND PROPER CRITERIA" />
+    <node id="INTERMEDIARY CERTIFICATE" />
+    <node id="SUITABLE CERTIFIER" />
+    <node id="PERIODIC REVIEW" />
+    <node id="NON FACE-TO-FACE DOCUMENT VERIFICATION" />
+    <node id="INTERMEDIARY POLICY AND PROCEDURES" />
+    <node id="RELIABILITY OF SYSTEMS" />
+    <node id="AGREEMENT WITH INTERMEDIARY" />
+    <node id="ORIGINAL DOCUMENTATION" />
+    <node id="CERTIFIED COPIES" />
+    <node id="CERTIFIER" />
+    <node id="EMBASSY, CONSULATE OR HIGH COMMISSION" />
+    <node id="MEMBER OF THE JUDICIARY" />
+    <node id="SENIOR CIVIL OFFICIAL" />
+    <node id="SENIOR CIVIL SERVANT" />
+    <node id="SERVING POLICE OFFICER" />
+    <node id="SERVING CUSTOMS OFFICER" />
+    <node id="LAWYER" />
+    <node id="NOTARY PUBLIC" />
+    <node id="ACTUARY" />
+    <node id="ACCOUNTANT" />
+    <node id="CHARTERED SECRETARY" />
+    <node id="REGULATED FINANCIAL INSTITUTION" />
+    <node id="EMBASSY" />
+    <node id="COUNTRY OF ISSUE" />
+    <node id="CONSULATE" />
+    <node id="HIGH COMMISSION" />
+    <node id="OFFICER" />
+    <node id="MANAGER" />
+    <node id="JURISDICTIONS THAT DO NOT OR INSUFFICIENTLY APPLY THE FATF RECOMMENDATIONS" />
+    <node id="RECOMMENDATION 21 OF THE FATF RECOMMENDATIONS" />
+    <node id="SANCTIONS, EMBARGOES OR SIMILAR MEASURES" />
+    <node id="COMPETENT AUTHORITIES" />
+    <node id="ANTI-MONEY LAUNDERING AND COUNTER-FINANCING OF TERRORISM SYSTEM" />
+    <node id="CUSTOMERS CONNECTED WITH HIGHER RISK JURISDICTIONS" />
+    <node id="BUSINESS RELATIONSHIPS AND TRANSACTIONS" />
+    <node id="BUSINESS RATIONALE" />
+    <node id="BENEFICIAL OWNERS" />
+    <node id="WRITTEN FINDINGS" />
+    <node id="COUNTERMEASURES" />
+    <node id="CREDIBLE SOURCES" />
+    <node id="ENHANCED SURVEILLANCE AND REPORTING" />
+    <node id="UNITED NATIONS" />
+    <node id="EGMONT GROUP OF FINANCIAL INTELLIGENCE UNITS" />
+    <node id="JURISDICTIONS WITH DEFICIENCIES" />
+    <node id="AML/CFT LAWS" />
+    <node id="AML/CFT REGULATIONS" />
+    <node id="CORRUPTION" />
+    <node id="REPUTATION RISK" />
+    <node id="TERRORIST ORGANISATIONS" />
+    <node id="MONEY LAUNDERING AND TERRORIST FINANCING PREVENTION CONTROLS" />
+    <node id="COMPLIANCE FUNCTION" />
+    <node id="INTERNAL AUDIT FUNCTION" />
+    <node id="JURISDICTIONS WITH INSUFFICIENT FATF APPLICATION" />
+    <node id="HEAD OFFICE" />
+    <node id="WITHDRAWAL FROM JURISDICTIONS" />
+    <node id="POLICIES AND PROCEDURES" />
+    <node id="OVERSEAS UNITS" />
+    <node id="TRUST ACCOUNT" />
+    <node id="NOMINEE ACCOUNT" />
+    <node id="SETTLOR/GRANTOR" />
+    <node id="TRUST" />
+    <node id="NOMINEE" />
+    <node id="NON-FACE-TO-FACE CUSTOMERS" />
+    <node id="FACE-TO-FACE INTERVIEW" />
+    <node id="CUSTOMER IDENTIFICATION PROCEDURES" />
+    <node id="CERTIFICATION OF IDENTITY DOCUMENTS" />
+    <node id="ON-LINE QUESTIONNAIRES" />
+    <node id="THIRD PARTY INTRODUCTION" />
+    <node id="ONGOING MONITORING" />
+    <node id="REFUSAL OF BUSINESS RELATIONSHIP" />
+    <node id="FIRST PAYMENT VERIFICATION" />
+    <node id="FREQUENT INFORMATION UPDATE" />
+    <node id="INDEPENDENT CUSTOMER CONTACT" />
+    <node id="ON-GOING MONITORING STANDARDS" />
+    <node id="SUITABLE CERTIFIERS" />
+    <node id="HIGHER RISK CUSTOMERS" />
+    <node id="DIRECT CUSTOMER" />
+    <node id="BENEFICIAL OWNERSHIP AND CONTROL" />
+    <node id="ON-GOING DUE DILIGENCE AND SCRUTINY" />
+    <node id="PURPOSE AND REASON FOR ACCOUNT OPENING" />
+    <node id="CUSTOMER INFORMATION" />
+    <node id="RISK PROFILE" />
+    <node id="CONFIDENTIAL NUMBERED ACCOUNTS" />
+    <node id="JOINT FINANCIAL INTELLIGENCE UNIT" />
+    <node id="DIRECTORS" />
+    <node id="PRINCIPAL SHAREHOLDERS" />
+    <node id="BUSINESS RELATIONSHIP" />
+    <node id="FUNDS" />
+    <node id="ACCOUNT HOLDER" />
+    <node id="NEW CUSTOMER" />
+    <node id="ACCOUNT" />
+    <node id="REPORT" />
+    <node id="FREEZING OF FUNDS" />
+    <node id="CONFIDENTIAL NUMBERED ACCOUNT" />
+    <node id="SUSPICION" />
+    <node id="FIU" />
+    <node id="NON-ACCOUNT HOLDER" />
+    <node id="OWNERSHIP STRUCTURE" />
+    <node id="TRIGGER EVENTS" />
+    <node id="IDENTIFICATION AND VERIFICATION" />
+    <node id="AUTHORITY TO ACT" />
+    <node id="SUSPICION OF MONEY LAUNDERING OR TERRORIST FINANCING" />
+    <node id="TRANSACTION THRESHOLD" />
+    <node id="NATURAL PERSON" />
+    <node id="BUSINESS RELATIONSHIP REVIEW" />
+    <node id="TRANSACTION MONITORING" />
+    <node id="ENHANCED DUE DILIGENCE" />
+    <node id="WIRE TRANSFER TRANSACTIONS" />
+    <node id="CURRENCY EXCHANGE TRANSACTIONS" />
+    <node id="TRANSACTION_MONITORING" />
+    <node id="FINANCIAL CRIME" />
+    <node id="ORDERING INSTITUTION" />
+    <node id="BENEFICIARY INSTITUTION" />
+    <node id="CUSTOMER DUE DILIGENCE REQUIREMENTS" />
+    <node id="IDENTITY CARD OR TRAVEL DOCUMENT" />
+    <node id="ORIGINATOR" />
+    <node id="RISK MANAGEMENT POLICY" />
+    <node id="COMPLIANCE OFFICER" />
+    <node id="HKMA GUIDELINE ON PREVENTION OF MONEY LAUNDERING" />
+    <node id="COMPLIANCE OFFICER FUNCTION" />
+    <node id="MANAGEMENT INFORMATION SYSTEM REPORTS" />
+    <node id="FRONT LINE STAFF" />
+    <node id="MONEY LAUNDERING PREVENTION POLICIES" />
+    <node id="SUSPICIOUS TRANSACTION REPORTS" />
+    <node id="LARGE OR IRREGULAR TRANSACTIONS" />
+    <node id="BOARD OF DIRECTORS" />
+    <node id="CUSTOMER IDENTIFICATION PROCEDURE" />
+    <node id="BOARD RESOLUTION" />
+    <node id="CERTIFICATE OF INCORPORATION" />
+    <node id="BUSINESS REGISTRATION CERTIFICATE" />
+    <node id="MEMORANDUM AND ARTICLES OF ASSOCIATION" />
+    <node id="SEARCH RECORD AT THE COMPANY REGISTRY" />
+    <node id="EVIDENCE OF ADDRESS" />
+    <node id="FRONT LINE STAFF AWARENESS" />
+    <node id="MONEY LAUNDERING PREVENTION GUIDELINE" />
+    <node id="CUSTOMER ACCOUNT OPENING DOCUMENTS" />
+    <node id="SOURCE OF FUNDS VERIFICATION" />
+    <node id="EVIDENCE OF AUTHORITY" />
+    <node id="ACCOUNT OPENING PROCESS" />
+    <node id="SIGNATURE VERIFICATION" />
+    <node id="CUSTOMER OCCUPATION AND BUSINESS ACTIVITIES" />
+    <node id="CUSTOMER DUE DILIGENCE (CDD) PROCESS" />
+    <node id="GLOBAL KYC POLICY" />
+    <node id="RELATIONSHIP MANAGER" />
+    <node id="PRIVATE BANKING CUSTOMER" />
+    <node id="CUSTOMER FILE" />
+    <node id="CLIENT PROFILE INFORMATION" />
+    <node id="CLIENT ACCEPTANCE POLICY" />
+    <node id="BANKER'S REFERENCE" />
+    <node id="VISITATION POLICY" />
+    <node id="HIGH RISK CUSTOMER" />
+    <node id="SENSITIVE CUSTOMER" />
+    <node id="MONITORING SYSTEM" />
+    <node id="CDD REVIEW" />
+    <node id="INACTIVE ACCOUNT" />
+    <node id="RELATIONSHIP MANAGEMENT" />
+    <node id="INTERNATIONAL BODIES" />
+    <node id="HKMA GUIDELINE" />
+    <node id="FINANCIAL REGULATORS" />
+    <node id="ORGANIZED AND SERIOUS CRIMES (AMENDMENT) ORDINANCE 2000" />
+    <node id="BASEL COMMITTEE ON BANKING SUPERVISION CUSTOMER DUE DILIGENCE PAPER" />
+    <node id="FINANCIAL ACTION TASK FORCE (FATF) REVISED FORTY RECOMMENDATIONS" />
+    <node id="ANTI-TERRORISM LEGISLATION IN HONG KONG" />
+    <node id="LEGISLATION" />
+    <node id="AMENDMENTS TO GUIDELINE" />
+    <node id="9/11 EVENT" />
+    <node id="INTERPRETATIVE NOTES (IN)" />
+    <node id="OVERSEAS BRANCHES OR SUBSIDIARIES" />
+    <node id="SECTION 12 OF THE SUPPLEMENT" />
+    <node id="CUSTOMERS" />
+    <node id="LOCAL LAWS" />
+    <node id="REVIEW PROCESS" />
+    <node id="FUNDS CO-MINGLING" />
+    <node id="PROFESSIONAL SECRECY" />
+    <node id="UNIT TRUST" />
+    <node id="MUTUAL FUND" />
+    <node id="INVESTMENT SCHEME" />
+    <node id="PROFESSIONAL INTERMEDIARY" />
+    <node id="IDENTITY VERIFICATION SYSTEMS" />
+    <node id="SYSTEMS AND CONTROLS" />
+    <node id="SENIOR MANAGEMENT APPROVAL" />
+    <node id="ONE-OFF TRANSACTION" />
+    <node id="POLITICALLY EXPOSED PERSON" />
+    <node id="BUSINESS RELATIONSHIP APPROVAL PROCESS" />
+    <node id="RISK FACTORS RELATED TO PEPS" />
+    <node id="SOURCE OF WEALTH AND FUNDS IDENTIFICATION" />
+    <node id="GOVERNMENT-OWNED BANK ACCOUNTS" />
+    <node id="COMMISSION ON GOVERNMENT CONTRACTS" />
+    <node id="POLITICALLY EXPOSED PERSONS (PEPS)" />
+    <node id="RISK FACTORS FOR PEPS" />
+    <node id="CUSTOMER ACCEPTANCE POLICY" />
+    <node id="HIGH NET WORTH INDIVIDUAL" />
+    <node id="MONEY CHANGERS AND CASINOS" />
+    <node id="BUSINESS RELATIONSHIP APPROVAL" />
+    <node id="NATIONALITY, CITIZENSHIP AND RESIDENT STATUS" />
+    <node id="HIGHER RISK JURISDICTIONS" />
+    <node id="COMPLEX OWNERSHIP STRUCTURE" />
+    <node id="INTERNAL GUIDELINES" />
+    <node id="CUSTOMER RISK PROFILE" />
+    <node id="INTERNAL GUIDELINES ON MANAGEMENT APPROVAL" />
+    <node id="MANAGEMENT" />
+    <node id="RISK GOVERNANCE" />
+    <node id="RISK TYPE" />
+    <node id="FATF SPECIAL RECOMMENDATION ON TERRORIST FINANCING" />
+    <node id="WIRE TRANSFER MESSAGE REQUIREMENTS" />
+    <node id="ORDERING AUTHORIZED INSTITUTION" />
+    <node id="RISK-BASED APPROACH TO WIRE TRANSFERS" />
+    <node id="BENEFICIARY FINANCIAL INSTITUTION" />
+    <node id="VERIFICATION OF ORIGINATOR INFORMATION" />
+    <node id="REQUEST FOR ORIGINATOR INFORMATION" />
+    <node id="SUSPICIOUS WIRE TRANSFER MONITORING" />
+    <node id="THIRD PARTY WIRE TRANSFER RISK" />
+    <node id="WIRE TRANSFER AMOUNT THRESHOLD" />
+    <node id="GUIDELINE" />
+    <node id="APPROPRIATE AUTHORITIES" />
+    <node id="RISK-BASED METHODS" />
+    <node id="REMITTING BANK" />
+    <node id="WIRE TRANSFER TRANSACTION" />
+    <node id="BENEFICIARY AI" />
+    <node id="ORDERING PERSON" />
+    <node id="STRAIGHT-THROUGH PROCESSING" />
+    <node id="IDENTITY VERIFICATION PROCESS" />
+    <node id="NATURAL PERSONS" />
+    <node id="LISTED STATUS PROOF" />
+    <node id="CONTROL OVER FUNDS" />
+    <node id="LISTED COMPANY" />
+    <node id="SUBSIDIARY COMPANY" />
+    <node id="NON-BANK FINANCIAL INSTITUTION" />
+    <node id="SECURITIES AND FUTURES COMMISSION" />
+    <node id="INSURANCE AUTHORITY" />
+    <node id="FATF MEMBER JURISDICTION" />
+    <node id="ACCOUNT SIGNATORIES" />
+    <node id="FINANCIAL INSTITUTION REGULATED BY HKMA, SFC OR OCI" />
+    <node id="FINANCIAL INSTITUTION SUPERVISED BY EQUIVALENT AUTHORITY" />
+    <node id="ANTI-MONEY LAUNDERING AND COUNTER TERRORIST FINANCING (AML/CFT)" />
+    <node id="RISK AND MATERIALITY" />
+    <node id="COMPANY" />
+    <node id="BENEFICIAL OWNERSHIP" />
+    <node id="OWNERSHIP CHAIN" />
+    <node id="FINANCIAL INSTITUTION" />
+    <node id="NON-LISTED COMPANY" />
+    <node id="NOMINEE SHAREHOLDER" />
+    <node id="NON-LISTED CORPORATE CUSTOMER" />
+    <node id="IMMOBILIZATION OF SHARES" />
+    <node id="NOMINEE SHAREHOLDER COMPANIES" />
+    <node id="MANAGEMENT INFORMATION SYSTEMS" />
+    <node id="SUSPICIOUS TRANSACTIONS" />
+    <node id="HIGHER RISK ACCOUNTS" />
+    <node id="EXCHANGE CONTROLS" />
+    <node id="COMPLIANCE OFFICERS" />
+    <node id="FRONT-LINE STAFF" />
+    <node id="LEGAL OBLIGATIONS" />
+    <node id="SUSPICIOUS ACTIVITY" />
+    <node id="FOLLOW-UP ACTIONS" />
+    <node id="RISK LIMIT" />
+    <node id="OVERSEAS OPERATIONS" />
+    <node id="NEW CORRESPONDENT BANKING RELATIONSHIP APPROVAL PROCESS" />
+    <node id="REGULATORY AUTHORITY" />
+    <node id="CORRESPONDENT BANK" />
+    <node id="DUE DILIGENCE" />
+    <node id="DOCUMENTATION OF RESPONSIBILITIES" />
+    <node id="TRANSACTION REPORTS" />
+    <node id="SUSPICIOUS FUND TRANSFERS" />
+    <node id="INTERNATIONAL STANDARD" />
+    <node id="PAYABLE-THROUGH ACCOUNTS" />
+    <node id="AML/CFT PROCEDURES" />
+    <node id="ON-GOING MONITORING PROCEDURES" />
+    <node id="HIGH-RISK CUSTOMER" />
+    <node id="EXISTING ACCOUNTS" />
+    <node id="CUSTOMER RECORDS REVIEW" />
+    <node id="TRIGGER EVENT" />
+    <node id="CUSTOMER DOCUMENTATION STANDARDS" />
+    <node id="SIGNIFICANT TRANSACTION" />
+    <edge source="TERRORIST FINANCING" target="FATF">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="TERRORIST FINANCING" target="UNITED NATIONS (SANCTIONS) ORDINANCE">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="TERRORIST FINANCING" target="UNITED NATIONS (ANTI-TERRORISM MEASURES) ORDINANCE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="TERRORIST FINANCING" target="MONEY LAUNDERING REGIME">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="TERRORIST FINANCING" target="FATF GUIDANCE ON TERRORIST FINANCING">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="TERRORIST FINANCING" target="AML/CFT SYSTEM">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="TERRORIST FINANCING" target="COUNTERMEASURES">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="TERRORIST FINANCING" target="JURISDICTION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="TERRORIST FINANCING" target="CUSTOMER DUE DILIGENCE">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="TERRORIST FINANCING" target="HKMA">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="TERRORIST FINANCING" target="LEGISLATION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FATF" target="UNITED NATIONS (ANTI-TERRORISM MEASURES) ORDINANCE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FATF" target="SPECIAL RECOMMENDATIONS ON TERRORIST FINANCING">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="FATF" target="FATF GUIDANCE ON TERRORIST FINANCING">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="FATF" target="FATF RECOMMENDATIONS">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="FATF" target="AUTHORIZED INSTITUTION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FATF" target="EQUIVALENT JURISDICTIONS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FATF" target="FATF-STYLE REGIONAL BODIES">
+      <data key="d0">19.0</data>
+    </edge>
+    <edge source="FATF" target="MONEY LAUNDERING">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="FATF" target="MUTUAL EVALUATIONS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="FATF" target="IMF">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FATF" target="WORLD BANK">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FATF" target="COUNTRY ASSESSMENTS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="FATF" target="INTERMEDIARY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FATF" target="MEMBER OF THE JUDICIARY">
+      <data key="d0">29.0</data>
+    </edge>
+    <edge source="FATF" target="SENIOR CIVIL SERVANT">
+      <data key="d0">29.0</data>
+    </edge>
+    <edge source="FATF" target="SERVING POLICE OFFICER">
+      <data key="d0">29.0</data>
+    </edge>
+    <edge source="FATF" target="SERVING CUSTOMS OFFICER">
+      <data key="d0">29.0</data>
+    </edge>
+    <edge source="FATF" target="LAWYER">
+      <data key="d0">29.0</data>
+    </edge>
+    <edge source="FATF" target="NOTARY PUBLIC">
+      <data key="d0">29.0</data>
+    </edge>
+    <edge source="FATF" target="ACTUARY">
+      <data key="d0">29.0</data>
+    </edge>
+    <edge source="FATF" target="ACCOUNTANT">
+      <data key="d0">29.0</data>
+    </edge>
+    <edge source="FATF" target="CHARTERED SECRETARY">
+      <data key="d0">29.0</data>
+    </edge>
+    <edge source="FATF" target="REGULATED FINANCIAL INSTITUTION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="UNITED NATIONS (SANCTIONS) ORDINANCE" target="UNITED NATIONS SECURITY COUNCIL">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="UNITED NATIONS (SANCTIONS) ORDINANCE" target="UNITED NATIONS SANCTIONS (AFGHANISTAN) REGULATION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="UNITED NATIONS (SANCTIONS) ORDINANCE" target="DESIGNATED TERRORISTS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="UNITED NATIONS (ANTI-TERRORISM MEASURES) ORDINANCE" target="UNSC RESOLUTION 1373">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="UNITED NATIONS (ANTI-TERRORISM MEASURES) ORDINANCE" target="SPECIAL RECOMMENDATIONS ON TERRORIST FINANCING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="UNITED NATIONS SECURITY COUNCIL" target="UNSC RESOLUTION 1373">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="UNITED NATIONS SECURITY COUNCIL" target="UNITED NATIONS SECURITY COUNCIL RESOLUTIONS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="UNITED NATIONS SECURITY COUNCIL RESOLUTIONS" target="DESIGNATED TERRORISTS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="DESIGNATED TERRORISTS" target="GAZETTE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="THE ORDINANCE" target="AUTHORIZED INSTITUTION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="THE ORDINANCE" target="THE GAZETTE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="THE ORDINANCE" target="REPORTING OBLIGATION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="DATABASE OF TERRORIST SUSPECTS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="SUSPICIOUS TRANSACTION IDENTIFICATION SYSTEM">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="FATF GUIDANCE ON TERRORIST FINANCING">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="REPORTING OBLIGATION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="STAFF TRAINING AND GUIDANCE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="WIRE TRANSFER MONITORING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="TERRORIST PROPERTY">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="SUSPICIOUS TRANSACTION REPORTING">
+      <data key="d0">30.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="THIRD PARTY SERVICE PROVIDERS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="JFIU">
+      <data key="d0">29.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="HKMA">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="FATF PAPER ON TERRORIST FINANCING">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="SUSPICIOUS TRANSACTION REPORT">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="SUSPICIOUS TRANSACTION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="LIST OF SUSPECTED TERRORISTS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="FATF FORTY RECOMMENDATIONS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="BASEL CUSTOMER DUE DILIGENCE REQUIREMENTS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="RISK-BASED APPROACH">
+      <data key="d0">103.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="CUSTOMER DUE DILIGENCE (CDD)">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="SIMPLIFIED CUSTOMER DUE DILIGENCE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="ENHANCED CUSTOMER DUE DILIGENCE">
+      <data key="d0">21.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="SUSPICION OF MONEY LAUNDERING">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="PUBLIC DISCLOSURE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="RISK OF MONEY LAUNDERING">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="REGULATORY REGIME FOR PROFESSIONAL INTERMEDIARIES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="CUSTOMER">
+      <data key="d0">70.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="BENEFICIAL OWNER">
+      <data key="d0">49.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="CUSTOMER DUE DILIGENCE (CDD) REQUIREMENTS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="SENIOR MANAGEMENT">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="AML/CFT SYSTEM">
+      <data key="d0">90.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="DOCUMENTATION REQUIREMENTS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="GROUP POLICIES">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="CUSTOMER DUE DILIGENCE">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="IDENTITY VERIFICATION">
+      <data key="d0">30.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="JURISDICTIONS WITH INSUFFICIENT FATF COMPLIANCE">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="NON-RESIDENT CUSTOMER IDENTIFICATION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="MONEY LAUNDERING">
+      <data key="d0">40.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="ENHANCED CDD PROCESS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="NON-PHYSICAL PRESENCE CUSTOMER VERIFICATION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="CUSTOMER ADDRESS VERIFICATION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="WATCH LISTS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="GUIDELINE ON PREVENTION OF MONEY LAUNDERING">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="ADDRESS VERIFICATION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="THIRD PARTY PAYMENT APPROVAL">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="WATCH LIST SCREENING">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="CUSTOMER IDENTITY VERIFICATION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="FUNDS REPAYMENT POLICY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="UTILITY BILL">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="RATES BILL">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="HOME VISIT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="CUSTOMER DUE DILIGENCE PROCESS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="SIMPLIFIED CUSTOMER DUE DILIGENCE PROCESS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="NON-ACCOUNT HOLDER TRANSACTIONS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="CASHIER ORDER">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="GIFT CHEQUE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="WIRE TRANSFER">
+      <data key="d0">19.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="CURRENCY EXCHANGE TRANSACTION">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="PRINCIPAL SHAREHOLDER">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="EQUIVALENT JURISDICTIONS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="INTERNATIONAL MONETARY FUND">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="WORLD BANK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="ACCOUNT SIGNATORY">
+      <data key="d0">29.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="STATE-OWNED ENTERPRISE">
+      <data key="d0">27.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="RECOGNISED STOCK EXCHANGE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="MUTUAL EVALUATIONS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="COUNTRY ASSESSMENTS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="ANTI-MONEY LAUNDERING/COUNTER-TERRORIST FINANCING SYSTEMS AND CONTROLS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="OFFSHORE INVESTMENT VEHICLES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="PROFESSIONAL THIRD PARTIES">
+      <data key="d0">16.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="COMPREHENSIVE CUSTOMER DUE DILIGENCE PROCESS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="DOCUMENTATION FROM PROFESSIONAL THIRD PARTIES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="PRIVATE BANKING RELATIONSHIP">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="COMPANY SEARCHES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="CERTIFICATES OF INCUMBENCY">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="EXCEPTIONS TO CUSTOMER DUE DILIGENCE REQUIREMENTS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="AI POLICY">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="MONEY LAUNDERING RISK">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="TRUSTEE">
+      <data key="d0">21.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="SUPPLEMENT TO THE GUIDELINE ON PREVENTION OF MONEY LAUNDERING">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="WAIVER">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="RESIDENTIAL ADDRESS VERIFICATION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="E-BANKING TRANSACTION APPROVER">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="TRUST SUBSIDIARY">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="CORPORATE CUSTOMER">
+      <data key="d0">40.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="BEARER SHARES">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="BENEFICIAL OWNER DECLARATION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="SOURCE OF FUNDS">
+      <data key="d0">30.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="INTERMEDIARIES">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="PROTECTOR">
+      <data key="d0">27.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="SETTLOR">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="ASSET CONTRIBUTOR">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="BENEFICIARY">
+      <data key="d0">29.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="DECLARATION FROM TRUSTEE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="DOCUMENTATION">
+      <data key="d0">29.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="PAYMENT OUT OF TRUST ACCOUNT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="DECLARATION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="KNOW-YOUR-CUSTOMER POLICY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="DOCUMENTATION RETENTION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="RISK-BASED CUSTOMER DUE DILIGENCE">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="PROFESSIONAL INTERMEDIARIES">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="CLIENT ACCOUNT">
+      <data key="d0">21.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="IDENTIFICATION DOCUMENTATION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="CORRESPONDENCE ADDRESS VERIFICATION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="NATIONAL IDENTITY NUMBER">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="POLITICALLY EXPOSED PERSONS">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="CONNECTED PARTIES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="CORRESPONDENT BANKING">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="WIRE TRANSFER ACTIVITIES">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="THRESHOLD AMOUNT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="FORMAL DELEGATION OF AUTHORITY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="PROPER DOCUMENTATION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="WIRE TRANSFER THRESHOLD">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="ORIGINATOR INFORMATION RETENTION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="NEW CORRESPONDENT BANKING RELATIONSHIP APPROVAL">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="ANTI-MONEY LAUNDERING EFFORTS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="SHELL BANK">
+      <data key="d0">40.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="FATF RECOMMENDATIONS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="RESPONDENT BANK">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="JURISDICTION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="EXTRA CARE MEASURE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="EXISTING ACCOUNT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="INDIVIDUAL CUSTOMER">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="TRANSACTION">
+      <data key="d0">30.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="INTERMEDIARY">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="CUSTOMER DUE DILIGENCE PROCEDURES">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="FIT AND PROPER CRITERIA">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="SYSTEMS TO VERIFY CUSTOMER IDENTITY">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="INTERMEDIARY CERTIFICATE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="SUITABLE CERTIFIER">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="PERIODIC REVIEW">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="NON FACE-TO-FACE DOCUMENT VERIFICATION">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="INTERMEDIARY POLICY AND PROCEDURES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="RELIABILITY OF SYSTEMS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="AGREEMENT WITH INTERMEDIARY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="ORIGINAL DOCUMENTATION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="CERTIFIED COPIES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="JURISDICTIONS THAT DO NOT OR INSUFFICIENTLY APPLY THE FATF RECOMMENDATIONS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="RECOMMENDATION 21 OF THE FATF RECOMMENDATIONS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="SANCTIONS, EMBARGOES OR SIMILAR MEASURES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="COMPETENT AUTHORITIES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="ANTI-MONEY LAUNDERING AND COUNTER-FINANCING OF TERRORISM SYSTEM">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="CUSTOMERS CONNECTED WITH HIGHER RISK JURISDICTIONS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="BUSINESS RELATIONSHIPS AND TRANSACTIONS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="BUSINESS RATIONALE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="BENEFICIAL OWNERS">
+      <data key="d0">40.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="FINANCIAL INSTITUTIONS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="ENHANCED SURVEILLANCE AND REPORTING">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="MONEY LAUNDERING AND TERRORIST FINANCING PREVENTION CONTROLS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="COMPLIANCE FUNCTION">
+      <data key="d0">47.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="INTERNAL AUDIT FUNCTION">
+      <data key="d0">19.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="JURISDICTIONS WITH INSUFFICIENT FATF APPLICATION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="HEAD OFFICE">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="WITHDRAWAL FROM JURISDICTIONS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="POLICIES AND PROCEDURES">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="OVERSEAS UNITS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="TRUST ACCOUNT">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="NOMINEE ACCOUNT">
+      <data key="d0">12.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="SETTLOR/GRANTOR">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="TRUST">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="NOMINEE">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="NON-FACE-TO-FACE CUSTOMERS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="FACE-TO-FACE INTERVIEW">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="CUSTOMER IDENTIFICATION PROCEDURES">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="CUSTOMER INFORMATION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="PURPOSE AND REASON FOR ACCOUNT OPENING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="CONFIDENTIAL NUMBERED ACCOUNTS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="JOINT FINANCIAL INTELLIGENCE UNIT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="DIRECTORS">
+      <data key="d0">19.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="PRINCIPAL SHAREHOLDERS">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="BUSINESS RELATIONSHIP">
+      <data key="d0">29.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="FUNDS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="ACCOUNT HOLDER">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="NEW CUSTOMER">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="ACCOUNT">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="REPORT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="FREEZING OF FUNDS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="CONFIDENTIAL NUMBERED ACCOUNT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="FIU">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="NON-ACCOUNT HOLDER">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="OWNERSHIP STRUCTURE">
+      <data key="d0">28.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="TRIGGER EVENTS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="IDENTIFICATION AND VERIFICATION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="AUTHORITY TO ACT">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="SUSPICION OF MONEY LAUNDERING OR TERRORIST FINANCING">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="TRANSACTION THRESHOLD">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="NATURAL PERSON">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="BUSINESS RELATIONSHIP REVIEW">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="TRANSACTION MONITORING">
+      <data key="d0">29.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="ENHANCED DUE DILIGENCE">
+      <data key="d0">50.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="ORDERING INSTITUTION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="BENEFICIARY INSTITUTION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="CUSTOMER DUE DILIGENCE REQUIREMENTS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="COMPLIANCE OFFICER">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="FINANCIAL CRIME">
+      <data key="d0">11.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="HKMA GUIDELINE ON PREVENTION OF MONEY LAUNDERING">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="CUSTOMER DUE DILIGENCE (CDD) PROCESS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="GLOBAL KYC POLICY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="RELATIONSHIP MANAGER">
+      <data key="d0">11.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="PRIVATE BANKING CUSTOMER">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="CUSTOMER FILE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="MONITORING SYSTEM">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="CDD REVIEW">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="INACTIVE ACCOUNT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="RELATIONSHIP MANAGEMENT">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="ONGOING MONITORING">
+      <data key="d0">30.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="OVERSEAS BRANCHES OR SUBSIDIARIES">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="SECTION 12 OF THE SUPPLEMENT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="CUSTOMERS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="FUNDS CO-MINGLING">
+      <data key="d0">16.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="PROFESSIONAL SECRECY">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="UNIT TRUST">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="MUTUAL FUND">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="INVESTMENT SCHEME">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="SYSTEMS AND CONTROLS">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="SENIOR MANAGEMENT APPROVAL">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="POLITICALLY EXPOSED PERSON">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="RISK FACTORS RELATED TO PEPS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="SOURCE OF WEALTH AND FUNDS IDENTIFICATION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="CUSTOMER ACCEPTANCE POLICY">
+      <data key="d0">11.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="RISK GOVERNANCE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="WIRE TRANSFER MESSAGE">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="RISK-BASED METHODS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="REMITTING BANK">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="FATF STANDARDS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="WIRE TRANSFER TRANSACTION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="BENEFICIARY AI">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="ORDERING PERSON">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="STRAIGHT-THROUGH PROCESSING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="IDENTITY VERIFICATION PROCESS">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="NATURAL PERSONS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="LISTED STATUS PROOF">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="CONTROL OVER FUNDS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="ACCOUNT SIGNATORIES">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="LISTED COMPANY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="FINANCIAL INSTITUTION REGULATED BY HKMA, SFC OR OCI">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="FINANCIAL INSTITUTION SUPERVISED BY EQUIVALENT AUTHORITY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="ANTI-MONEY LAUNDERING AND COUNTER TERRORIST FINANCING (AML/CFT)">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="RISK AND MATERIALITY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="COMPANY">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="BENEFICIAL OWNERSHIP">
+      <data key="d0">19.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="OWNERSHIP CHAIN">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="FINANCIAL INSTITUTION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="NOMINEE SHAREHOLDER">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="NON-LISTED CORPORATE CUSTOMER">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="COMPLEX OWNERSHIP STRUCTURE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="IMMOBILIZATION OF SHARES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="NOMINEE SHAREHOLDER COMPANIES">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="MANAGEMENT INFORMATION SYSTEMS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="SUSPICIOUS TRANSACTIONS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="HIGHER RISK ACCOUNTS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="EXCHANGE CONTROLS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="COMPLIANCE OFFICERS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="FRONT-LINE STAFF">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="MANAGEMENT INFORMATION SYSTEM REPORTS">
+      <data key="d0">28.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="LEGAL OBLIGATIONS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="SUSPICIOUS ACTIVITY">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="FOLLOW-UP ACTIONS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="OVERSEAS OPERATIONS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="REGULATORY AUTHORITY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="CORRESPONDENT BANK">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="DUE DILIGENCE">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="DOCUMENTATION OF RESPONSIBILITIES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="NEW CORRESPONDENT BANKING RELATIONSHIP APPROVAL PROCESS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="PAYABLE-THROUGH ACCOUNTS">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="AML/CFT PROCEDURES">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="ON-GOING MONITORING PROCEDURES">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="RISK MANAGEMENT POLICY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="HIGH-RISK CUSTOMER">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="EXISTING ACCOUNTS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="CUSTOMER RECORDS REVIEW">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AUTHORIZED INSTITUTION" target="TRIGGER EVENT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="THE GAZETTE" target="DATABASE OF TERRORIST SUSPECTS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="REPORTING OBLIGATION" target="STAFF TRAINING AND GUIDANCE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="REPORTING OBLIGATION" target="SUSPICIOUS TRANSACTION REPORTING">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="DATABASE OF TERRORIST SUSPECTS" target="US EXECUTIVE ORDER OF 23 SEPTEMBER 2001">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="DATABASE OF TERRORIST SUSPECTS" target="THIRD PARTY SERVICE PROVIDERS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPICIOUS TRANSACTION IDENTIFICATION SYSTEM" target="NON-PROFIT ORGANISATIONS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="SUSPICIOUS TRANSACTION IDENTIFICATION SYSTEM" target="WIRE TRANSFER MONITORING">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPICIOUS TRANSACTION REPORTING" target="INTERMEDIARIES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SUSPICIOUS TRANSACTION REPORTING" target="PROFESSIONAL INTERMEDIARIES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SUSPICIOUS TRANSACTION REPORTING" target="AML/CFT SYSTEM">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SUSPICIOUS TRANSACTION REPORTING" target="INTERNAL AUDIT FUNCTION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="JFIU" target="HKMA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JFIU" target="SUSPICIOUS TRANSACTION REPORT">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="JFIU" target="FATF PAPER ON TERRORIST FINANCING">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JFIU" target="SUSPICIOUS TRANSACTION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="JFIU" target="COMPLIANCE OFFICER">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="JFIU" target="FINANCIAL CRIME">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="JFIU" target="BENEFICIARY AI">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="HKMA" target="SUSPICIOUS TRANSACTION REPORT">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="HKMA" target="FATF PAPER ON TERRORIST FINANCING">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="HKMA" target="SUSPICIOUS TRANSACTION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="HKMA" target="GUIDELINE ON PREVENTION OF MONEY LAUNDERING">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="HKMA" target="CUSTOMER DUE DILIGENCE PROCEDURES">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="HKMA" target="COUNTERMEASURES">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="HKMA" target="CREDIBLE SOURCES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="HKMA" target="CUSTOMER DUE DILIGENCE">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="HKMA" target="ENHANCED SURVEILLANCE AND REPORTING">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="HKMA" target="COMPLIANCE FUNCTION">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="HKMA" target="JOINT FINANCIAL INTELLIGENCE UNIT">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="HKMA" target="SUPPLEMENT TO THE GUIDELINE ON PREVENTION OF MONEY LAUNDERING">
+      <data key="d0">11.0</data>
+    </edge>
+    <edge source="HKMA" target="INTERNATIONAL BODIES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="HKMA" target="HKMA GUIDELINE">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="HKMA" target="FINANCIAL REGULATORS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HKMA" target="AML/CFT SYSTEM">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="HKMA" target="OVERSEAS BRANCHES OR SUBSIDIARIES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="FATF PAPER ON TERRORIST FINANCING" target="SUSPICIOUS TRANSACTION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FATF PAPER ON TERRORIST FINANCING" target="LIST OF SUSPECTED TERRORISTS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="FATF FORTY RECOMMENDATIONS" target="FINANCIAL INSTITUTIONS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FATF FORTY RECOMMENDATIONS" target="NON-FINANCIAL INSTITUTIONS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK-BASED APPROACH" target="ENHANCED CUSTOMER DUE DILIGENCE">
+      <data key="d0">19.0</data>
+    </edge>
+    <edge source="RISK-BASED APPROACH" target="SIMPLIFIED CUSTOMER DUE DILIGENCE">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="RISK-BASED APPROACH" target="RISK OF MONEY LAUNDERING">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="RISK-BASED APPROACH" target="GROUP POLICIES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK-BASED APPROACH" target="AML/CFT SYSTEM">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="RISK-BASED APPROACH" target="SENIOR MANAGEMENT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK-BASED APPROACH" target="CUSTOMER DUE DILIGENCE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK-BASED APPROACH" target="CUSTOMER DUE DILIGENCE PROCESS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="RISK-BASED APPROACH" target="AI POLICY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK-BASED APPROACH" target="NEW CORRESPONDENT BANKING RELATIONSHIP APPROVAL">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK-BASED APPROACH" target="TRUST ACCOUNT">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="RISK-BASED APPROACH" target="NOMINEE ACCOUNT">
+      <data key="d0">27.0</data>
+    </edge>
+    <edge source="RISK-BASED APPROACH" target="TRUST">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK-BASED APPROACH" target="CUSTOMER ACCEPTANCE POLICY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK-BASED APPROACH" target="MANAGEMENT INFORMATION SYSTEM REPORTS">
+      <data key="d0">16.0</data>
+    </edge>
+    <edge source="RISK-BASED APPROACH" target="OVERSEAS OPERATIONS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CUSTOMER DUE DILIGENCE (CDD)" target="MONEY LAUNDERING RISK">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SIMPLIFIED CUSTOMER DUE DILIGENCE" target="SENIOR MANAGEMENT">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SIMPLIFIED CUSTOMER DUE DILIGENCE" target="GROUP POLICIES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SIMPLIFIED CUSTOMER DUE DILIGENCE" target="BANKING GROUP">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ENHANCED CUSTOMER DUE DILIGENCE" target="RELATIONSHIP MANAGER">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="ENHANCED CUSTOMER DUE DILIGENCE" target="SENIOR MANAGEMENT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ENHANCED CUSTOMER DUE DILIGENCE" target="PRIVATE BANKING CUSTOMER">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="ENHANCED CUSTOMER DUE DILIGENCE" target="HIGH RISK CUSTOMER">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="GUIDELINE ON PREVENTION OF MONEY LAUNDERING" target="SUPPLEMENT TO THE GUIDELINE ON PREVENTION OF MONEY LAUNDERING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="GUIDELINE ON PREVENTION OF MONEY LAUNDERING" target="ORGANIZED AND SERIOUS CRIMES (AMENDMENT) ORDINANCE 2000">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GUIDELINE ON PREVENTION OF MONEY LAUNDERING" target="WIRE TRANSFER MESSAGE REQUIREMENTS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="GUIDELINE ON PREVENTION OF MONEY LAUNDERING" target="RISK-BASED APPROACH TO WIRE TRANSFERS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="GUIDELINE ON PREVENTION OF MONEY LAUNDERING" target="REQUEST FOR ORIGINATOR INFORMATION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SUPPLEMENT TO THE GUIDELINE ON PREVENTION OF MONEY LAUNDERING" target="BASEL COMMITTEE ON BANKING SUPERVISION CUSTOMER DUE DILIGENCE PAPER">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SUPPLEMENT TO THE GUIDELINE ON PREVENTION OF MONEY LAUNDERING" target="FINANCIAL ACTION TASK FORCE (FATF) REVISED FORTY RECOMMENDATIONS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SUPPLEMENT TO THE GUIDELINE ON PREVENTION OF MONEY LAUNDERING" target="ANTI-TERRORISM LEGISLATION IN HONG KONG">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SUPPLEMENT TO THE GUIDELINE ON PREVENTION OF MONEY LAUNDERING" target="FINANCIAL CRIME">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SUPPLEMENT TO THE GUIDELINE ON PREVENTION OF MONEY LAUNDERING" target="AML/CFT SYSTEM">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SUPPLEMENT TO THE GUIDELINE ON PREVENTION OF MONEY LAUNDERING" target="INTERPRETATIVE NOTES (IN)">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SUPPLEMENT TO THE GUIDELINE ON PREVENTION OF MONEY LAUNDERING" target="REVIEW PROCESS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING RISK" target="SENIOR MANAGEMENT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING RISK" target="CUSTOMER ADDRESS VERIFICATION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING RISK" target="WATCH LISTS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING RISK" target="THIRD PARTY PAYMENT APPROVAL">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING RISK" target="WATCH LIST SCREENING">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING RISK" target="ADDRESS VERIFICATION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING RISK" target="CUSTOMER IDENTITY VERIFICATION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING RISK" target="FUNDS REPAYMENT POLICY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING RISK" target="CUSTOMER">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="PROFESSIONAL INTERMEDIARIES" target="AML/CFT SYSTEM">
+      <data key="d0">19.0</data>
+    </edge>
+    <edge source="PROFESSIONAL INTERMEDIARIES" target="FATF REQUIREMENTS">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="PROFESSIONAL INTERMEDIARIES" target="INTERMEDIARIES REGULATION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AML/CFT SYSTEM" target="MONEY LAUNDERING">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AML/CFT SYSTEM" target="WIRE TRANSFER MESSAGE">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="AML/CFT SYSTEM" target="FATF REQUIREMENTS">
+      <data key="d0">11.0</data>
+    </edge>
+    <edge source="AML/CFT SYSTEM" target="IDENTIFICATION DOCUMENTATION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AML/CFT SYSTEM" target="INTERMEDIARIES REGULATION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AML/CFT SYSTEM" target="COUNTERMEASURES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AML/CFT SYSTEM" target="CUSTOMER DUE DILIGENCE PROCESS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AML/CFT SYSTEM" target="IDENTITY VERIFICATION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AML/CFT SYSTEM" target="COMPLIANCE OFFICER">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AML/CFT SYSTEM" target="RISK MANAGEMENT POLICY">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="AML/CFT SYSTEM" target="CUSTOMER ACCEPTANCE POLICY">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="AML/CFT SYSTEM" target="COMPLIANCE FUNCTION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AML/CFT SYSTEM" target="INTERNATIONAL STANDARD">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CUSTOMER" target="UTILITY BILL">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CUSTOMER" target="RATES BILL">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CUSTOMER" target="HOME VISIT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CUSTOMER" target="INTERMEDIARY">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CUSTOMER" target="BUSINESS RELATIONSHIP">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CUSTOMER" target="SUSPICION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CUSTOMER" target="CUSTOMER ACCOUNT OPENING DOCUMENTS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="CUSTOMER" target="SOURCE OF FUNDS VERIFICATION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="CUSTOMER" target="EVIDENCE OF AUTHORITY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CUSTOMER" target="SIGNATURE VERIFICATION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="BENEFICIAL OWNER" target="DECLARATION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="BENEFICIAL OWNER" target="EXTRA CARE MEASURE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="BENEFICIAL OWNER" target="CUSTOMER DUE DILIGENCE PROCEDURES">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="BENEFICIAL OWNER" target="NOMINEE SHAREHOLDER COMPANIES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CUSTOMER DUE DILIGENCE (CDD) REQUIREMENTS" target="GROUP POLICIES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CUSTOMER DUE DILIGENCE (CDD) REQUIREMENTS" target="SENIOR MANAGEMENT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SENIOR MANAGEMENT" target="GROUP POLICIES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SENIOR MANAGEMENT" target="THIRD PARTY PAYMENT APPROVAL">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SENIOR MANAGEMENT" target="CUSTOMER DUE DILIGENCE PROCESS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SENIOR MANAGEMENT" target="SELF-DECLARATIONS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SENIOR MANAGEMENT" target="EXCEPTIONS TO CUSTOMER DUE DILIGENCE REQUIREMENTS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SENIOR MANAGEMENT" target="RISK MANAGEMENT POLICY">
+      <data key="d0">19.0</data>
+    </edge>
+    <edge source="SENIOR MANAGEMENT" target="COMPLIANCE FUNCTION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SENIOR MANAGEMENT" target="CLIENT ACCEPTANCE POLICY">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SENIOR MANAGEMENT" target="RELATIONSHIP MANAGER">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SENIOR MANAGEMENT" target="HIGH RISK CUSTOMER">
+      <data key="d0">19.0</data>
+    </edge>
+    <edge source="SENIOR MANAGEMENT" target="CUSTOMER DUE DILIGENCE (CDD) PROCESS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SENIOR MANAGEMENT" target="POLITICALLY EXPOSED PERSONS">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="SENIOR MANAGEMENT" target="POLITICALLY EXPOSED PERSON">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="SENIOR MANAGEMENT" target="BUSINESS RELATIONSHIP APPROVAL PROCESS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SENIOR MANAGEMENT" target="NEW CORRESPONDENT BANKING RELATIONSHIP APPROVAL PROCESS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="DOCUMENTATION REQUIREMENTS" target="RELEVANT AUTHORITY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="GROUP POLICIES" target="RISK MITIGATING MEASURES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CUSTOMER DUE DILIGENCE" target="FATF RECOMMENDATIONS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="CUSTOMER DUE DILIGENCE" target="INTERMEDIARY">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CUSTOMER DUE DILIGENCE" target="COUNTERMEASURES">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="CUSTOMER DUE DILIGENCE" target="MONEY LAUNDERING">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="CUSTOMER DUE DILIGENCE" target="WIRE TRANSFER TRANSACTIONS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CUSTOMER DUE DILIGENCE" target="CURRENCY EXCHANGE TRANSACTIONS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CUSTOMER DUE DILIGENCE" target="IDENTITY VERIFICATION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="CUSTOMER DUE DILIGENCE" target="WIRE TRANSFER">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="CUSTOMER DUE DILIGENCE" target="CURRENCY EXCHANGE TRANSACTION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="CUSTOMER DUE DILIGENCE" target="FINANCIAL CRIME">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CUSTOMER DUE DILIGENCE" target="CUSTOMER ACCEPTANCE POLICY">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="IDENTITY VERIFICATION" target="NON-PHYSICAL PRESENCE CUSTOMER VERIFICATION">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="IDENTITY VERIFICATION" target="CUSTOMER DUE DILIGENCE PROCESS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="IDENTITY VERIFICATION" target="FINANCIAL CRIME">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="IDENTITY VERIFICATION" target="CUSTOMER DUE DILIGENCE REQUIREMENTS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="IDENTITY VERIFICATION" target="IDENTITY CARD OR TRAVEL DOCUMENT">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="NON-RESIDENT CUSTOMER IDENTIFICATION" target="IDENTITY DOCUMENTS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING" target="WIRE TRANSFER TRANSACTIONS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING" target="CURRENCY EXCHANGE TRANSACTIONS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING" target="CUSTOMER ACCEPTANCE POLICY">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="FATF RECOMMENDATIONS" target="ANTI-MONEY LAUNDERING/COUNTER-TERRORIST FINANCING SYSTEMS AND CONTROLS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="FATF RECOMMENDATIONS" target="ANTI-MONEY LAUNDERING EFFORTS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="FATF RECOMMENDATIONS" target="RECOMMENDATION 21 OF THE FATF RECOMMENDATIONS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="FATF RECOMMENDATIONS" target="COUNTERMEASURES">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="FATF RECOMMENDATIONS" target="MONEY LAUNDERING AND TERRORIST FINANCING PREVENTION CONTROLS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="FATF RECOMMENDATIONS" target="CUSTOMER ACCEPTANCE POLICY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="IDENTITY DOCUMENTS" target="CUSTOMER IDENTIFICATION PROCEDURE">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="CUSTOMER IDENTITY VERIFICATION" target="COMPETENT NATIONAL AUTHORITY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CUSTOMER DUE DILIGENCE PROCESS" target="TRAVEL DOCUMENT">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="CUSTOMER DUE DILIGENCE PROCESS" target="IMMIGRATION OFFICER">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CUSTOMER DUE DILIGENCE PROCESS" target="ANTI-MONEY LAUNDERING/COUNTER-TERRORIST FINANCING SYSTEMS AND CONTROLS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CUSTOMER DUE DILIGENCE PROCESS" target="DIRECT CUSTOMER">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="CUSTOMER DUE DILIGENCE PROCESS" target="BENEFICIAL OWNERSHIP AND CONTROL">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="CUSTOMER DUE DILIGENCE PROCESS" target="ON-GOING DUE DILIGENCE AND SCRUTINY">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="CUSTOMER DUE DILIGENCE PROCESS" target="CONNECTED PARTIES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CUSTOMER DUE DILIGENCE PROCESS" target="PURPOSE AND REASON FOR ACCOUNT OPENING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CUSTOMER DUE DILIGENCE PROCESS" target="SOURCE OF FUNDS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SIMPLIFIED CUSTOMER DUE DILIGENCE PROCESS" target="STATE-OWNED ENTERPRISES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="WIRE TRANSFER" target="FINANCIAL CRIME">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="WIRE TRANSFER" target="CUSTOMER DUE DILIGENCE REQUIREMENTS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="WIRE TRANSFER" target="WIRE TRANSFER MESSAGE REQUIREMENTS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="WIRE TRANSFER" target="ORIGINATOR">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="WIRE TRANSFER" target="BENEFICIARY">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="CURRENCY EXCHANGE TRANSACTION" target="FINANCIAL CRIME">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CURRENCY EXCHANGE TRANSACTION" target="CUSTOMER DUE DILIGENCE REQUIREMENTS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RECOGNISED STOCK EXCHANGE" target="FINANCIAL ACTION TASK FORCE (FATF)">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="RECOGNISED STOCK EXCHANGE" target="SECURITIES AND FUTURES ORDINANCE">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="RECOGNISED STOCK EXCHANGE" target="LISTED COMPANY">
+      <data key="d0">30.0</data>
+    </edge>
+    <edge source="PRINCIPAL SHAREHOLDER" target="RESIDENTIAL ADDRESS VERIFICATION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="PRINCIPAL SHAREHOLDER" target="BEARER SHARES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERNATIONAL MONETARY FUND" target="WORLD BANK">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="INTERNATIONAL MONETARY FUND" target="COUNTRY ASSESSMENTS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERNATIONAL MONETARY FUND" target="CREDIBLE SOURCES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="WORLD BANK" target="COUNTRY ASSESSMENTS">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="STATE-OWNED ENTERPRISE" target="CORPORATE CUSTOMER">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="STATE-OWNED ENTERPRISE" target="SUBSIDIARY COMPANY">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="STATE-OWNED ENTERPRISE" target="OWNERSHIP STRUCTURE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="STATE-OWNED ENTERPRISE" target="FINANCIAL INSTITUTION">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="MUTUAL EVALUATIONS" target="FATF-STYLE REGIONAL BODIES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="COUNTRY ASSESSMENTS" target="FATF-STYLE REGIONAL BODIES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="COUNTRY ASSESSMENTS" target="IMF">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="OFFSHORE INVESTMENT VEHICLES" target="ULTIMATE BENEFICIAL OWNERS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="OFFSHORE INVESTMENT VEHICLES" target="PRIVATE BANKING RELATIONSHIP">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="PROFESSIONAL THIRD PARTIES" target="CORPORATE CUSTOMER">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="COMPREHENSIVE CUSTOMER DUE DILIGENCE PROCESS" target="SELF-DECLARATIONS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="COMPREHENSIVE CUSTOMER DUE DILIGENCE PROCESS" target="DOCUMENTATION FROM PROFESSIONAL THIRD PARTIES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="COMPANY SEARCHES" target="JURISDICTION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CERTIFICATES OF INCUMBENCY" target="JURISDICTION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="EXCEPTIONS TO CUSTOMER DUE DILIGENCE REQUIREMENTS" target="SELF-DECLARATIONS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="JURISDICTION" target="AML/CFT LAWS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="JURISDICTION" target="AML/CFT REGULATIONS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="JURISDICTION" target="CORRUPTION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="JURISDICTION" target="REGULATORY AUTHORITY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="AI POLICY" target="WAIVER">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="TRUSTEE" target="EXPRESS TRUST">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="TRUSTEE" target="TRUST ACCOUNT">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="TRUSTEE" target="TRUST">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="RESIDENTIAL ADDRESS VERIFICATION" target="DIRECTOR">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RESIDENTIAL ADDRESS VERIFICATION" target="SIGNATORY">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RESIDENTIAL ADDRESS VERIFICATION" target="SETTLOR/GRANTOR/FOUNDER">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RESIDENTIAL ADDRESS VERIFICATION" target="PROTECTOR">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RESIDENTIAL ADDRESS VERIFICATION" target="KNOWN BENEFICIARY">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CORPORATE CUSTOMER" target="MULTI-LAYER OWNERSHIP STRUCTURE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CORPORATE CUSTOMER" target="LISTED COMPANY">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="DIRECTOR" target="REGULATED FINANCIAL INSTITUTION">
+      <data key="d0">30.0</data>
+    </edge>
+    <edge source="PROTECTOR" target="TRUST ACCOUNT">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="PROTECTOR" target="TRUST">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="TRUST SUBSIDIARY" target="GROUP KNOW-YOUR-CUSTOMER POLICY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="BEARER SHARES" target="CUSTOMER DUE DILIGENCE PROCEDURES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="BEARER SHARES" target="IMMOBILIZATION OF SHARES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="GROUP KNOW-YOUR-CUSTOMER POLICY" target="FATF STANDARDS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="INTERMEDIARIES" target="FATF STANDARDS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="INTERMEDIARIES" target="LEGAL REQUIREMENTS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="INTERMEDIARIES" target="INTERMEDIARY REGULATION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="BENEFICIARY" target="TRUST ACCOUNT">
+      <data key="d0">11.0</data>
+    </edge>
+    <edge source="BENEFICIARY" target="TRUST">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="BENEFICIARY" target="BENEFICIARY INSTITUTION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="DOCUMENTATION" target="FOLLOW-UP ACTIONS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FATF STANDARDS" target="REMITTING BANK">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CLIENT ACCOUNT" target="PROFESSIONAL INTERMEDIARY">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="CLIENT ACCOUNT" target="UNIT TRUST">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CLIENT ACCOUNT" target="MUTUAL FUND">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CLIENT ACCOUNT" target="INVESTMENT SCHEME">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CORRESPONDENCE ADDRESS VERIFICATION" target="WIRE TRANSFER MESSAGE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="WIRE TRANSFER MESSAGE" target="ORDERING AUTHORIZED INSTITUTION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="WIRE TRANSFER MESSAGE" target="RISK-BASED METHODS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="WIRE TRANSFER MESSAGE" target="BENEFICIARY AI">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="WIRE TRANSFER MESSAGE" target="WIRE TRANSFER TRANSACTION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="POLITICALLY EXPOSED PERSONS" target="SYSTEMS AND CONTROLS">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="POLITICALLY EXPOSED PERSONS" target="ENHANCED DUE DILIGENCE">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="POLITICALLY EXPOSED PERSONS" target="SENIOR MANAGEMENT APPROVAL">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="POLITICALLY EXPOSED PERSONS" target="CONNECTED PARTIES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CORRESPONDENT BANKING" target="RISK MANAGEMENT FRAMEWORK">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CORRESPONDENT BANKING" target="FORMAL DELEGATION OF AUTHORITY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CORRESPONDENT BANKING" target="PROPER DOCUMENTATION">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CORRESPONDENT BANKING" target="NEW CORRESPONDENT BANKING RELATIONSHIP APPROVAL PROCESS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="CORRESPONDENT BANKING" target="PAYABLE-THROUGH ACCOUNTS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="WIRE TRANSFER ACTIVITIES" target="ORIGINATOR INFORMATION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="FORMAL DELEGATION OF AUTHORITY" target="NEW CORRESPONDENT BANKING RELATIONSHIP APPROVAL">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="PROPER DOCUMENTATION" target="NEW CORRESPONDENT BANKING RELATIONSHIP APPROVAL">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ORIGINATOR INFORMATION" target="ORDERING AUTHORIZED INSTITUTION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="ORIGINATOR INFORMATION" target="VERIFICATION OF ORIGINATOR INFORMATION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SHELL BANK" target="CORRESPONDENT BANK">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="EXISTING ACCOUNT" target="TRANSACTION">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="TRANSACTION" target="ENHANCED DUE DILIGENCE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="TRANSACTION" target="CDD REVIEW">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERMEDIARY" target="PROFESSIONAL REGISTRATION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERMEDIARY" target="CUSTOMER DUE DILIGENCE PROCEDURES">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="INTERMEDIARY" target="SFC">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERMEDIARY" target="OCI">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="INTERMEDIARY" target="SYSTEMS TO VERIFY CUSTOMER IDENTITY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERMEDIARY" target="FIT AND PROPER CRITERIA">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERMEDIARY" target="INTERMEDIARY CERTIFICATE">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="INTERMEDIARY" target="CERTIFIER">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CUSTOMER DUE DILIGENCE PROCEDURES" target="OWNERSHIP STRUCTURE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CUSTOMER DUE DILIGENCE PROCEDURES" target="NOMINEE SHAREHOLDER">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERMEDIARY CERTIFICATE" target="SUITABLE CERTIFIER">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SUITABLE CERTIFIER" target="CERTIFIED COPIES">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SUITABLE CERTIFIER" target="EMBASSY, CONSULATE OR HIGH COMMISSION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SUITABLE CERTIFIER" target="MEMBER OF THE JUDICIARY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SUITABLE CERTIFIER" target="SENIOR CIVIL OFFICIAL">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="PERIODIC REVIEW" target="ONGOING MONITORING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="NON FACE-TO-FACE DOCUMENT VERIFICATION" target="CERTIFIER">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="REGULATED FINANCIAL INSTITUTION" target="OFFICER">
+      <data key="d0">30.0</data>
+    </edge>
+    <edge source="REGULATED FINANCIAL INSTITUTION" target="MANAGER">
+      <data key="d0">12.0</data>
+    </edge>
+    <edge source="EMBASSY" target="COUNTRY OF ISSUE">
+      <data key="d0">28.0</data>
+    </edge>
+    <edge source="COUNTRY OF ISSUE" target="CONSULATE">
+      <data key="d0">28.0</data>
+    </edge>
+    <edge source="COUNTRY OF ISSUE" target="HIGH COMMISSION">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="COMPETENT AUTHORITIES" target="WRITTEN FINDINGS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="BUSINESS RELATIONSHIPS AND TRANSACTIONS" target="WRITTEN FINDINGS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="BENEFICIAL OWNERS" target="NON-LISTED COMPANY">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="BENEFICIAL OWNERS" target="PRINCIPAL SHAREHOLDERS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="BENEFICIAL OWNERS" target="OWNERSHIP STRUCTURE">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="COUNTERMEASURES" target="JURISDICTIONS WITH DEFICIENCIES">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="COUNTERMEASURES" target="ENHANCED SURVEILLANCE AND REPORTING">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="COUNTERMEASURES" target="AML/CFT LAWS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="COUNTERMEASURES" target="AML/CFT REGULATIONS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="COUNTERMEASURES" target="CORRUPTION">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CREDIBLE SOURCES" target="UNITED NATIONS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CREDIBLE SOURCES" target="EGMONT GROUP OF FINANCIAL INTELLIGENCE UNITS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="JURISDICTIONS WITH DEFICIENCIES" target="REPUTATION RISK">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="JURISDICTIONS WITH DEFICIENCIES" target="TERRORIST ORGANISATIONS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING AND TERRORIST FINANCING PREVENTION CONTROLS" target="COMPLIANCE FUNCTION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING AND TERRORIST FINANCING PREVENTION CONTROLS" target="INTERNAL AUDIT FUNCTION">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="COMPLIANCE FUNCTION" target="HEAD OFFICE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="COMPLIANCE FUNCTION" target="SUSPICION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="COMPLIANCE FUNCTION" target="COMPLIANCE OFFICER">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="COMPLIANCE FUNCTION" target="FINANCIAL CRIME">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="COMPLIANCE FUNCTION" target="INTERNAL AUDIT FUNCTION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="COMPLIANCE FUNCTION" target="COMPLIANCE OFFICER FUNCTION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="COMPLIANCE FUNCTION" target="CLIENT ACCEPTANCE POLICY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="COMPLIANCE FUNCTION" target="SENSITIVE CUSTOMER">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="COMPLIANCE FUNCTION" target="TRANSACTION REPORTS">
+      <data key="d0">19.0</data>
+    </edge>
+    <edge source="COMPLIANCE FUNCTION" target="SUSPICIOUS FUND TRANSFERS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="COMPLIANCE FUNCTION" target="AML/CFT PROCEDURES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT FUNCTION" target="HEAD OFFICE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT FUNCTION" target="MANAGEMENT INFORMATION SYSTEM REPORTS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT FUNCTION" target="FRONT LINE STAFF">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT FUNCTION" target="MONEY LAUNDERING PREVENTION POLICIES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT FUNCTION" target="SUSPICIOUS TRANSACTION REPORTS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERNAL AUDIT FUNCTION" target="LARGE OR IRREGULAR TRANSACTIONS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="JURISDICTIONS WITH INSUFFICIENT FATF APPLICATION" target="WITHDRAWAL FROM JURISDICTIONS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POLICIES AND PROCEDURES" target="OVERSEAS UNITS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="TRUST ACCOUNT" target="SETTLOR/GRANTOR">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="NOMINEE ACCOUNT" target="NOMINEE">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SETTLOR/GRANTOR" target="TRUST">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="NON-FACE-TO-FACE CUSTOMERS" target="CERTIFICATION OF IDENTITY DOCUMENTS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="NON-FACE-TO-FACE CUSTOMERS" target="ON-LINE QUESTIONNAIRES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="NON-FACE-TO-FACE CUSTOMERS" target="THIRD PARTY INTRODUCTION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="NON-FACE-TO-FACE CUSTOMERS" target="ONGOING MONITORING">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="NON-FACE-TO-FACE CUSTOMERS" target="REFUSAL OF BUSINESS RELATIONSHIP">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NON-FACE-TO-FACE CUSTOMERS" target="FIRST PAYMENT VERIFICATION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="NON-FACE-TO-FACE CUSTOMERS" target="FREQUENT INFORMATION UPDATE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NON-FACE-TO-FACE CUSTOMERS" target="CUSTOMER IDENTIFICATION PROCEDURES">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="NON-FACE-TO-FACE CUSTOMERS" target="INDEPENDENT CUSTOMER CONTACT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="NON-FACE-TO-FACE CUSTOMERS" target="ON-GOING MONITORING STANDARDS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="FACE-TO-FACE INTERVIEW" target="HIGHER RISK CUSTOMERS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="CUSTOMER IDENTIFICATION PROCEDURES" target="PAYABLE-THROUGH ACCOUNTS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CERTIFICATION OF IDENTITY DOCUMENTS" target="SUITABLE CERTIFIERS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="ONGOING MONITORING" target="MONITORING SYSTEM">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ONGOING MONITORING" target="RELATIONSHIP MANAGEMENT">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="ONGOING MONITORING" target="MANAGEMENT INFORMATION SYSTEMS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="ON-GOING DUE DILIGENCE AND SCRUTINY" target="CUSTOMER INFORMATION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ON-GOING DUE DILIGENCE AND SCRUTINY" target="RISK PROFILE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="JOINT FINANCIAL INTELLIGENCE UNIT" target="FUNDS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="JOINT FINANCIAL INTELLIGENCE UNIT" target="FREEZING OF FUNDS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="JOINT FINANCIAL INTELLIGENCE UNIT" target="REPORT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="BUSINESS RELATIONSHIP" target="BUSINESS RELATIONSHIP REVIEW">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="BUSINESS RELATIONSHIP" target="CUSTOMER ACCEPTANCE POLICY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="BUSINESS RELATIONSHIP" target="MANAGEMENT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="BUSINESS RELATIONSHIP" target="CUSTOMER RISK PROFILE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="FUNDS" target="FIU">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="ACCOUNT" target="FREEZING OF FUNDS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="OWNERSHIP STRUCTURE" target="NON-LISTED COMPANY">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="OWNERSHIP STRUCTURE" target="FINANCIAL INSTITUTION REGULATED BY HKMA, SFC OR OCI">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="OWNERSHIP STRUCTURE" target="FINANCIAL INSTITUTION SUPERVISED BY EQUIVALENT AUTHORITY">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ENHANCED DUE DILIGENCE" target="ONE-OFF TRANSACTION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ENHANCED DUE DILIGENCE" target="RISK FACTORS FOR PEPS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ENHANCED DUE DILIGENCE" target="INTERNATIONAL STANDARD">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="TRANSACTION_MONITORING" target="FINANCIAL CRIME">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="FINANCIAL CRIME" target="SOURCE OF FUNDS VERIFICATION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="FINANCIAL CRIME" target="EVIDENCE OF AUTHORITY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FINANCIAL CRIME" target="CUSTOMER ACCEPTANCE POLICY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ORDERING INSTITUTION" target="ORIGINATOR">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT POLICY" target="COMPLIANCE OFFICER">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT POLICY" target="CUSTOMER ACCEPTANCE POLICY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT POLICY" target="RISK GOVERNANCE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT POLICY" target="HIGH-RISK CUSTOMER">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="RISK MANAGEMENT POLICY" target="CUSTOMER DOCUMENTATION STANDARDS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="COMPLIANCE OFFICER" target="ON-GOING MONITORING PROCEDURES">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="HKMA GUIDELINE ON PREVENTION OF MONEY LAUNDERING" target="CUSTOMER IDENTIFICATION PROCEDURE">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="COMPLIANCE OFFICER FUNCTION" target="SUSPICIOUS TRANSACTION REPORTS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="MANAGEMENT INFORMATION SYSTEM REPORTS" target="MANAGEMENT INFORMATION SYSTEMS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="MANAGEMENT INFORMATION SYSTEM REPORTS" target="RISK LIMIT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MANAGEMENT INFORMATION SYSTEM REPORTS" target="FOLLOW-UP ACTIONS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING PREVENTION POLICIES" target="BOARD OF DIRECTORS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING PREVENTION POLICIES" target="FRONT LINE STAFF AWARENESS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BOARD OF DIRECTORS" target="CUSTOMER IDENTIFICATION PROCEDURE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="BOARD OF DIRECTORS" target="BOARD RESOLUTION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="CUSTOMER IDENTIFICATION PROCEDURE" target="CERTIFICATE OF INCORPORATION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="CUSTOMER IDENTIFICATION PROCEDURE" target="BUSINESS REGISTRATION CERTIFICATE">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="CUSTOMER IDENTIFICATION PROCEDURE" target="MEMORANDUM AND ARTICLES OF ASSOCIATION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="CUSTOMER IDENTIFICATION PROCEDURE" target="SEARCH RECORD AT THE COMPANY REGISTRY">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="CUSTOMER IDENTIFICATION PROCEDURE" target="EVIDENCE OF ADDRESS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="BUSINESS REGISTRATION CERTIFICATE" target="ACCOUNT OPENING PROCESS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MEMORANDUM AND ARTICLES OF ASSOCIATION" target="ACCOUNT OPENING PROCESS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SEARCH RECORD AT THE COMPANY REGISTRY" target="ACCOUNT OPENING PROCESS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="EVIDENCE OF ADDRESS" target="ACCOUNT OPENING PROCESS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING PREVENTION GUIDELINE" target="CUSTOMER ACCOUNT OPENING DOCUMENTS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING PREVENTION GUIDELINE" target="SOURCE OF FUNDS VERIFICATION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MONEY LAUNDERING PREVENTION GUIDELINE" target="EVIDENCE OF AUTHORITY">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CUSTOMER ACCOUNT OPENING DOCUMENTS" target="SOURCE OF FUNDS VERIFICATION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CUSTOMER ACCOUNT OPENING DOCUMENTS" target="EVIDENCE OF AUTHORITY">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CUSTOMER ACCOUNT OPENING DOCUMENTS" target="ACCOUNT OPENING PROCESS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="CUSTOMER ACCOUNT OPENING DOCUMENTS" target="SIGNATURE VERIFICATION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="SOURCE OF FUNDS VERIFICATION" target="ACCOUNT OPENING PROCESS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SOURCE OF FUNDS VERIFICATION" target="CUSTOMER OCCUPATION AND BUSINESS ACTIVITIES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="EVIDENCE OF AUTHORITY" target="ACCOUNT OPENING PROCESS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ACCOUNT OPENING PROCESS" target="CUSTOMER OCCUPATION AND BUSINESS ACTIVITIES">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CUSTOMER DUE DILIGENCE (CDD) PROCESS" target="CLIENT PROFILE INFORMATION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="CUSTOMER DUE DILIGENCE (CDD) PROCESS" target="CUSTOMER FILE">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="CUSTOMER DUE DILIGENCE (CDD) PROCESS" target="RELATIONSHIP MANAGER">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="CUSTOMER DUE DILIGENCE (CDD) PROCESS" target="MONITORING SYSTEM">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="PRIVATE BANKING CUSTOMER" target="CDD REVIEW">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="CLIENT ACCEPTANCE POLICY" target="BANKER'S REFERENCE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CLIENT ACCEPTANCE POLICY" target="VISITATION POLICY">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CDD REVIEW" target="INACTIVE ACCOUNT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HKMA GUIDELINE" target="AMENDMENTS TO GUIDELINE">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="HKMA GUIDELINE" target="9/11 EVENT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="HKMA GUIDELINE" target="INTERPRETATIVE NOTES (IN)">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="OVERSEAS BRANCHES OR SUBSIDIARIES" target="LOCAL LAWS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CUSTOMERS" target="REVIEW PROCESS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="FUNDS CO-MINGLING" target="PROFESSIONAL INTERMEDIARY">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="UNIT TRUST" target="PROFESSIONAL INTERMEDIARY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MUTUAL FUND" target="PROFESSIONAL INTERMEDIARY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INVESTMENT SCHEME" target="PROFESSIONAL INTERMEDIARY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="PROFESSIONAL INTERMEDIARY" target="IDENTITY VERIFICATION SYSTEMS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SENIOR MANAGEMENT APPROVAL" target="POLITICALLY EXPOSED PERSONS (PEPS)">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="POLITICALLY EXPOSED PERSON" target="CUSTOMER ACCEPTANCE POLICY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK FACTORS RELATED TO PEPS" target="GOVERNMENT-OWNED BANK ACCOUNTS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RISK FACTORS RELATED TO PEPS" target="COMMISSION ON GOVERNMENT CONTRACTS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CUSTOMER ACCEPTANCE POLICY" target="HIGH NET WORTH INDIVIDUAL">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CUSTOMER ACCEPTANCE POLICY" target="MONEY CHANGERS AND CASINOS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CUSTOMER ACCEPTANCE POLICY" target="BUSINESS RELATIONSHIP APPROVAL">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CUSTOMER ACCEPTANCE POLICY" target="NATIONALITY, CITIZENSHIP AND RESIDENT STATUS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CUSTOMER ACCEPTANCE POLICY" target="HIGHER RISK JURISDICTIONS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CUSTOMER ACCEPTANCE POLICY" target="COMPLEX OWNERSHIP STRUCTURE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CUSTOMER ACCEPTANCE POLICY" target="INTERNAL GUIDELINES">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CUSTOMER ACCEPTANCE POLICY" target="CUSTOMER RISK PROFILE">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="CUSTOMER ACCEPTANCE POLICY" target="RISK TYPE">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NATIONALITY, CITIZENSHIP AND RESIDENT STATUS" target="CUSTOMER RISK PROFILE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="INTERNAL GUIDELINES" target="INTERNAL GUIDELINES ON MANAGEMENT APPROVAL">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="FATF SPECIAL RECOMMENDATION ON TERRORIST FINANCING" target="WIRE TRANSFER MESSAGE REQUIREMENTS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="WIRE TRANSFER MESSAGE REQUIREMENTS" target="ORDERING AUTHORIZED INSTITUTION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="WIRE TRANSFER MESSAGE REQUIREMENTS" target="WIRE TRANSFER AMOUNT THRESHOLD">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="WIRE TRANSFER MESSAGE REQUIREMENTS" target="GUIDELINE">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="ORDERING AUTHORIZED INSTITUTION" target="RISK-BASED APPROACH TO WIRE TRANSFERS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ORDERING AUTHORIZED INSTITUTION" target="BENEFICIARY FINANCIAL INSTITUTION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ORDERING AUTHORIZED INSTITUTION" target="VERIFICATION OF ORIGINATOR INFORMATION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="ORDERING AUTHORIZED INSTITUTION" target="REQUEST FOR ORIGINATOR INFORMATION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="ORDERING AUTHORIZED INSTITUTION" target="SUSPICIOUS WIRE TRANSFER MONITORING">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="ORDERING AUTHORIZED INSTITUTION" target="THIRD PARTY WIRE TRANSFER RISK">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="ORDERING AUTHORIZED INSTITUTION" target="WIRE TRANSFER AMOUNT THRESHOLD">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="RISK-BASED APPROACH TO WIRE TRANSFERS" target="SUSPICIOUS WIRE TRANSFER MONITORING">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RISK-BASED APPROACH TO WIRE TRANSFERS" target="GUIDELINE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="BENEFICIARY FINANCIAL INSTITUTION" target="REQUEST FOR ORIGINATOR INFORMATION">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="REQUEST FOR ORIGINATOR INFORMATION" target="APPROPRIATE AUTHORITIES">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="SUSPICIOUS WIRE TRANSFER MONITORING" target="THIRD PARTY WIRE TRANSFER RISK">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="RISK-BASED METHODS" target="BENEFICIARY AI">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="REMITTING BANK" target="BENEFICIARY AI">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="WIRE TRANSFER TRANSACTION" target="ORDERING PERSON">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="WIRE TRANSFER TRANSACTION" target="STRAIGHT-THROUGH PROCESSING">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="LISTED COMPANY" target="SUBSIDIARY COMPANY">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="NON-BANK FINANCIAL INSTITUTION" target="SECURITIES AND FUTURES COMMISSION">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="NON-BANK FINANCIAL INSTITUTION" target="INSURANCE AUTHORITY">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="SECURITIES AND FUTURES COMMISSION" target="FATF MEMBER JURISDICTION">
+      <data key="d0">16.0</data>
+    </edge>
+    <edge source="INSURANCE AUTHORITY" target="FATF MEMBER JURISDICTION">
+      <data key="d0">16.0</data>
+    </edge>
+    <edge source="BENEFICIAL OWNERSHIP" target="OWNERSHIP CHAIN">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="MANAGEMENT INFORMATION SYSTEMS" target="SUSPICIOUS TRANSACTIONS">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="REGULATORY AUTHORITY" target="INTERNATIONAL STANDARD">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="HIGH-RISK CUSTOMER" target="CUSTOMER RECORDS REVIEW">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="EXISTING ACCOUNTS" target="SIGNIFICANT TRANSACTION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="EXISTING ACCOUNTS" target="CUSTOMER DOCUMENTATION STANDARDS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CUSTOMER RECORDS REVIEW" target="TRIGGER EVENT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="TRIGGER EVENT" target="SIGNIFICANT TRANSACTION">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="TRIGGER EVENT" target="CUSTOMER DOCUMENTATION STANDARDS">
+      <data key="d0">9.0</data>
+    </edge>
+  </graph>
+</graphml>

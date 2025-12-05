@@ -1,0 +1,3603 @@
+[
+    {
+        "type": "table",
+        "img_path": "images/e0481450631c285d804efa439549426b9f4207b138dc4474dc4b01cac9aeca36.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"3\">HoNG KoNG MoNETARY AUTHORITY </td></tr><tr><td colspan=\"3\">香港金融管理局</td></tr><tr><td>Supervisory Policy Manual</td><td></td><td>V.3 - 06.10.2017</td></tr><tr><td>IC-1</td><td>Risk Management Framework</td><td></td></tr></table>",
+        "bbox": [
+            139,
+            39,
+            878,
+            166
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "This module should be read in conjunction with the Introduction and with the Glossary, which contains an explanation of abbreviations and other terms used in this Manual. If reading on-line, click on blue underlined headings to activate hyperlinks to the relevant module. ",
+        "bbox": [
+            149,
+            195,
+            852,
+            261
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Purpose ",
+        "text_level": 1,
+        "bbox": [
+            149,
+            328,
+            245,
+            347
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To specify the key elements of a risk management framework which the MA expects AIs to have in place. ",
+        "bbox": [
+            208,
+            360,
+            848,
+            393
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Classification ",
+        "text_level": 1,
+        "bbox": [
+            149,
+            414,
+            304,
+            434
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A statutory guideline issued by the MA under the Banking Ordinance, $\\ S 7 ( 3 )$ . ",
+        "bbox": [
+            208,
+            441,
+            848,
+            474
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Previous guidelines superseded ",
+        "text_level": 1,
+        "bbox": [
+            147,
+            495,
+            514,
+            514
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "IC-1 “General Risk Management Controls” (V.1) dated 25.04.03 and (V.2) dated 31.12.2010. ",
+        "bbox": [
+            206,
+            521,
+            850,
+            554
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Application ",
+        "text_level": 1,
+        "bbox": [
+            149,
+            576,
+            280,
+            595
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To all AIs. ",
+        "bbox": [
+            211,
+            602,
+            302,
+            618
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Structure ",
+        "text_level": 1,
+        "bbox": [
+            147,
+            640,
+            257,
+            659
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "bbox": [
+            211,
+            667,
+            379,
+            683
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 Background   \n1.2 Application ",
+        "bbox": [
+            270,
+            689,
+            442,
+            731
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2. Key elements of an effective risk management framework ",
+        "bbox": [
+            208,
+            737,
+            788,
+            755
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.1 Risk governance   \n2.2 Risk appetite framework ",
+        "bbox": [
+            268,
+            760,
+            551,
+            801
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3. Responsibilities of the Board and senior management ",
+        "bbox": [
+            210,
+            807,
+            754,
+            825
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3.1 Overall responsibilities   \n3.2 Setting of risk appetite and monitoring   \n3.3 Firm-wide risk management ",
+        "bbox": [
+            267,
+            831,
+            673,
+            896
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/f0e5a58024eb60fa86acd3bdaafff68196c4bccc92f2ab3e238bb8474a4b9800.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"3\">HoNG KoNG MoNETARY AUTHORITY </td></tr><tr><td colspan=\"3\">香港金融管理局</td></tr><tr><td>Supervisory Policy Manual</td><td></td><td>V.3 - 06.10.2017</td></tr><tr><td>IC-1</td><td>Risk Management Framework</td><td></td></tr></table>",
+        "bbox": [
+            139,
+            40,
+            880,
+            166
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.4 Use of specialised committees ",
+        "bbox": [
+            267,
+            195,
+            608,
+            212
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4. Risk management policies, procedures and limits ",
+        "bbox": [
+            208,
+            218,
+            712,
+            236
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4.1 Policies and procedures   \n4.2 Risk limits   \n4.3 New products and services ",
+        "bbox": [
+            267,
+            242,
+            578,
+            306
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5. Risk management systems and processes ",
+        "bbox": [
+            208,
+            312,
+            653,
+            330
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5.1 Risk management function   \n5.2 Risk management information system   \n5.3 Risk measurement and assessment   \n5.4 Risk-adjusted performance measurement   \n5.5 Sensitivity analysis and stress-testing ",
+        "bbox": [
+            267,
+            335,
+            710,
+            449
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "6. Internal controls, audits and contingency planning ",
+        "bbox": [
+            206,
+            454,
+            715,
+            472
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "6.1 Internal control system   \n6.2 Internal audit function   \n6.3 Compliance function   \n6.4 Contingency, business continuity and recovery planning ",
+        "bbox": [
+            267,
+            478,
+            835,
+            568
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/fae1fb0f7c91ee351ee2d046c1b639f824bf7db43e00205da05c4c00276c7b09.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"3\">HoNG KoNG MoNETARY AUTHORITY </td></tr><tr><td colspan=\"3\">香港金融管理局</td></tr><tr><td>Supervisory Policy Manual</td><td></td><td></td></tr><tr><td>IC-1</td><td>Risk Management Framework</td><td>V.3 - 06.10.2017</td></tr></table>",
+        "bbox": [
+            139,
+            39,
+            880,
+            166
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "bbox": [
+            151,
+            202,
+            349,
+            222
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 Background ",
+        "text_level": 1,
+        "bbox": [
+            210,
+            235,
+            389,
+            253
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.1 Risk-taking is an integral part of banking business. Each AI has to find an appropriate balance between the level of risk the AI is willing and able to take and the level of return it seeks to attain, without undermining its overall financial soundness and viability. An effective risk management framework, that is commensurate with the size and complexity of an AI’s operations, needs to be in place to help ensure that risks are well managed within the AI’s risk appetite and that the necessary systems and controls achieve their intended results. ",
+        "bbox": [
+            272,
+            266,
+            850,
+            430
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.2 According to the “Core Principles for Effective Banking Supervision” issued by the Basel Committee on Banking Supervision in September 2012 (“Basel Core Principles”), banking supervisors should be satisfied that banks have in place a comprehensive risk management process (including Board and senior management oversight) to identify, measure, evaluate, monitor, report and control or mitigate all material risks on a timely basis and to assess the adequacy of their capital and liquidity in relation to their risk profile and market and macroeconomic conditions. ",
+        "bbox": [
+            272,
+            445,
+            852,
+            624
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.3 Consistent with the Basel Core Principles, the HKMA requires AIs, under its risk-based supervisory approach, to establish a sound and effective system to manage each of the eight inherent risks (viz. credit, market, interest rate, liquidity, operational, reputation, legal and strategic) to which they are exposed (see SA-1 “Riskbased Supervisory Approach”). Locally incorporated AIs are also required to have adequate internal systems for assessing capital adequacy in relation to the risks they assume (as prescribed in CA-G-5 “Supervisory Review Process”). ",
+        "bbox": [
+            272,
+            639,
+            850,
+            820
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.4 This module is intended to set out the HKMA’s expectations in respect of AIs’ risk management frameworks. Some of the specific systems and controls associated with various inherent risks are separately described in other modules.1 ",
+        "bbox": [
+            272,
+            834,
+            850,
+            883
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/d57b9f5a889e9d22b285a54866ac44852f50fefbdc3bb64633378da455d20858.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"3\">HoNG KoNG MoNETARY AUTHORITY </td></tr><tr><td colspan=\"3\">香港金融管理局</td></tr><tr><td>Supervisory Policy Manual</td><td></td><td>V.3 - 06.10.2017</td></tr><tr><td>IC-1</td><td>Risk Management Framework</td><td></td></tr></table>",
+        "bbox": [
+            139,
+            39,
+            878,
+            166
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            334,
+            195,
+            850,
+            228
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2 Application ",
+        "text_level": 1,
+        "bbox": [
+            211,
+            242,
+            383,
+            260
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The standards in this module will be applied to AIs on a proportionate basis, having regard to their size, nature and complexity of operations. Thus, AIs having a relatively small and simple business operation may not need to adopt and operate a risk management framework which is as extensive and as sophisticated as that of a large and complex AI. In general, locally incorporated AIs should apply these standards on the solo-entity basis and, where applicable, the consolidated basis covering their subsidiaries and, to the extent practicable, associated companies and joint ventures which may expose them to significant potential risk.2 International banking groups operating in Hong Kong (whether in the form of a local subsidiary or a branch) should have a local risk management framework appropriate for their Hong Kong operations. If certain risk management functions pertaining to a banking group’s Hong Kong operations are centralized at the group or regional level, the AI, upon request by the HKMA, should be able to demonstrate that the relevant functions performed at the group or regional level are appropriate for the size, nature and complexity of the local operations and are in line with the standards in this module in all material aspects. ",
+        "bbox": [
+            324,
+            274,
+            850,
+            667
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 Failure to adhere to the standards set out in this module may call into question whether an AI continues to satisfy the minimum criteria for authorization in the Banking Ordinance and cast doubt on the fitness and propriety of the AI’s directors, chief executives and other members of its senior management. ",
+        "bbox": [
+            270,
+            682,
+            852,
+            746
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/d130d110b318d2bc8019b9ad3c91fb73b2b63f536ef46df836a148c9e6304dce.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"3\">HoNG KoNG MoNETARY AUTHORITY </td></tr><tr><td colspan=\"3\">香港金融管理局</td></tr><tr><td>Supervisory Policy Manual</td><td></td><td>V.3 - 06.10.2017</td></tr><tr><td>IC-1</td><td>Risk Management Framework</td><td></td></tr></table>",
+        "bbox": [
+            139,
+            39,
+            878,
+            166
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            334,
+            195,
+            852,
+            228
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2. Key elements of an effective risk management framework ",
+        "bbox": [
+            149,
+            249,
+            853,
+            287
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1 Risk governance ",
+        "text_level": 1,
+        "bbox": [
+            210,
+            302,
+            435,
+            319
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 Risk governance refers to the formal arrangements that enable the Board of Directors (the Board) and senior management of an AI to establish sound business strategy, articulate and monitor adherence to risk appetite and risk limits, and identify, measure, manage and control risks. ",
+        "bbox": [
+            268,
+            332,
+            852,
+            430
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.2 To ensure effective risk management, an AI should have in place a set of robust risk governance arrangements, whereby responsibilities of the Board and senior management, and among different functions of the AI (and the respective risk owners), are well defined. The risk governance framework should also outline escalation and notification procedures (including vertically to the Board and senior management) as well as potential disciplinary actions for excessive risk-taking by individuals. ",
+        "bbox": [
+            268,
+            445,
+            850,
+            608
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.3 It is generally expected that responsibilities among different functions of the AI are defined in such a way that there are three lines of defence which are independent from each other: ",
+        "bbox": [
+            270,
+            624,
+            850,
+            689
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "the first line of defence is provided by the business units where risks are taken. In the course of conducting business activities, staff in the business units hold frontline positions in the proper identification, assessment, management and reporting of risk exposures on an ongoing basis, having regard to the AI’s risk appetite, policies, procedures and controls. The roles and responsibilities of risk owners in business units should be clearly defined3; ",
+        "bbox": [
+            336,
+            705,
+            850,
+            835
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/c8a7b86cfeb172d0ae3212a551acbfa091ee30028e6390a4144aacf4eb67f442.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"3\">HoNc KoNG MoNETARY AUTHORITY </td></tr><tr><td colspan=\"3\">香港金融管理局</td></tr><tr><td>Supervisory Policy Manual</td><td></td><td>V.3-06.10.2017</td></tr><tr><td>IC-1</td><td>Risk Management Framework</td><td></td></tr></table>",
+        "bbox": [
+            137,
+            39,
+            878,
+            166
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            371,
+            195,
+            850,
+            228
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "the second line of defence is provided by independent and effective risk management and compliance functions. The risk management function is primarily responsible for overseeing the AI’s risktaking activities, undertaking risk assessments and reporting independently from the business line, while the compliance function monitors compliance with laws, corporate governance rules, regulations and internal policies; and ",
+        "bbox": [
+            336,
+            243,
+            850,
+            391
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "the third line of defence is provided by an independent and effective internal audit function, which is responsible for providing assurance on the effectiveness of the AI’s risk management framework including the risk governance arrangements (including the first and second lines of defence described above). ",
+        "bbox": [
+            337,
+            406,
+            852,
+            520
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1.4 An overview of how these elements fit together is illustrated below, although this illustration is not intended to be prescriptive. ",
+        "bbox": [
+            268,
+            536,
+            850,
+            585
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/74ae517bc56b002ba3ae7aaa8baa41af5809240bdca8492e29e374896fd58a62.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"3\">HoNG KoNG MoNETARY AUTHORITY </td></tr><tr><td colspan=\"3\">香港金融管理局</td></tr><tr><td>Supervisory Policy Manual</td><td></td><td>V.3-06.10.2017</td></tr><tr><td>IC-1</td><td>Risk Management Framework</td><td></td></tr></table>",
+        "bbox": [
+            137,
+            39,
+            880,
+            166
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/90ec4c0874003c47192919273956671e0b25c7cab5f7f47bd82685c2b4d1e929.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=3 colspan=11>Elements of a sound risk management systemBoard of DirectorsUltimately responsible for riskmanagement</td></tr><tr><td rowspan=1 colspan=2>Board of Directors</td></tr><tr><td rowspan=1 colspan=2>Ultimately responsible for riskmanagement</td></tr><tr><td rowspan=1 colspan=11>Specialised Committees</td></tr><tr><td rowspan=1 colspan=11>Responsible for overseeing risk management</td></tr><tr><td rowspan=1 colspan=10>Risk Committee</td><td rowspan=1 colspan=1>RemunerationCommittee</td></tr><tr><td rowspan=2 colspan=8></td><td></td><td></td><td></td></tr><tr><td rowspan=1 colspan=4></td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=4>Asset and LiabilityCommitte</td><td rowspan=1 colspan=4>CreditCommitte</td><td rowspan=1 colspan=2>Operational RiskManagementCommittee</td><td rowspan=1 colspan=1>Other RiskManagementCommittees</td></tr><tr><td rowspan=1 colspan=8></td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=10>Senior Management</td><td></td></tr><tr><td rowspan=1 colspan=10>Responsible for overseeing day-to-day risk management</td><td></td></tr><tr><td rowspan=1 colspan=6>Individual BusinessUnits / Activities</td><td rowspan=1 colspan=1>(cid:)</td><td rowspan=1 colspan=3>RiskManagementUnit</td><td rowspan=1 colspan=1>(cid:)</td></tr><tr><td rowspan=1 colspan=6>Responsible for compliance withpolicies, procedures and limits(front office)</td><td rowspan=1 colspan=1>(cid:)</td><td rowspan=1 colspan=3>Responsible forday-to-day riskmanagement(middlle office)</td><td rowspan=1 colspan=1>(cid:)</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1> p!n!</td><td rowspan=1 colspan=1> </td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(cid:)</td><td rowspan=1 colspan=2>aauasssy</td><td rowspan=1 colspan=1> S</td><td rowspan=1 colspan=1></td></tr></table>",
+        "bbox": [
+            149,
+            218,
+            875,
+            785
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/0d9c277c214ddc3957a41bb85eafe62444e890c9f9736a13e6c8d1cae8a00e86.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"3\">HoNc KoNG MoNETARY AUTHORITY </td></tr><tr><td colspan=\"3\">香港金融管理局</td></tr><tr><td>Supervisory Policy Manual</td><td></td><td>V.3-06.10.2017</td></tr><tr><td>IC-1</td><td>Risk Management Framework</td><td></td></tr></table>",
+        "bbox": [
+            137,
+            39,
+            878,
+            166
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1.5 Furthermore, effective risk governance requires a strong risk culture 4 which promotes risk awareness and encourages open communication and challenge with regard to risk-taking across the AI (including vertically to and from the Board and senior management). Obstacles that impede legitimate sharing of information across different functions within an AI (e.g. competition between, or incompatible IT systems among, business lines) should be avoided, as these obstacles may result in decisions being made in silos which may not be in the best interest of the AI as a whole. 5 Information communicated to the Board and senior management should be timely, accurate and presented in an understandable and concise format. Material risk-related information that requires immediate decision or reaction should be promptly presented to senior management and the Board (as appropriate), the responsible officers and, where applicable, the heads of control functions, so that suitable measures can be initiated at an early stage. ",
+        "bbox": [
+            297,
+            193,
+            852,
+            507
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.1.6 Risk governance arrangements should be documented and updated as appropriate. An AI should have appropriate procedures in place to ensure that all relevant staff (including business units) are aware of and understand these arrangements and their respective roles in the oversight and management of risk. ",
+        "bbox": [
+            268,
+            521,
+            852,
+            620
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2 Risk appetite framework ",
+        "text_level": 1,
+        "bbox": [
+            211,
+            633,
+            505,
+            651
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 In addition to a set of robust risk governance arrangements, it is also important that an AI’s risk management is underpinned by an effective risk appetite framework, which refers to the policies, processes, controls and systems, with clearly defined responsibilities, through which risk appetite is established, communicated and monitored. ",
+        "bbox": [
+            268,
+            664,
+            852,
+            747
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/3ff5cca53039376d6863e507332d07682e13936217a8a49c8d520b782c8eaad9.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"3\">HoNG KoNG MoNETARY AUTHORITY </td></tr><tr><td colspan=\"3\">香港金融管理局</td></tr><tr><td>Supervisory Policy Manual</td><td></td><td></td></tr><tr><td>IC-1</td><td>Risk Management Framework</td><td>V.3 - 06.10.2017</td></tr></table>",
+        "bbox": [
+            137,
+            39,
+            878,
+            166
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            336,
+            195,
+            852,
+            228
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 The risk appetite framework of an AI should be driven by leadership from the Board and senior management, supplemented as appropriate by the involvement of management at functional and affiliated entity levels, for the purpose of providing information and analysis to facilitate the assessment of risk appetite (by senior management) and the review and final approval of a risk appetite framework and statement (by the Board). The framework should facilitate the embedding of the risk appetite into the AI’s risk culture. The establishment and effective implementation of a risk appetite statement and risk limits are key to a sound risk appetite framework (see subsections 3.2 and 4.2 for more details). ",
+        "bbox": [
+            272,
+            242,
+            852,
+            455
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3. Responsibilities of the Board and senior management ",
+        "text_level": 1,
+        "bbox": [
+            147,
+            476,
+            815,
+            497
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1 Overall responsibilities ",
+        "text_level": 1,
+        "bbox": [
+            211,
+            510,
+            494,
+            527
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1.1 The Board and senior management of an AI have the primary responsibility to understand the overall risk profile of an AI and ensure that the risks run by the AI are properly managed. In particular, the Board and senior management must have a clear vision of the significant risks faced by the AI. ",
+        "bbox": [
+            270,
+            541,
+            852,
+            639
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1.2 In fulfilling this responsibility, the Board and senior management should, among other things: ",
+        "bbox": [
+            268,
+            653,
+            852,
+            687
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "have sufficient knowledge and expertise to understand all material risks faced by the AI, including the risks associated with new or complex products and high risk activities, and the interaction of these risks under stressed conditions; ",
+        "bbox": [
+            337,
+            702,
+            852,
+            783
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "have direct involvement in setting, and monitoring adherence to, the AI’s risk appetite, which should be commensurate with its operations and strategic goals; ",
+        "bbox": [
+            336,
+            799,
+            850,
+            865
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/95131d0bc0d482e96430909899eebaf31d861195163270ef3b497a449e6dc46e.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"3\">HoNc KoNG MoNETARY AUTHORITY </td></tr><tr><td colspan=\"3\">香港金融管理局</td></tr><tr><td>Supervisory Policy Manual</td><td></td><td>V.3 -06.10.2017</td></tr><tr><td>IC-1</td><td>Risk Management Framework</td><td></td></tr></table>",
+        "bbox": [
+            137,
+            39,
+            878,
+            166
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "create a strong risk culture throughout the AI and ensure that the AI’s risk appetite is well enshrined within the culture; ",
+        "bbox": [
+            336,
+            196,
+            852,
+            246
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "establish an organisation and management structure with a sound control environment, adequate segregation of duties and clear accountability and lines of authority; ",
+        "bbox": [
+            337,
+            260,
+            852,
+            326
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "dedicate sufficient time, effort and resources to overseeing and participating in the AI’s risk management process, with a full and ongoing commitment to risk control; ",
+        "bbox": [
+            336,
+            342,
+            850,
+            407
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "evaluate regularly the risks faced by the AI, and maintain continued awareness of the AI’s business and risk profiles and changes in the operating environment and financial markets that may give rise to emerging risks; ",
+        "bbox": [
+            337,
+            423,
+            852,
+            504
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ensure that the necessary infrastructure, systems and controls are developed and maintained to support effective risk management and governance; ",
+        "bbox": [
+            336,
+            520,
+            852,
+            569
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "set up effective controls to ensure the integrity of the AI’s overall risk management process and to monitor the AI’s compliance with all applicable laws, regulations, supervisory standards, best practices and internal policies and guidelines; ",
+        "bbox": [
+            339,
+            585,
+            850,
+            665
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ensure that the AI’s remuneration systems are consistent with, and promote, effective risk management and do not incentivise imprudent or excessive risk-taking (see CG-5 “Guideline on a Sound Remuneration System”); and ",
+        "bbox": [
+            339,
+            681,
+            850,
+            763
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "promote the establishment of regular and transparent communication mechanisms within the organisation. ",
+        "bbox": [
+            336,
+            780,
+            852,
+            827
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2 Setting of risk appetite and monitoring ",
+        "text_level": 1,
+        "bbox": [
+            208,
+            843,
+            643,
+            859
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2.1 The Board should develop in collaboration with the senior management and approve an AI’s risk appetite framework, and ensure that it is consistent with the AI’s strategic, business, capital and financial plans, as well as the AI’s risk-taking capacity and remuneration system. ",
+        "bbox": [
+            268,
+            872,
+            850,
+            906
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/decbcd84101bc31f035883c03b709ec78e82f1f37852a16dac619e1ed4e017ae.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"3\">HoNG KoNG MoNETARY AUTHORITY </td></tr><tr><td colspan=\"3\">香港金融管理局</td></tr><tr><td>Supervisory Policy Manual</td><td></td><td></td></tr><tr><td>IC-1</td><td>Risk Management Framework</td><td>V.3 - 06.10.2017</td></tr></table>",
+        "bbox": [
+            137,
+            39,
+            878,
+            166
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            334,
+            195,
+            852,
+            244
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.2.2 The Board is responsible for setting the AI’s overall risk appetite and approving the risk appetite statement recommended by the senior management. While there is no standard means of expressing an AI’s risk appetite, it should be articulated clearly and concisely to facilitate internal communication and implementation. The level of detail and sophistication of an AI’s risk appetite statement should be commensurate with the AI’s business nature and risk management needs. An AI’s risk appetite statement should so far as practicable: ",
+        "bbox": [
+            270,
+            259,
+            852,
+            423
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "express the AI’s overall risk appetite in a manner that is suitable for the nature and complexity of its business, with all relevant risks taken into account, including those arising from off-balance sheet transactions and risks that are less quantifiable (e.g. reputation risk). This may involve assessing both the financial and non-financial implications of risks, through quantitative analysis, stress-testing, reference to historical experience, exercise of judgement or otherwise; ",
+        "bbox": [
+            337,
+            438,
+            850,
+            602
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "set out the maximum level of each material risk and of the overall risks that the AI is prepared to take in pursuit of its strategic and business plans, having regard to the applicable regulatory and legal requirements; ",
+        "bbox": [
+            337,
+            617,
+            850,
+            699
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "address quantifiable risks with quantitative measures that can be translated into risk limits applicable to business units (at individual entities and group level), which in turn can be aggregated and disaggregated to enable measurement of the AI’s risk profile against its risk appetite and risk-taking capacity; ",
+        "bbox": [
+            337,
+            714,
+            850,
+            814
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "include qualitative statements that articulate clearly and concisely the motivations for taking on or avoiding certain types of risks which are less quantifiable in nature (e.g. legal risk, reputation risk and conduct risk), and establish some indicators to enable monitoring of such risks; ",
+        "bbox": [
+            337,
+            828,
+            850,
+            894
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/fcb23d4f5e6486b9103d53595c5ec3a91c3761df25888723ec92868a3d86c410.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"3\">HoNG KoNG MoNETARY AUTHORITY </td></tr><tr><td colspan=\"3\">香港金融管理局</td></tr><tr><td>Supervisory Policy Manual</td><td></td><td></td></tr><tr><td>IC-1</td><td>Risk Management Framework</td><td>V.3 - 06.10.2017</td></tr></table>",
+        "bbox": [
+            137,
+            39,
+            878,
+            166
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            371,
+            195,
+            850,
+            228
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "include key background information and assumptions underlying the established risk appetite, which may, as appropriate, define the boundaries and considerations for the formulation of the AI’s strategic and business plans; and ",
+        "bbox": [
+            337,
+            243,
+            850,
+            325
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "be forward looking, and include appropriate financial targets that are consistent with the AI’s risk appetite, and outline possible measures and actionable elements that reflect the AI’s intended responses to a range of possible events, e.g. a loss of capital or a breach in risk limits. Possible management actions outlined in the statement should be realistic and feasible for restoring capital or reducing risk in adverse situations and should not be inconsistent with the AI’s recovery plan (where applicable). ",
+        "bbox": [
+            337,
+            340,
+            850,
+            504
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.2.3 The Board should be satisfied that, and should periodically assess the extent to which, the senior management has put in place robust procedures and controls for implementing and monitoring adherence to the AI’s risk appetite framework and its risk appetite statement. Sufficient information should be compiled to facilitate regular assessment by the Board and senior management of the management of risk against the AI’s risk appetite, such as (i) relevant measures of risk (e.g. based on economic capital or stress tests); (ii) a view of how risk levels compare with limits; (iii) the level of capital that the AI would need to maintain after sustaining a loss of the magnitude of the risk measure; and (iv) the actions that management could take to restore capital after sustaining a loss. ",
+        "bbox": [
+            272,
+            519,
+            850,
+            765
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.2.4 The risk appetite statement should be used as the basis for the Board, senior management, business units and internal control functions to deliberate upon and formulate the AI’s strategic, business, capital and financial plans. Strong direction from, and the engagement of, the Board is critical to sustaining a disciplined risk appetite for the AI. When faced with, and making decisions in response to, new business opportunities (e.g. possible business expansion or mergers and acquisitions), market demand for increased risk-taking or the need to react promptly to changes in the external environment (e.g. due to competition or deterioration in economic conditions), the Board should ensure that there is an assessment of the AI’s risk appetite in the decision-making process. In these circumstances, the Board should thoroughly understand the AI’s current risk position relative to its risk appetite, and how that position would be changed if the risk appetite were to be changed. In this regard, stress tests may be used to generate a dynamic view of the AI’s capital, liquidity and risk positions. ",
+        "bbox": [
+            272,
+            780,
+            850,
+            910
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/141fae58bd343e3d2fffe9e2bb602dfd5bb0c50c696543cc479d968f690abb9f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"3\">HoNc KoNG MoNETARY AUTHORITY </td></tr><tr><td colspan=\"3\">香港金融管理局</td></tr><tr><td>Supervisory Policy Manual</td><td></td><td>V.3-06.10.2017</td></tr><tr><td>IC-1</td><td>Risk Management Framework</td><td></td></tr></table>",
+        "bbox": [
+            137,
+            39,
+            878,
+            166
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            336,
+            195,
+            850,
+            407
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.2.5 Any changes to the AI’s risk appetite statement should be approved by the Board. The justification for change should be adequately documented. ",
+        "bbox": [
+            268,
+            424,
+            848,
+            472
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.3 Firm-wide risk management ",
+        "text_level": 1,
+        "bbox": [
+            211,
+            487,
+            541,
+            504
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.3.1 The Board and senior management should ensure that effective policies, processes and systems are in place to identify, measure, evaluate, monitor, report and control or mitigate all material risks across business activities, whatever the nature of the exposure arising from those activities (such exposure may be non-contractual, contingent or off-balance sheet in nature). ",
+        "bbox": [
+            270,
+            517,
+            852,
+            632
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Specific responsibilities of the Board ",
+        "text_level": 1,
+        "bbox": [
+            272,
+            646,
+            598,
+            663
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.3.2 To ensure adequate oversight of firm-wide risks, the Board should, among other things, be responsible for: ",
+        "bbox": [
+            272,
+            677,
+            850,
+            709
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "approving a firm-wide definition for different types of risk faced by the AI (for risk appetite statement and other purposes);   \nidentifying, understanding and assessing the risks inherent in the AI’s business activities or in new products or services to be launched (see also subsection 4.3 below);   \nlaying down risk management strategies, and approving a risk management framework developed ",
+        "bbox": [
+            336,
+            725,
+            852,
+            903
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/e86df83fbc919486f1170539e001ae1e89274019ced0ef5816743f61673ea2b7.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"3\">HoNc KoNG MoNETARY AUTHORITY </td></tr><tr><td colspan=\"3\">香港金融管理局</td></tr><tr><td>Supervisory Policy Manual</td><td></td><td>V.3-06.10.2017</td></tr><tr><td>IC-1</td><td>Risk Management Framework</td><td></td></tr></table>",
+        "bbox": [
+            137,
+            39,
+            878,
+            166
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "by senior management based on these strategies which is consistent with the AI’s business goals and risk appetite; ",
+        "bbox": [
+            373,
+            195,
+            850,
+            244
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "determining that the risk management framework is properly implemented and maintained by senior management; ",
+        "bbox": [
+            336,
+            260,
+            850,
+            309
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "reviewing the risk management framework periodically to ensure that it remains adequate and appropriate under changing business and market conditions; ",
+        "bbox": [
+            337,
+            324,
+            850,
+            390
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "ensuring that information systems and infrastructure across all business units and control functions are sufficiently resourced and supportive of the AI’s risk management and reporting needs; and ",
+        "bbox": [
+            336,
+            405,
+            850,
+            470
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "ensuring that independent risk management and control functions are robust, truly independent from the AI’s risk-taking functions (both in terms of decision-making and reporting structure), and have sufficient authority, resources, expertise and competence to carry out their functions. ",
+        "bbox": [
+            336,
+            486,
+            852,
+            583
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Specific responsibilities of senior management ",
+        "bbox": [
+            270,
+            599,
+            689,
+            614
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3.3.3 Senior management should be responsible for: ",
+        "bbox": [
+            270,
+            630,
+            756,
+            645
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "formulating detailed policies, procedures and limits for managing different aspects of risk arising from the AI’s business activities, based on the risk management strategies laid down by the Board; ",
+        "bbox": [
+            337,
+            661,
+            850,
+            727
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "designing and implementing a risk management framework to be approved by the Board and ensuring that the relevant control systems within the framework work as intended. The framework should be implemented throughout the whole organisation with appropriate procedures to ensure that all levels of staff are aware of, and understand, their responsibilities with respect to risk management; ",
+        "bbox": [
+            337,
+            741,
+            850,
+            873
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/a5b54e06b5057cbff8f4966110367207ec0eddbb47a911901db3140658a097ce.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"3\">HoNc KoNG MoNETARY AUTHORITY </td></tr><tr><td colspan=\"3\">香港金融管理局</td></tr><tr><td>Supervisory Policy Manual</td><td></td><td>V.3 -06.10.2017</td></tr><tr><td>IC-1</td><td>Risk Management Framework</td><td></td></tr></table>",
+        "bbox": [
+            137,
+            39,
+            878,
+            166
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "putting in place processes for reviewing the AI’s risk exposures and ensuring that they are kept within the risk limits set, and that those limits are consistent with the AI’s overall risk appetite, even under stressed conditions; ",
+        "bbox": [
+            337,
+            196,
+            852,
+            278
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "identifying and acting on emerging risks and, where appropriate, reporting any material risks to the Board promptly; and ",
+        "bbox": [
+            336,
+            293,
+            850,
+            343
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "ensuring the competence of managers and staff responsible for risk management and control functions, with appropriate programmes to recruit, train and retain employees with suitable skills and expertise. ",
+        "bbox": [
+            336,
+            357,
+            850,
+            439
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "3.4 Use of specialised committees ",
+        "text_level": 1,
+        "bbox": [
+            210,
+            454,
+            566,
+            470
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "3.4.1 While the Board is ultimately responsible for risk management, it may be beneficial for it to delegate authority to appropriate Board-level committees (see also Section 5 of CG-1 “Corporate Governance of Locally Incorporated Authorized Institutions”, and paragraph 3.4.3 below) to carry out some of the risk management tasks described in paragraph 3.3.2 above. Delegation of authority should be made on a formal basis with a clear mandate. Appropriate reports should be submitted regularly to the Board by the committee(s) to which such authority has been delegated. ",
+        "bbox": [
+            272,
+            485,
+            850,
+            665
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "3.4.2 It should be clearly recognised, however, that such delegation of authority does not absolve the Board and its members from their risk management responsibilities and the need to oversee the work of the specialised committee(s) exercising delegated authority. Individual members of the Board are expected to have an adequate understanding of the nature of the AI’s business activities and the associated risks as well as the framework, including the major controls (e.g. risk limits), used to manage the risks.6 If existing members lack the relevant expertise, bringing in new members with such knowledge or appointing external consultants should be considered. ",
+        "bbox": [
+            272,
+            674,
+            850,
+            820
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/6b8861da3434ae50d2643273aec0216599869d2f62dadf5c4dd95204b991a435.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"3\">HoNc KoNG MoNETARY AUTHORITY </td></tr><tr><td colspan=\"3\">香港金融管理局</td></tr><tr><td>Supervisory Policy Manual</td><td></td><td>V.3-06.10.2017</td></tr><tr><td>IC-1</td><td>Risk Management Framework</td><td></td></tr></table>",
+        "bbox": [
+            137,
+            39,
+            878,
+            166
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            336,
+            193,
+            852,
+            260
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "3.4.3 As provided in CG-1 “Corporate Governance of Locally Incorporated Authorized Institutions”, all locally incorporated AIs, except restricted licence banks or deposit-taking companies (other than one designated by the Monetary Authority under $\\ S 3 \\mathsf S$ or $\\ S 3 0$ of the Banking (Capital) Rules (BCR) as systemically important) with a relatively small and simple business operation and low risk profile, should establish a Risk Committee. All other locally incorporated AIs are also strongly encouraged to do so. The Risk Committee should: ",
+        "bbox": [
+            270,
+            274,
+            852,
+            438
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "be a stand-alone committee and distinct from the Board’s Audit Committee; be chaired by an independent non-executive director with a background in accounting, banking or other relevant financial industry or expertise in risk management. “Dual-hatting” with the chair of the Board or any other committee should be avoided; be composed of a majority of members who are independent non-executive directors. Members of the Risk Committee should collectively possess relevant technical expertise and experience in risk disciplines that are adequate to enable them to discharge their responsibilities effectively; review and recommend for the Board’s approval the AI’s risk management strategies, key risk policies and risk appetite, at least annually; exercise its authority (if delegated by the Board) to review and approve specified types of risk management policies and procedures, as appropriate; ",
+        "bbox": [
+            334,
+            444,
+            852,
+            804
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/c2bde6b769cfed3165754b356b7c82eadd072212cc8f899f9306631319e47d23.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"3\">HoNc KoNG MoNETARY AUTHORITY </td></tr><tr><td colspan=\"3\">香港金融管理局</td></tr><tr><td>Supervisory Policy Manual</td><td></td><td>V.3 -06.10.2017</td></tr><tr><td>IC-1</td><td>Risk Management Framework</td><td></td></tr></table>",
+        "bbox": [
+            137,
+            39,
+            878,
+            166
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            371,
+            195,
+            850,
+            228
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "review and assess the adequacy of the AI’s risk management framework and policies in identifying, measuring, monitoring and controlling risks and the extent to which these are operating effectively; ",
+        "bbox": [
+            337,
+            243,
+            850,
+            309
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "oversee the establishment and maintenance by senior management of appropriate infrastructure, resources and systems for risk management, particularly in relation to the AI’s adherence to the approved risk appetite and related policies; ",
+        "bbox": [
+            337,
+            324,
+            850,
+            406
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "oversee and discuss the strategies for capital and liquidity management, and those for all relevant risks (on both an aggregated basis and by type of risk) of the AI, to ensure they are consistent with the stated risk appetite; ",
+        "bbox": [
+            337,
+            422,
+            850,
+            504
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "oversee and challenge the design and execution of stress testing and scenario analyses; ",
+        "bbox": [
+            336,
+            519,
+            850,
+            551
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "review periodic reports provided by the senior management (including the Chief Risk Officer) on the state of the AI’s risk culture, risk exposure and risk management activities; ",
+        "bbox": [
+            337,
+            567,
+            850,
+            632
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "ensure that the staff members of the AI responsible for implementing risk management systems and controls are sufficiently independent of the AI’s relevant risk-taking activities; and ",
+        "bbox": [
+            337,
+            648,
+            850,
+            713
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "examine, without prejudice to the tasks of the remuneration committee, whether incentives created by the remuneration system are aligned with the AI’s risk culture and risk appetite, and whether remuneration awards appropriately reflect risk-taking and risk outcomes. ",
+        "bbox": [
+            337,
+            730,
+            852,
+            826
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/09d123d18134f0bf8fd12705a65f277025091f9040ba502319a11b45e2ae07a3.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"3\">HoNG KoNG MoNETARY AUTHORITY </td></tr><tr><td colspan=\"3\">香港金融管理局</td></tr><tr><td>Supervisory Policy Manual</td><td></td><td>V.3 - 06.10.2017</td></tr><tr><td>IC-1</td><td>Risk Management Framework</td><td></td></tr></table>",
+        "bbox": [
+            139,
+            39,
+            878,
+            166
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "4. Risk management policies, procedures and limits ",
+        "text_level": 1,
+        "bbox": [
+            146,
+            195,
+            764,
+            215
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "4.1 Policies and procedures ",
+        "text_level": 1,
+        "bbox": [
+            211,
+            228,
+            507,
+            246
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "4.1.1 AIs should have clearly defined and documented policies and procedures that enable firm-wide risks to be managed in a proactive manner 7 , with emphasis on achieving: ",
+        "bbox": [
+            270,
+            259,
+            852,
+            325
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "objective and consistent risk identification and measurement approaches;   \ncomprehensive and rigorous risk assessment and reporting systems;   \nsound valuation and stress-testing practices; and effective risk monitoring measures and controls. ",
+        "bbox": [
+            336,
+            340,
+            852,
+            485
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Risk management policies and key risk management procedures should be approved by the Board (or its designated committee(s) with the necessary delegated authority). Detailed operating procedures can be approved by the management at the appropriate level. ",
+        "bbox": [
+            336,
+            499,
+            852,
+            581
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "4.1.2 The risk management policies and procedures should be developed based on a comprehensive review of all business activities of an AI, and cover all material risks, both financial and non-financial (e.g. reputation risk) associated with the AI’s activities. They should be prepared on a firm-wide basis and, where applicable, on a group-wide basis. ",
+        "bbox": [
+            270,
+            595,
+            850,
+            709
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "4.1.3 The development of risk management policies and procedures should take account of the following factors: ",
+        "bbox": [
+            270,
+            725,
+            850,
+            757
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "an AI’s overall business strategy and activities; ",
+        "bbox": [
+            336,
+            772,
+            791,
+            789
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "table",
+        "img_path": "images/7afd0201f475ebb6bd12c85fd379370a3b37b9535ff16538453bd7bbdf8335e7.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"3\">HoNc KoNG MoNETARY AUTHORITY </td></tr><tr><td colspan=\"3\">香港金融管理局</td></tr><tr><td>Supervisory Policy Manual</td><td></td><td>V.3 -06.10.2017</td></tr><tr><td>IC-1</td><td>Risk Management Framework</td><td></td></tr></table>",
+        "bbox": [
+            137,
+            39,
+            878,
+            166
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "the appropriateness to the size, nature and complexity of the AI’s business activities; the risk appetite of the AI; the level of sophistication of the AI’s risk monitoring capability, risk management systems and processes; the AI’s past experience and performance; the economic substance of the AI’s risk exposures (including reputation risk and valuation uncertainty); the results of sensitivity analysis and stress tests; anticipated internal or external changes (e.g. planned operational changes or expected changes in market conditions); and any legal and regulatory requirements. ",
+        "bbox": [
+            334,
+            193,
+            852,
+            517
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "4.1.4 Accountability and the lines of authority for each business line or unit (including the head and any other relevant principal officers of such business line or unit), should be spelled out clearly in the policies and procedures, and updated as appropriate. ",
+        "bbox": [
+            268,
+            531,
+            852,
+            613
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "4.1.5 The risk management policies and procedures should keep pace with the changing environment. The Board or its designated committee(s) should review the risk management policies and key risk management procedures on a regular basis (e.g. at least annually). If the review is carried out by the Board’s committee(s) or senior management, any material amendment to the policies and procedures should be approved by the Board. ",
+        "bbox": [
+            270,
+            627,
+            850,
+            774
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "4.1.6 Where appropriate, the risk management policies and procedures should also cover the use of risk-mitigating techniques (e.g. hedging, buying insurance protection or using credit derivatives). If AIs employ risk-mitigating techniques, they should understand the risk to be mitigated and the potential effects of that mitigation (including its effectiveness and enforceability), and have in place appropriate measures to control the risks associated with these techniques. ",
+        "bbox": [
+            270,
+            789,
+            850,
+            904
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "table",
+        "img_path": "images/43daf9f0eb1c3c68307612ac76f6a20502c2e28531b8d7c7e9e48b0fc9bf720a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"3\">HoNc KoNG MoNETARY AUTHORITY </td></tr><tr><td colspan=\"3\">香港金融管理局</td></tr><tr><td>Supervisory Policy Manual</td><td></td><td>V.3-06.10.2017</td></tr><tr><td>IC-1</td><td>Risk Management Framework</td><td></td></tr></table>",
+        "bbox": [
+            137,
+            39,
+            878,
+            166
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            334,
+            195,
+            852,
+            228
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "4.2 Risk limits ",
+        "text_level": 1,
+        "bbox": [
+            210,
+            242,
+            373,
+            259
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "4.2.1 A set of limits should be put in place to control an AI’s exposure to various quantifiable risks associated with its business activities (e.g. credit risk, market risk, interest rate risk and liquidity risk). Limits should also be used to control different sources of risk concentration, including (i) those arising directly from exposures to borrowers and obligors or indirectly through investments backed by a particular asset type, e.g. collateralised debt obligations, and (ii) those resulting from similar exposures across different business activities. These limits should be documented and approved by the Board or its designated committee(s). ",
+        "bbox": [
+            270,
+            273,
+            850,
+            470
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "4.2.2 Risk limits should be set in line with an AI’s risk appetite. To ensure consistency between risk limits and business strategies, the Board may wish to approve limits as part of the overall annual budget process. ",
+        "bbox": [
+            270,
+            485,
+            852,
+            550
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "4.2.3 Risk limits should be suitable for the size and complexity of an AI’s business activities and compatible with the sophistication of its products and services and should not merely seek to meet the minimum regulatory requirements or the general market practices. Excessively high limits may fail to trigger prompt management action while overly restrictive limits that are frequently exceeded may undermine the purpose of the limit structure. Risk limits should not be overly complicated, ambiguous or subjective. ",
+        "bbox": [
+            270,
+            564,
+            850,
+            728
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "4.2.4 Risk limits should be set at various levels, e.g. individual business lines or units, the entity or the group as a whole. AIs should have a clearly documented methodology for allocating overall risk limits across business lines and units. ",
+        "bbox": [
+            268,
+            743,
+            852,
+            824
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "4.2.5 The Board or its designated committee(s) should ensure that limits are subject to regular review and are reassessed in the light of changes in market conditions or business strategies. ",
+        "bbox": [
+            270,
+            839,
+            850,
+            904
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "table",
+        "img_path": "images/46b09f206defd35f5e06db942e600f25325b8d12c7fed5783f7dd0c4f2bc2072.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"3\">HoNG KoNG MoNETARY AUTHORITY </td></tr><tr><td colspan=\"3\">香港金融管理局</td></tr><tr><td>Supervisory Policy Manual</td><td></td><td>V.3 - 06.10.2017</td></tr><tr><td>IC-1</td><td>Risk Management Framework</td><td></td></tr></table>",
+        "bbox": [
+            139,
+            39,
+            878,
+            166
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "4.2.6 Risk limits should be clearly communicated to the business units and understood by the relevant staff. ",
+        "bbox": [
+            268,
+            195,
+            850,
+            228
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "4.2.7 Limit utilisation should be closely monitored. Any excesses or exceptions should be reported promptly to the Chief Risk Officer and the senior management for necessary action. ",
+        "bbox": [
+            268,
+            242,
+            852,
+            307
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "4.3 New products and services ",
+        "text_level": 1,
+        "bbox": [
+            211,
+            322,
+            534,
+            338
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "4.3.1 AIs should have an effective mechanism in place to ensure that all products and services launched are subject to proper assessment and approval procedures before launch. There should be an internally approved and clearly documented “new product approval policy” which addresses not only the development and approval of entirely new products and services but also significant changes in the features or risk profile of existing products and services (see Annex 1 for examples). The approach to determining whether changes to existing products and services are considered to be “significant” should also be documented. ",
+        "bbox": [
+            272,
+            354,
+            850,
+            549
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "4.3.2 The new product approval policy of an AI and any revisions to it should be approved by the Board (or its designated committee with the necessary delegated authority). The policy should, at a minimum, cover the following areas: ",
+        "bbox": [
+            268,
+            564,
+            850,
+            646
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "all aspects of the decision to enter new markets or new areas of business or to deal in new products or services, including the definition of new product, market, service or business to be adopted by the AI; the internal functions to be involved in the decision (see also paragraph 4.3.5 below); other issues involved in undertaking a new activity. These may relate, for example, to pricing models, profit margin, software and technology, risk management tools, and control procedures; and the process and procedures for approving significant changes to existing products or services. In general, such process and procedures should be in line with those for approving new products or services, and any simplification should be suitably justified. ",
+        "bbox": [
+            336,
+            661,
+            852,
+            904
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "table",
+        "img_path": "images/3e9e91312023d578a86a283bead26f94a342ab6c07f641ea93ae9d40ef3a82a9.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"3\">HoNG KoNG MoNETARY AUTHORITY </td></tr><tr><td colspan=\"3\">香港金融管理局</td></tr><tr><td>Supervisory Policy Manual</td><td></td><td></td></tr><tr><td>IC-1</td><td>Risk Management Framework</td><td>V.3 - 06.10.2017</td></tr></table>",
+        "bbox": [
+            137,
+            39,
+            878,
+            166
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            371,
+            195,
+            850,
+            244
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "4.3.3 New products or services should be subject to a careful evaluation or pre-implementation review to ensure that: ",
+        "bbox": [
+            270,
+            259,
+            850,
+            291
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "all relevant parties, including the Board or its designated committee(s), senior management and other managers as appropriate, fully understand the risk characteristics; the underlying assumptions regarding business models, valuation and risk management practices; the potential risk exposure if those assumptions fail; and the possible difficulty in valuing the product involved, especially in times of stress; and ",
+        "bbox": [
+            337,
+            307,
+            850,
+            454
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "there are adequate staffing, technology and resources (financial, risk management, compliance etc.) to launch the product or service, as well as adequate internal tools and expertise to measure and manage the risks associated with it. Any material inadequacies should be properly addressed before launching the new product or service. ",
+        "bbox": [
+            336,
+            470,
+            852,
+            585
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "4.3.4 Proposals to introduce new products or services should generally include: ",
+        "bbox": [
+            268,
+            599,
+            848,
+            632
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "a description of the new product or service, and its target customers and underlying objectives (e.g. for meeting customer demand, allowing the AI to better hedge its risks);   \na detailed risk assessment, including whether the new product or service is within the AI’s risk appetite, implications for the AI’s risk profile (for example, in terms of credit, market, interest rate, liquidity, operational, reputation, strategic, legal and compliance risks) and possible risk transformation if the new product or service is launched (e.g. the use of a hedging instrument to hedge the risk of a new product may result in other risks); ",
+        "bbox": [
+            334,
+            646,
+            852,
+            876
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "a cost and benefit analysis; ",
+        "bbox": [
+            337,
+            891,
+            618,
+            907
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "table",
+        "img_path": "images/2831d6fe292135456e81297c8e7c1cc2f84b29c45642a3409b4b682f17c62ab9.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"3\">HoNc KoNG MoNETARY AUTHORITY </td></tr><tr><td colspan=\"3\">香港金融管理局</td></tr><tr><td>Supervisory Policy Manual</td><td></td><td>V.3-06.10.2017</td></tr><tr><td>IC-1</td><td>Risk Management Framework</td><td></td></tr></table>",
+        "bbox": [
+            137,
+            39,
+            878,
+            166
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "consideration of the related risk management implications and identification of the resources required to ensure effective risk management of the product or service (e.g. risk mitigation strategies and system enhancement); ",
+        "bbox": [
+            337,
+            196,
+            850,
+            279
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "an analysis of the proposed scale of new activities in relation to the AI’s overall financial condition, including its capital strength and liquidity resources; and the procedures to be used for measuring, monitoring, controlling or mitigating, and reporting the risks. ",
+        "bbox": [
+            336,
+            292,
+            850,
+            407
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "4.3.5 All relevant functions, e.g. risk management, accounting, operations, legal and compliance, information technology should be consulted (for instance through a new product committee established within the AI), before a new product or service is launched. Such functions should ensure that the risks associated with the new product or service are adequately addressed from their respective perspectives before sign-off. The Chief Risk Officer should escalate and report to the Board (or its designated committee(s)) if there is any significant concern (e.g. material impact on the AI’s risk profile) with regard to any new product or service before its launch. ",
+        "bbox": [
+            270,
+            422,
+            852,
+            618
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "4.3.6 AIs should perform a comprehensive postimplementation evaluation of new products or services (as well as existing products or services following any significant changes to their features or risk profile) to ensure no risk remains unidentified or unaddressed. The evaluation results should be taken into account for the development of any similar products or services in the future. In addition, AIs should perform regular reviews of products and services (adopting a risk-based approach as appropriate). ",
+        "bbox": [
+            270,
+            633,
+            850,
+            796
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "4.3.7 The Chief Risk Officer should have a holistic oversight of the risks to the AI associated with new products and services and the related risk management processes. To achieve this, the risk management function should monitor and participate in the process of approving new products or services (or significant changes to existing products or services), and should maintain a centralised list of approved products and services8. It should have a clear overview of the roll-out of new products or services (or significant changes to existing products or services) across different business units. The risk management function should also be responsible for determining whether a new initiative should be classified or categorised as a new product/service, and have the authority to require that significant changes to existing products or services go through the AI’s formal approval process applicable to new products or services. ",
+        "bbox": [
+            270,
+            810,
+            850,
+            909
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "table",
+        "img_path": "images/1ead35341a9c1502d3f4fbc3c55d0cc0f5d6ac34d998597f4e47f3ddfa27d8ec.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"3\">HoNG KoNG MoNETARY AUTHORITY </td></tr><tr><td colspan=\"3\">香港金融管理局</td></tr><tr><td>Supervisory Policy Manual</td><td></td><td></td></tr><tr><td>IC-1</td><td>Risk Management Framework</td><td>V.3 - 06.10.2017</td></tr></table>",
+        "bbox": [
+            137,
+            39,
+            878,
+            166
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            336,
+            195,
+            850,
+            375
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "4.3.8 The internal audit function should undertake regular reviews of the new product approval process encompassing the business units as well as the risk management and internal control functions involved in the process. ",
+        "bbox": [
+            268,
+            390,
+            852,
+            472
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "5. Risk management systems and processes ",
+        "text_level": 1,
+        "bbox": [
+            147,
+            494,
+            685,
+            513
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "5.1 Risk management function ",
+        "text_level": 1,
+        "bbox": [
+            211,
+            526,
+            531,
+            543
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Key responsibilities and attributes ",
+        "bbox": [
+            272,
+            557,
+            574,
+            574
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "5.1.1 AIs should establish a dedicated risk management function to carry out day-to-day risk management activities across the whole organisation. ",
+        "bbox": [
+            268,
+            588,
+            853,
+            637
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "5.1.2 An effective risk management function should: ",
+        "bbox": [
+            268,
+            652,
+            751,
+            668
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "have clearly defined responsibilities and accountability; ",
+        "bbox": [
+            337,
+            683,
+            852,
+            717
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "have a direct reporting line to senior management and direct access to the Board or its Risk Committee (see also paragraph 5.1.6 below); ",
+        "bbox": [
+            337,
+            731,
+            852,
+            782
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "be independent from the risk-taking and operational units the activities of which it reviews, and have unfettered access to information from these units that is necessary for carrying out its duties; ",
+        "bbox": [
+            336,
+            796,
+            850,
+            828
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "table",
+        "img_path": "images/bb42f64c878cfdc42295ab7e3d9ddfc0c008cfaeb23de843c14101e00c4326b6.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"3\">HoNG KoNc MoNETARY AUTHORITY 州</td></tr><tr><td colspan=\"3\">香港金融管理局</td></tr><tr><td colspan=\"2\">Supervisory Policy Manual</td><td></td></tr><tr><td>IC-1</td><td>Risk Management Framework</td><td>V.3 - 06.10.2017</td></tr></table>",
+        "bbox": [
+            139,
+            39,
+            878,
+            166
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            373,
+            195,
+            850,
+            228
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "be supported by an effective management information system; and ",
+        "bbox": [
+            336,
+            243,
+            850,
+            275
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "be given adequate authority, management support and resources to perform its duties, and be staffed by persons with the relevant expertise and knowledge. ",
+        "bbox": [
+            336,
+            291,
+            850,
+            357
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "5.1.3 The responsibilities of an AI’s risk management function include: ",
+        "bbox": [
+            272,
+            370,
+            850,
+            404
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "ensuring that all relevant risks of the AI are properly identified, well understood, measured, controlled, assessed and reported. This will include establishing a process, using effective risk measurement techniques and management information systems, for monitoring and reporting on the AI’s risk profile and its consistency with the AI’s risk appetite and strategic and business plans; ",
+        "bbox": [
+            336,
+            419,
+            852,
+            550
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "conducting periodic reviews on the AI’s risk governance arrangements, and ensuring that the AI’s risk management framework (including the AI’s risk appetite framework) and all related policies and control procedures are adequately implemented and working effectively; ",
+        "bbox": [
+            337,
+            567,
+            850,
+            664
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "being actively involved, at an early stage, in the AI’s decision-making on business strategies and developments that may have implications for risk management; ",
+        "bbox": [
+            337,
+            680,
+            850,
+            745
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "monitoring (e.g. through an early warning or trigger system) the use of risk limits and ensuring that the risk limits are consistent with the AI’s risk appetite. This will include ensuring that the risk exposures of individual business units in respect of various risks are properly aggregated and monitored against the aggregate limits for the AI as a whole; ",
+        "bbox": [
+            336,
+            760,
+            852,
+            876
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "table",
+        "img_path": "images/7fa7b61a8b680544c927b30d1ad53b8cd3f56c6589619d7ab228c7914af449a9.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"3\">HoNG KoNG MoNETARY AUTHORITY </td></tr><tr><td colspan=\"3\">香港金融管理局</td></tr><tr><td>Supervisory Policy Manual</td><td></td><td>V.3-06.10.2017</td></tr><tr><td>IC-1</td><td>Risk Management Framework</td><td></td></tr></table>",
+        "bbox": [
+            137,
+            39,
+            878,
+            166
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "overseeing and approving risk assessment models and internal rating systems (where applicable), and analysing the risks of new products and services (and of significant changes to existing products and services) and exceptional transactions; ",
+        "bbox": [
+            337,
+            196,
+            852,
+            278
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "conducting stress tests to assess the risk profile of the AI under stressed conditions, and reporting the results of the stress tests to the Board (or/and its Risk Committee) and senior management. The results should also be incorporated into the AI’s relevant risk management and business processes (e.g. review of the AI’s risk appetite, capital planning, budgeting, establishment of contingency plans); ",
+        "bbox": [
+            337,
+            293,
+            850,
+            424
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "providing accurate, reliable and comprehensible risk information to the Board, Risk Committee and senior management and ensuring that all identified risk management issues or concerns (together with any proposed risk-mitigating actions) are promptly reported to them; and ",
+        "bbox": [
+            337,
+            441,
+            850,
+            538
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "alerting the Board, Risk Committee and senior management to any other matters that may have a significant impact on the AI’s financial position and risk profile (e.g. engagement in high risk activities that are not aligned with the AI’s risk appetite). ",
+        "bbox": [
+            337,
+            554,
+            850,
+            636
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Chief Risk Officer ",
+        "text_level": 1,
+        "bbox": [
+            270,
+            650,
+            431,
+            667
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "5.1.4 AIs are expected to appoint a person to be responsible for the risk management function, commonly known as the Chief Risk Officer, who should also coordinate the risk management activities of other units within the organisation. It is generally expected that the Chief Risk Officer will be part of the senior management team, and his appointment (or cessation of appointment) will be approved by the Board (or its designated committee) and publicly disclosed. In exceptional cases where, for example, an AI’s size and complexity do not justify specifically appointing a person for such responsibility, one of the senior managers (such as the person in charge of internal control) may share this responsibility, provided that the roles are compatible and do not weaken checks and balances within the AI. ",
+        "bbox": [
+            275,
+            682,
+            852,
+            894
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "table",
+        "img_path": "images/3e6a8b4a38afa7a3cb1879533f15e4882b529c3598fb709ff6ac7af2416043b1.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"3\">HoNG KoNG MoNETARY AUTHORITY </td></tr><tr><td colspan=\"3\">香港金融管理局</td></tr><tr><td>Supervisory Policy Manual</td><td></td><td></td></tr><tr><td>IC-1</td><td>Risk Management Framework</td><td>V.3 - 06.10.2017</td></tr></table>",
+        "bbox": [
+            137,
+            39,
+            878,
+            166
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            339,
+            195,
+            850,
+            228
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "5.1.5 The Chief Risk Officer should have skills and experience which are relevant and appropriate to the nature and complexity of an AI’s business activities. Moreover, he should have sufficient independence, authority and stature to enable him to challenge any proposal or decision from the risk management perspective. In this regard, the Chief Risk Officer should have unfettered access to any information necessary to perform his duties. The Chief Risk Officer should have duties distinct from other executive functions, and should not have management or financial responsibility related to any business lines or revenue-generating functions. ",
+        "bbox": [
+            270,
+            242,
+            852,
+            438
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "5.1.6 The Chief Risk Officer should have a direct reporting line to the AI’s Chief Executive and should also report directly (without the presence of executive directors and the senior management where appropriate) to the Board or its Risk Committee regularly and when necessary on risk management issues. In particular, he should play a key role in enabling the Board, Risk Committee and senior management to understand the AI’s evolving risk profile against the approved risk appetite, and should report to the Board and the Risk Committee promptly on any material breach of risk limits and any adverse development that may result in the AI’s risk appetite being exceeded. The performance and remuneration of the Chief Risk Officer should be reviewed and approved by the Board (or its designated committee). ",
+        "bbox": [
+            277,
+            455,
+            852,
+            700
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "5.1.7 As part of his responsibilities for the AI’s risk management function, among other things, the Chief Risk Officer should ensure that prompt action is taken when any material risk exposure is close to, or exceeds, the AI’s approved risk appetite and relevant risk limits. Furthermore, the Chief Risk Officer should participate in key decision-making processes (e.g. strategic planning, capital and liquidity planning, new products and services approvals, remuneration design and operation) and should be involved in the setting of risk-related performance indicators for business units. ",
+        "bbox": [
+            272,
+            714,
+            850,
+            894
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "table",
+        "img_path": "images/1a2175e6aafcbbe8a0a0d326da9261d7b84281bbf35fffe20ecf7c97cdcb53e0.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"3\">HoNG KoNG MoNETARY AUTHORITY </td></tr><tr><td colspan=\"3\">香港金融管理局</td></tr><tr><td>Supervisory Policy Manual</td><td></td><td></td></tr><tr><td>IC-1</td><td>Risk Management Framework</td><td>V.3 - 06.10.2017</td></tr></table>",
+        "bbox": [
+            137,
+            39,
+            878,
+            166
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "5.2 Risk management information system9 ",
+        "text_level": 1,
+        "bbox": [
+            208,
+            193,
+            645,
+            212
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "5.2.1 An AI should establish and maintain a management information system with adequate technological support and processing capacity (even in times of stress) to effectively capture, aggregate and report on the risks of major business activities within the organisation. The risk data aggregation and risk reporting framework and any substantial change to them should be reviewed and approved by the Board (or its Risk Committee) and senior management. ",
+        "bbox": [
+            270,
+            225,
+            850,
+            373
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "5.2.2 The level of sophistication of an AI’s risk management information system should be commensurate with the nature, scale and complexity of the AI’s business activities. Generally, to support decision-making at different levels and enable early identification of emerging risks, it should be capable of: ",
+        "bbox": [
+            270,
+            388,
+            850,
+            486
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "accurately and reliably capturing, aggregating and reporting risk data in a timely manner, not only in normal times but also in times of stress. While different types of data will be required at different intervals, the system should be able to generate any necessary data rapidly in times of stress; ",
+        "bbox": [
+            337,
+            502,
+            850,
+            600
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "capturing, aggregating and reporting risk data on all sources of relevant risks on a range of bases, including by business line, product, portfolio, function, and at entity and group levels; ",
+        "bbox": [
+            337,
+            615,
+            850,
+            681
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "supporting customised identification, aggregation and reporting of risks (e.g. based on individual or a set of closely related risk drivers) to meet requests of the Board, senior management and other users, including the HKMA; ",
+        "bbox": [
+            336,
+            696,
+            850,
+            745
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "table",
+        "img_path": "images/2debc448865262129cddf82c390b2adc5ccb850bb0521354c36ef01b3f6f09ae.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"3\">HoNc KoNG MoNETARY AUTHORITY </td></tr><tr><td colspan=\"3\">香港金融管理局</td></tr><tr><td>Supervisory Policy Manual</td><td></td><td>V.3 -06.10.2017</td></tr><tr><td>IC-1</td><td>Risk Management Framework</td><td></td></tr></table>",
+        "bbox": [
+            137,
+            39,
+            878,
+            166
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            371,
+            195,
+            850,
+            228
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "incorporating changes arising from regulatory requirements and new business developments as and when necessary; ",
+        "bbox": [
+            336,
+            243,
+            850,
+            292
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "supporting a broad range of risk management analysis, including but not limited to: ",
+        "bbox": [
+            337,
+            307,
+            850,
+            340
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "incorporating multiple perspectives of any particular risk exposure to account for changes in assumptions and uncertainties in risk measurement; ",
+        "bbox": [
+            373,
+            355,
+            850,
+            420
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "incorporating hedging and other risk-mitigating actions to be carried out on a firm-wide basis while taking into account various related basis risks; ",
+        "bbox": [
+            374,
+            435,
+            850,
+            500
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "reporting excesses in limits and policy exceptions, and alerting management of risk exposures approaching pre-set limits; ",
+        "bbox": [
+            373,
+            516,
+            850,
+            564
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "facilitating the allocation of capital charges to business activities according to the level of risktaking; ",
+        "bbox": [
+            373,
+            580,
+            850,
+            629
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "conducting variance analysis against annual budget or business targets, and calculating riskadjusted performance (see subsection 5.4 below); ",
+        "bbox": [
+            373,
+            643,
+            850,
+            708
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "providing adequate system support for fair valuing exposures; and ",
+        "bbox": [
+            373,
+            722,
+            848,
+            756
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "conducting sensitivity analysis and stress-testing (see subsection 5.5 below), and generating forward-looking firm-wide scenario analyses on evolving market conditions and stressed conditions. ",
+        "bbox": [
+            374,
+            770,
+            850,
+            851
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "5.2.3 Risk management reports should communicate information in a clear and concise manner, but yet be comprehensive enough to be useful for informed decision-making and risk assessment. Frequency, timeliness, contents, granularity, distribution and level of confidentiality of risk management reports should be appropriate for the needs of recipients. While individual AIs should determine risk reporting requirements that are appropriate for their own business models and risk profiles, at a minimum, the reports should cover all material risk areas (e.g. credit, market, interest rate, liquidity, operational, reputation, legal and strategic risks) and provide information in respect of risk concentrations, adherence to risk appetite and risk limits and forwardlooking assessment of risks. In addition, the risk management reports should provide information relating to regulatory ratios (e.g. capital adequacy ratios and liquidity ratios) and their projections. ",
+        "bbox": [
+            267,
+            866,
+            850,
+            898
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "table",
+        "img_path": "images/16bfcf0f8dba331556f6117f134cfe68952006b2f0caf343d76a566da1f26314.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"3\">HoNc KoNG MoNETARY AUTHORITY </td></tr><tr><td colspan=\"3\">香港金融管理局</td></tr><tr><td>Supervisory Policy Manual</td><td></td><td>V.3-06.10.2017</td></tr><tr><td>IC-1</td><td>Risk Management Framework</td><td></td></tr></table>",
+        "bbox": [
+            137,
+            39,
+            878,
+            166
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            336,
+            195,
+            850,
+            457
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "5.2.4 There should be proper control, validation and reconciliation processes in place to ensure the accuracy of risk management reports, and relevant processes should be documented with appropriate explanation. For instance, it is expected that risk data aggregation should occur on a largely automated basis. There should be automated and manual checks, including validation rules to help verify data inputs and calculations. Risk data and reports should be reconciled with other relevant sources (e.g. accounting data and reports) where appropriate. The risk management reports should meet the accuracy requirements set by the senior management for different types of reporting (e.g. some data requires a high degree of precision while a certain extent of approximation may be allowed for information generated from models and stress testing). ",
+        "bbox": [
+            268,
+            473,
+            852,
+            734
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "5.2.5 To remain effective, there should be processes to identify, rectify and alert the senior management (where appropriate) of any incompleteness, exception, limitation and weakness of the AI’s risk management information system in capturing, aggregating and reporting of risks. The system should also be subject to regular review and enhancement. Moreover, the capabilities of the AI’s risk management system should be considered by the Board (or its Risk Committee) and senior management as part of any approval process for new initiatives (e.g. ",
+        "bbox": [
+            270,
+            749,
+            850,
+            913
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "table",
+        "img_path": "images/5227d5ccc4c47c09cc1c454e51f0e8c5c3caf8abfd15bab5870c44ffbed0dfdb.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"3\">HoNG KoNG MoNETARY AUTHORITY </td></tr><tr><td colspan=\"3\">香港金融管理局</td></tr><tr><td>Supervisory Policy Manual</td><td></td><td></td></tr><tr><td>IC-1</td><td>Risk Management Framework</td><td>V.3 - 06.10.2017</td></tr></table>",
+        "bbox": [
+            137,
+            39,
+            878,
+            166
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "development of new products and acquisition) and a clear timeframe should be set for making any required upgrading or adjustment. ",
+        "bbox": [
+            334,
+            195,
+            850,
+            244
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "5.3 Risk measurement and assessment ",
+        "text_level": 1,
+        "bbox": [
+            208,
+            259,
+            616,
+            275
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "5.3.1 AIs should employ effective methodologies and tools for the measurement of various types of quantifiable risk and for the assessment of other risks which are not easily quantifiable (e.g. reputation risk). ",
+        "bbox": [
+            270,
+            290,
+            852,
+            355
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "5.3.2 Different methods or models may be used to assess or measure each type of risk. In determining the methods or models to be adopted for risk measurement or assessment, an AI should, among other things, consider the following factors: ",
+        "bbox": [
+            268,
+            369,
+            852,
+            451
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "the nature, scale and complexity of its business activities;   \nits business needs (e.g. for pricing);   \nthe assumptions underpinning the methods or models;   \ndata availability;   \nthe sophistication of its management information system; and   \nstaff expertise. ",
+        "bbox": [
+            336,
+            467,
+            852,
+            692
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "5.3.3 The Board or its designated committee(s) and senior management should recognise the biases and assumptions embedded in, and the constraints of, the methods or models chosen (including associated valuation and pricing methodologies) in order to better assess the results generated from those methods or models. They should also satisfy themselves as to the adequacy and appropriateness of the key assumptions, data sources and procedures used to measure or assess the risks. ",
+        "bbox": [
+            270,
+            706,
+            852,
+            869
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "table",
+        "img_path": "images/7ab1c08e24c23d62aa614a392b5fa013964b9da9ab2e7d5b285ac735ffc99306.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"3\">HoNG KoNG MoNETARY AUTHORITY 州</td></tr><tr><td colspan=\"3\">香港金融管理局</td></tr><tr><td>Supervisory Policy Manual</td><td colspan=\"2\"></td></tr><tr><td>IC-1</td><td>Risk Management Framework</td><td>V.3 -06.10.2017</td></tr></table>",
+        "bbox": [
+            139,
+            39,
+            878,
+            166
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "5.3.4 The accuracy and reliability of a risk measurement method or model should be verified against the actual results through regular back-testing. The measurement method or model (including the underlying assumptions) should also be subject to periodic update to reflect changing market conditions. ",
+        "bbox": [
+            268,
+            195,
+            852,
+            294
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "5.3.5 AIs should avoid over reliance on any specific risk methodology or model. Modelling and risk management techniques should always be tempered by expert judgement. For example, models that project very high returns on economic capital may arouse concern as to whether this is in fact caused by a deficiency in the models (such as failure to take into account all relevant risks). Where practicable, AIs should use a range of risk measures or tools to provide different views of risk on the same exposures. ",
+        "bbox": [
+            270,
+            309,
+            850,
+            472
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "5.3.6 Similarly, decisions which determine the level of risks to be taken should not only be based on quantitative information or model outputs, but should also take into account the practical and conceptual limitations of the methods and models adopted, using a qualitative approach which includes expert judgement and critical analysis. In addition, relevant macroeconomic trends and data should explicitly be addressed to identify their potential impact on particular business activities. Such assessments should be formally integrated into material risk decisions. ",
+        "bbox": [
+            270,
+            487,
+            850,
+            667
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "5.3.7 AIs should use stress tests to complement risk management models that are based on complex, quantitative models using backward-looking data and estimated statistical relationships. In particular, stresstesting outcomes for a specific portfolio can provide insights about the validity of statistical models at high confidence intervals. However, AIs should recognise that stress-testing results are highly dependent on the limitations and assumptions of the scenarios used, namely the severity and duration of the shock and the underlying risks. ",
+        "bbox": [
+            270,
+            682,
+            850,
+            862
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "5.3.8 For risk measurement purposes, AIs should be able to value their positions (including those associated with complex products and financial instruments) based on sound valuation practices. This should be the case both in normal times and in times of stress. For exposures that represent material risk, AIs should have the capacity to produce valuations using alternative methods in the event that primary inputs and approaches become unreliable, unavailable or irrelevant due to market disruptions or illiquidity. ",
+        "bbox": [
+            267,
+            877,
+            850,
+            909
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "table",
+        "img_path": "images/2e77864c688b1e28bd0c37163ca554147e923eae8f915510d293b94b158666ae.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"3\">HoNG KoNG MoNETARY AUTHORITY </td></tr><tr><td colspan=\"3\">香港金融管理局</td></tr><tr><td>Supervisory Policy Manual</td><td></td><td></td></tr><tr><td>IC-1</td><td>Risk Management Framework</td><td>V.3 - 06.10.2017</td></tr></table>",
+        "bbox": [
+            137,
+            39,
+            878,
+            166
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            336,
+            195,
+            850,
+            326
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "5.4 Risk-adjusted performance measurement ",
+        "text_level": 1,
+        "bbox": [
+            208,
+            340,
+            670,
+            357
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "5.4.1 AIs are expected to adopt a system for measuring the performance of their business units on a risk-adjusted basis to enable them to compare the financial performance of individual business units, taking into account the risks associated with their activities and any breaches of risk limits or other risk management measures. This ensures that business units are not rewarded for taking on excessive risks. ",
+        "bbox": [
+            270,
+            372,
+            850,
+            502
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "5.4.2 To enable efficient allocation of capital and other financial resources to individual business units and to provide these units with incentives for controlling the risks generated from their activities, the performance measurement system (including internal pricing mechanisms) used by AIs should be able to comprehensively measure the risks associated with the units’ business activities. Management information systems should be able to attribute risk and earnings to their appropriate sources and to measure earnings against capital allocated to the activity, after adjusting for various risks (such as the expected loss on credit facilities). ",
+        "bbox": [
+            270,
+            517,
+            850,
+            730
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "5.4.3 Data inputs and information used for the purpose of calculating remuneration payable to an AI’s senior management and staff should be subject to independent review to ensure their appropriateness and accuracy. ",
+        "bbox": [
+            268,
+            745,
+            852,
+            810
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "5.5 Sensitivity analysis and stress-testing ",
+        "text_level": 1,
+        "bbox": [
+            210,
+            825,
+            638,
+            841
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "5.5.1 AIs should have adequate systems and capability to measure the sensitivity of earnings to a change in individual risk factors (e.g. interest rates) and conduct stress tests to: ",
+        "bbox": [
+            268,
+            856,
+            848,
+            888
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "table",
+        "img_path": "images/fb812eba9801e563c330f7fb2f194cfafe1e79e8a0f337d4c6f376a6dabf0039.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"3\">HoNG KoNG MoNETARY AUTHORITY </td></tr><tr><td colspan=\"3\">香港金融管理局</td></tr><tr><td>Supervisory Policy Manual</td><td></td><td></td></tr><tr><td>IC-1</td><td>Risk Management Framework</td><td>V.3 - 06.10.2017</td></tr></table>",
+        "bbox": [
+            137,
+            39,
+            878,
+            166
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            336,
+            195,
+            852,
+            228
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "identify possible events or market changes that could have serious adverse effects or a significant impact on their overall risk profiles and financial positions; address existing or potential risk concentrations; and facilitate the development of risk mitigating measures or contingency plans across a range of stressed conditions. ",
+        "bbox": [
+            336,
+            242,
+            852,
+            387
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "5.5.2 The sensitivity analyses and stress tests should be conducted regularly on major business activities, and on a firm-wide basis. Stress scenarios should be comprehensive and forward-looking, and include risk factors that can significantly affect an AI or its individual business units. ",
+        "bbox": [
+            268,
+            403,
+            852,
+            501
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "5.5.3 The Board (or its Risk Committee) and senior management should have direct involvement in setting stress-testing objectives, defining stress scenarios, discussing the results of sensitivity analyses and stress tests, assessing potential actions and making relevant decisions. The stress-testing outcomes should be taken into account in the setting of policies and limits. ",
+        "bbox": [
+            268,
+            516,
+            852,
+            631
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "5.5.4 See IC-5 “Stress-testing” for more guidance on the use of stress tests for risk management purposes. ",
+        "bbox": [
+            268,
+            645,
+            852,
+            678
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "6. Internal controls, audits and contingency planning ",
+        "text_level": 1,
+        "bbox": [
+            146,
+            699,
+            776,
+            719
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "6.1 Internal control system ",
+        "text_level": 1,
+        "bbox": [
+            211,
+            732,
+            494,
+            750
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "6.1.1 A critical element to support an effective risk management framework is the existence of a sound internal control system. ",
+        "bbox": [
+            268,
+            763,
+            850,
+            813
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "6.1.2 A properly structured internal control system should: ",
+        "bbox": [
+            268,
+            826,
+            806,
+            844
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "help to promote effective and efficient operation;   \nprovide reliable financial information; ",
+        "bbox": [
+            336,
+            858,
+            806,
+            907
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "table",
+        "img_path": "images/68f9c7ee8f136a47e95b7a8bc1cf852800c304c63fb2393c89748cd18750640c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"3\">HoNG KoNG MoNETARY AUTHORITY </td></tr><tr><td colspan=\"3\">香港金融管理局</td></tr><tr><td>Supervisory Policy Manual</td><td></td><td>V.3 - 06.10.2017</td></tr><tr><td>IC-1</td><td>Risk Management Framework</td><td></td></tr></table>",
+        "bbox": [
+            139,
+            39,
+            878,
+            166
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": " safeguard assets; minimise the operating risk of loss from irregularities, fraud and errors; ensure effective risk management systems; and ensure compliance with relevant laws, regulations and internal policies. ",
+        "bbox": [
+            336,
+            196,
+            852,
+            340
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "6.1.3 An AI’s internal control system should, at a minimum, cover the following: ",
+        "bbox": [
+            270,
+            355,
+            848,
+            387
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "high level controls, including clear delegation of authority, written policies and procedures, separation of critical functions (e.g. marketing, risk management, accounting, settlement, audit and compliance); controls relating to major functional areas, including, retail banking, corporate banking, institutional banking, private banking and treasury. Such controls should include segregation of duties, authorization and approval, limit monitoring, physical access controls, etc.;  controls relating to financial accounting (e.g. reconciliation of nostro accounts and review of suspense accounts), annual budgeting, management reporting and compilation of prudential returns to the regulators; controls relating to information technology (see TM-G-1 “General Principles for Technology Risk Management”); controls relating to outsourced activities, where applicable (see SA-2 “Outsourcing”); and controls relating to compliance with statutory and regulatory requirements (including but not limited to those relating to anti-money laundering and counterterrorist financing). ",
+        "bbox": [
+            336,
+            399,
+            852,
+            889
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "table",
+        "img_path": "images/04cd6a307213ff089174d36f87f4474ff5e1354ca238ae9e98ba624d6c9a4546.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"3\">HoNG KoNG MoNETARY AUTHORITY 州</td></tr><tr><td colspan=\"3\">香港金融管理局</td></tr><tr><td>Supervisory Policy Manual</td><td colspan=\"2\"></td></tr><tr><td>IC-1</td><td>Risk Management Framework</td><td>V.3 -06.10.2017</td></tr></table>",
+        "bbox": [
+            139,
+            39,
+            878,
+            166
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "6.1.4 An effective internal control system requires a strong control environment 10 to which the Board and senior management provide their full support, and an internal audit function to evaluate its performance on a regular basis (see subsection 6.2 below). ",
+        "bbox": [
+            268,
+            195,
+            852,
+            278
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "6.2 Internal audit function ",
+        "text_level": 1,
+        "bbox": [
+            210,
+            291,
+            484,
+            307
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "6.2.1 AIs’ internal audit function (see also IC-2 “Internal Audit Function”) should, among other things, perform independent periodic checking on whether the risk management framework approved by the Board is properly implemented and the established policies and control procedures in respect of risk management are complied with. ",
+        "bbox": [
+            270,
+            322,
+            852,
+            436
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "6.2.2 The effectiveness of an AI’s risk management processes and related internal controls should be assessed and tested periodically. The scope and frequency of audit may vary but should be increased if there are significant weaknesses or major changes or new products or services are introduced. ",
+        "bbox": [
+            268,
+            451,
+            852,
+            550
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "6.2.3 In fulfilling its responsibilities relating to an AI’s risk management, the internal audit function should, among other things, assess (on a group basis and on the basis of individual business units and legal entities) and report to the Board (or its Audit Committee) periodically whether: ",
+        "bbox": [
+            270,
+            564,
+            850,
+            662
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "the AI’s risk governance arrangements and risk appetite framework are effective, both in their design and operation (including the linkages to the AI’s risk culture, strategic and business planning, remuneration and decision-making processes); ",
+        "bbox": [
+            336,
+            677,
+            850,
+            760
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "breaches of risk limits are being appropriately identified, escalated and reported; ",
+        "bbox": [
+            336,
+            775,
+            848,
+            808
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "table",
+        "img_path": "images/84bf7ebb4cf3012b49b740ae5fcf941578cdd6e26966f8ba0467a17df2664d26.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"3\">HoNG KoNc MoNETARY AUTHORITY 州</td></tr><tr><td colspan=\"3\">香港金融管理局</td></tr><tr><td colspan=\"2\">Supervisory Policy Manual</td><td></td></tr><tr><td>IC-1</td><td>Risk Management Framework</td><td>V.3 - 06.10.2017</td></tr></table>",
+        "bbox": [
+            139,
+            39,
+            878,
+            166
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "the AI’s risk measurement techniques and risk management information system and related reporting are effective; and the AI’s internal control system is effective. ",
+        "bbox": [
+            336,
+            196,
+            852,
+            278
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "6.2.4 All material risk management deficiencies and weaknesses (including any non-compliance with internal policies and procedures as well as stipulated regulatory requirements on risk management) identified should be directly and promptly reported to the Board (or its Audit Committee) and senior management for early rectification. ",
+        "bbox": [
+            268,
+            291,
+            852,
+            406
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "6.2.5 An AI should have in place appropriate arrangements (such as periodic meetings) to facilitate effective exchange of information between the Audit Committee and Risk Committee, and to ensure that all material risks and related risk management processes are subject to independent assessment by the internal audit function. ",
+        "bbox": [
+            268,
+            420,
+            852,
+            519
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "6.3 Compliance function ",
+        "text_level": 1,
+        "bbox": [
+            210,
+            532,
+            472,
+            550
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "6.3.1 The compliance function plays an important role with respect to a sound risk management framework, but should not be regarded as a substitute for regular and adequate internal audit coverage. The work of the compliance function should be subject to periodic reviews by the internal audit function. ",
+        "bbox": [
+            268,
+            564,
+            852,
+            662
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "6.3.2 The primary role of an AI’s compliance function is to assist the AI to ensure compliance with the statutory provisions, regulatory requirements and codes of conduct applicable to its banking or other regulated activities. This includes ensuring that the AI has appropriate internal policies to achieve compliance. (For the avoidance of doubt, the responsibility for achieving compliance does not rest only with the compliance function but every function and staff of an AI have their respective responsibility for ensuring compliance.)11 ",
+        "bbox": [
+            270,
+            676,
+            850,
+            808
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "table",
+        "img_path": "images/828cd2c5b2e89ab2979f5699864c7bd72cddedae2c248168feaff3b85e20f372.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"3\">HoNc KoNG MoNETARY AUTHORITY </td></tr><tr><td colspan=\"3\">香港金融管理局</td></tr><tr><td>Supervisory Policy Manual</td><td></td><td>V.3-06.10.2017</td></tr><tr><td>IC-1</td><td>Risk Management Framework</td><td></td></tr></table>",
+        "bbox": [
+            137,
+            39,
+            878,
+            166
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            329,
+            195,
+            850,
+            228
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "6.3.3 Key responsibilities of the compliance function include12: ",
+        "bbox": [
+            268,
+            241,
+            835,
+            259
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "identifying, assessing and monitoring compliance risk;   \nadvising senior management on the laws, rules and standards (and any changes of such) with which the AI is required to comply;   \nestablishing the AI’s compliance policies and guidelines, and ensuring that they remain effective; providing compliance-related advice and training to staff;   \nreporting regularly to, and advising senior management on, compliance matters; and   \nestablishing a compliance programme that sets out its planned activities, including the scope of review of policies and procedures to ensure the AI’s compliance with applicable statutory provisions, regulatory requirements and codes of conduct. ",
+        "bbox": [
+            334,
+            273,
+            852,
+            612
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "6.3.4 An AI is expected to have an independent compliance function and to appoint a person (commonly known as the Head of Compliance) to be responsible for the firmwide compliance function or, in the case of an overseasincorporated AI, the compliance function of its Hong Kong branch. The appointment of the Head of Compliance should be approved by the Board (or its designated committee). An AI should promptly and in any event within 14 days, notify the HKMA of the appointment (and cessation of appointment) of its Head of Compliance.13 ",
+        "bbox": [
+            270,
+            627,
+            850,
+            758
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "table",
+        "img_path": "images/fad33ae3f74e7e7eff556fbe42bb4f96c04fc5faabfcb55286a543d4855287ca.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"3\">HoNG KoNG MoNETARY AUTHORITY </td></tr><tr><td colspan=\"3\">香港金融管理局</td></tr><tr><td>Supervisory Policy Manual</td><td></td><td></td></tr><tr><td>IC-1</td><td>Risk Management Framework</td><td>V.3 - 06.10.2017</td></tr></table>",
+        "bbox": [
+            137,
+            39,
+            878,
+            166
+        ],
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            329,
+            195,
+            852,
+            228
+        ],
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "6.3.5 In exceptional cases where, for example, an AI’s scale of operations may not justify having all necessary tasks carried out internally by the compliance function, other arrangements (such as hiring an external lawyer to provide legal advice on a need basis or an appropriate allocation of duties among functions) may be acceptable. In any case, where certain tasks of the compliance function are outsourced, there should nevertheless be adequate oversight by the AI’s Head of Compliance. ",
+        "bbox": [
+            270,
+            242,
+            852,
+            390
+        ],
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "6.3.6 An effective compliance function should: ",
+        "bbox": [
+            270,
+            404,
+            697,
+            420
+        ],
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "have adequate resources and be staffed by an appropriate number of competent staff who are sufficiently independent of the business and operating units. The Head of Compliance and the staff of the compliance function should not be placed in a position where there is a possible conflict of interest between their compliance responsibilities and any other responsibilities they may have; 14 ",
+        "bbox": [
+            337,
+            436,
+            850,
+            567
+        ],
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "be given appropriate standing and authority within the AI. It should report to a designated committee of the Board (e.g. the Audit Committee) or senior management and have the right to report matters to the Board directly as necessary; and ",
+        "bbox": [
+            337,
+            583,
+            850,
+            664
+        ],
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "be able to carry out its duties on its own initiative in all business and operating units of the AI in which compliance risk exists, with unfettered access to any records or files necessary to enable it to conduct its work. ",
+        "bbox": [
+            337,
+            680,
+            850,
+            762
+        ],
+        "page_idx": 38
+    },
+    {
+        "type": "table",
+        "img_path": "images/f4e63757d2fff52d3d4fdae0de04ac0d53956e4ff2ab05021a9696802a3c0298.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"3\">HoNc KoNG MoNETARY AUTHORITY </td></tr><tr><td colspan=\"3\">香港金融管理局</td></tr><tr><td>Supervisory Policy Manual</td><td></td><td>V.3-06.10.2017</td></tr><tr><td>IC-1</td><td>Risk Management Framework</td><td></td></tr></table>",
+        "bbox": [
+            137,
+            39,
+            878,
+            166
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "3.7 To ensure effective management of compliance risk, the AI’s compliance policy should document the organisation, status and responsibilities of the compliance function as well as other measures to manage compliance risk. The Board should approve the policy and should oversee the implementation of the policy by senior management (with the assistance of the compliance function) through regular review of the extent to which the policy is observed. The Board may designate an appropriate Board-level committee to review and approve the compliance policy and conduct regular reviews of how the policy is being implemented. In such a case, the designated committee (e.g. the Audit Committee) should have the required independence to take up the mandate. The Board should monitor the committee’s performance to ensure that its directives are properly followed.15 ",
+        "bbox": [
+            292,
+            193,
+            852,
+            474
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "6.4 Contingency, business continuity and recovery planning ",
+        "text_level": 1,
+        "bbox": [
+            208,
+            488,
+            816,
+            506
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "6.4.1 Each AI should, as part of its business continuity planning, contingency funding planning and recovery planning, ensure that the AI’s risk management function will be able to fulfil its roles and responsibilities effectively in emergency and crisis situations. ",
+        "bbox": [
+            268,
+            519,
+            852,
+            601
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "table",
+        "img_path": "images/d1ed2caf292d127f0986b0c60211745fbb1589069bbedd0ae6b21f6eaf15fa73.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"3\">HoNG KoNG MoNETARY AUTHORITY </td></tr><tr><td colspan=\"3\">香港金融管理局</td></tr><tr><td>Supervisory Policy Manual</td><td></td><td>V.3 - 06.10.2017</td></tr><tr><td>IC-1</td><td>Risk Management Framework</td><td></td></tr></table>",
+        "bbox": [
+            139,
+            39,
+            878,
+            166
+        ],
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "Examples of significant changes in features or risk profile of products and services ",
+        "text_level": 1,
+        "bbox": [
+            226,
+            242,
+            788,
+            285
+        ],
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "A. Treasury-related ",
+        "bbox": [
+            149,
+            312,
+            347,
+            331
+        ],
+        "page_idx": 40
+    },
+    {
+        "type": "table",
+        "img_path": "images/904a8635eafbf6d77d832f033a6442f365ce7ff9c77f78c28a8b9eb6b4181199.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Featurechanged</td><td rowspan=1 colspan=1>Original</td><td rowspan=1 colspan=1>New</td><td rowspan=1 colspan=1>Reason</td></tr><tr><td rowspan=1 colspan=1>Productfeature(s)</td><td rowspan=1 colspan=1>1. European calloption onindex2. Treasuries upto 5 year tenor3. Trading of off-shore KoreanWon4.Europeanoption on HSI</td><td rowspan=1 colspan=1>1. European calloption onsingle stocks2. Treasuries upto 30 yeartenor3. Trading of on-shore KoreanWon4.Americanoption on HSI</td><td rowspan=1 colspan=1>Therisk&lt; profiles (e.g.liquidityrisk, marketrisk, regulatory risk,etc.)of theproductshave             changedsignificantly.</td></tr><tr><td rowspan=1 colspan=1>Hedgingstrategy</td><td rowspan=1 colspan=1>Fully    back-to-back   to    aninterbankcounterparty</td><td rowspan=1 colspan=1>Market      riskswarehousedunder limits</td><td rowspan=1 colspan=1>Risk     profile     haschanged significantly.</td></tr><tr><td rowspan=1 colspan=1>Role        ofserviceprovision</td><td rowspan=1 colspan=1>Stock dealing inprimary market</td><td rowspan=1 colspan=1>Prop-tradingstocks</td><td rowspan=1 colspan=1>Role     of     serviceprovisionhas changed,impactingapproach torisk management</td></tr></table>",
+        "bbox": [
+            146,
+            349,
+            860,
+            793
+        ],
+        "page_idx": 40
+    },
+    {
+        "type": "table",
+        "img_path": "images/cf33819a1f79e7d91da3863241a6d9f780f389651096fc51d2cb52d47eaca10f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"3\">HoNG KoNG MoNETARY AUTHORITY </td></tr><tr><td colspan=\"3\">香港金融管理局</td></tr><tr><td colspan=\"2\">Supervisory Policy Manual</td><td></td></tr><tr><td>IC-1</td><td>Risk Management Framework</td><td>V.3 - 06.10.2017</td></tr></table>",
+        "bbox": [
+            139,
+            40,
+            878,
+            166
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "B. Others ",
+        "text_level": 1,
+        "bbox": [
+            147,
+            218,
+            253,
+            236
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "Product re-launch after a substantially long lapse (e.g. market conditions or regulatory requirements have changed) ",
+        "bbox": [
+            147,
+            259,
+            850,
+            292
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "Product pass-through to customers versus position taking by AIs themselves ",
+        "bbox": [
+            146,
+            299,
+            852,
+            331
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "Change in markets (e.g. different geographical locations involving different legal or regulatory requirements, and different liquidity and volatility risks) ",
+        "bbox": [
+            149,
+            338,
+            852,
+            388
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "Change in distribution channel (e.g. mobile banking and internet banking) ",
+        "bbox": [
+            151,
+            394,
+            843,
+            412
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "Change in counterparty or customer segment targeted by the product (e.g. from interbank counterparty or large institutional clients to high net worth individuals or retail customers, who may not possess the same level of expertise to assess the risks and returns of the same products) ",
+        "bbox": [
+            147,
+            418,
+            853,
+            485
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "Change in currency denomination of an existing product ",
+        "bbox": [
+            146,
+            492,
+            689,
+            508
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "Change in market positioning (e.g. end user, active player and market maker) ",
+        "bbox": [
+            147,
+            514,
+            852,
+            549
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "Change in platform (e.g. over-the-counter, exchange and electronic) ",
+        "bbox": [
+            156,
+            555,
+            796,
+            573
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "Change in process (e.g. automation) ",
+        "bbox": [
+            147,
+            579,
+            524,
+            596
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "Change in booking arrangement (e.g. from held-to-maturity to trading) ",
+        "bbox": [
+            159,
+            601,
+            811,
+            620
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "Change in settlement methodology (e.g. from physical delivery to cash settlement) ",
+        "bbox": [
+            147,
+            626,
+            850,
+            659
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "Major changes in documentation including legal documents (e.g. margining requirement and netting arrangements) ",
+        "bbox": [
+            146,
+            665,
+            848,
+            700
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "table",
+        "img_path": "images/0401cc7b09940c3dd184684ce5fd4fa25c9a782d9449a1f10f82f46885250a92.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Contents</td><td>Glossary</td><td>Home</td><td>Introduction</td></tr></table>",
+        "bbox": [
+            142,
+            781,
+            847,
+            814
+        ],
+        "page_idx": 41
+    }
+]

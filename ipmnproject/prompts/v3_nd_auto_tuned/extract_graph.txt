@@ -1,0 +1,284 @@
+
+-Goal-
+Given a text document that is potentially relevant to this activity, first identify all entities needed from the text in order to capture the information and ideas in the text.
+Next, report all relationships among the identified entities.
+
+-Steps-
+1. Identify all entities. For each identified entity, extract the following information:
+- entity_name: Name of the entity, capitalized
+- entity_type: Suggest several labels or categories for the entity. The categories should not be specific, but should be as general as possible.
+- entity_description: Comprehensive description of the entity's attributes and activities
+Format each entity as ("entity"{tuple_delimiter}<entity_name>{tuple_delimiter}<entity_type>{tuple_delimiter}<entity_description>)
+
+2. From the entities identified in step 1, identify all pairs of (source_entity, target_entity) that are *clearly related* to each other.
+For each pair of related entities, extract the following information:
+- source_entity: name of the source entity, as identified in step 1
+- target_entity: name of the target entity, as identified in step 1
+- relationship_description: explanation as to why you think the source entity and the target entity are related to each other
+- relationship_strength: a numeric score indicating strength of the relationship between the source entity and target entity
+Format each relationship as ("relationship"{tuple_delimiter}<source_entity>{tuple_delimiter}<target_entity>{tuple_delimiter}<relationship_description>{tuple_delimiter}<relationship_strength>)
+
+3. Return output in English as a single list of all the entities and relationships identified in steps 1 and 2. Use **{record_delimiter}** as the list delimiter.
+
+4. If you have to translate into English, just translate the descriptions, nothing else!
+
+5. When finished, output {completion_delimiter}.
+
+-Examples-
+######################
+
+Example 1:
+
+text:
+This module should be read in conjunction with the Introduction and with the Glossary, which contains an explanation of abbreviations and other terms used in this Manual. If reading on-line, click on blue underlined headings to activate hyperlinks to the relevant module.
+
+# Purpose
+
+To explain the HKMA's risk-based supervisory approach
+
+# Classification
+
+A non-statutory guideline issued by the MA as a guidance note
+
+# Previous guidelines superseded
+
+SA-1 "Risk-based Supervisory Approach" (V.1) dated 11.10.01
+
+# Application
+
+To all Als
+
+# Structure
+
+1. Supervisory framework
+
+1.1 Introduction  
+1.2 Key benefits  
+1.3 Integration with CAMEL rating system  
+1.4 Risk-based approach and methodology  
+1.5 Risk assessment  
+1.6 Supervisory process  
+1.7 Primary prudential obligations of an AI
+
+2. The eight types of inherent risk
+
+2.1 Credit risk  
+2.2 Market risk  
+2.3 Interest rate risk
+
+2.4 Liquidity risk  
+2.5 Operational risk  
+2.6 Reputation risk  
+2.7 Legal risk  
+2.8 Strategic risk  
+2.9 Emerging risk types
+
+3. Four elements of a sound risk management system
+
+3.1 Summary  
+3.2 Board and senior management oversight  
+3.3 Policies, procedures and limit structure  
+3.4 Risk measurement, monitoring and management reporting systems  
+3.5 Internal controls and comprehensive audits
+
+4. Rating risk management
+
+4.1 Factors considered  
+4.2 Rating scale and integration into CAMEL rating  
+4.3 Definitions of risk management ratings
+
+# 1. Supervisory framework
+
+# 1.1 Introduction
+
+1.1.1 The objective of the supervisory framework of the HKMA is to provide an effective process to monitor and assess the safety and soundness of Als on a continuing basis. The process follows a risk-based approach. It consists of a structured methodology designed to establish a forward-looking view on the risk profile of Als. This permits a direct and specific focus on the areas of greatest risk to an AI. It also enables the HKMA to be
+
+more proactive and better positioned to pre-empt any serious threat to the stability of the banking system from any current or emerging risks.
+
+1.1.2 The adoption of a well-structured risk-based framework allows the HKMA to continue to deliver consistent, high-quality supervision as the banking sector develops and risk profiles of Als change in reaction to competitive forces. This should also benefit Als as regulatory effort is focused on high-risk areas warranting management attention.
+
+# 1.2 Key benefits
+
+1.2.1 The key benefits for both the HKMA and Als from this risk-based supervisory framework are:
+
+- better evaluation of risks through separate assessment of inherent risks and risk management processes;  
+- greater emphasis on early identification of emerging risks at individual Als and on a sector-wide basis;  
+- cost-effective use of resources through a sharper focus on risks, which in time should result in examination teams spending less time on site at individual AIs;  
+- more utilisation by the HKMA of management information prepared by AIs;  
+- a better appreciation by supervisors of the management quality of Als, the characteristics of their business and the risks they face;  
+- enhanced value of the supervisory work performed to both the management of Als and the supervisors, who have a common interest in ensuring that risks are properly identified and that adequate and effective control systems are established to monitor and control risks; and  
+cost of supervision, in terms of management time of an AI, will be more directly related to the AI's
+
+risk profile, i.e. the intensity of supervision and the amount and focus of supervisory action will increase or decrease in line with the perceived risk profile of the AI.
+
+# 1.3 Integration with CAMEL rating system
+
+1.3.1 The CAMEL  $^{{1}}$  rating system, which has been implemented at the HKMA since 1995, is designed to assess in a comprehensive manner an Al's financial condition, compliance with laws and regulations, risk management systems and overall operating soundness. Its primary purpose is to help identify those Als where weaknesses in the aforementioned areas require special supervisory attention or warrant a higher than normal degree of supervisory concern.  
+1.3.2 Risk-based supervision is a dynamic and forward-looking approach, which provides the supervisory process with the necessary framework to factor the risk profile of an AI into the CAMEL rating system. Risk-taking has always been present in the banking business, and rightfully so, but has increased significantly, primarily due to the need to remain competitive in a fast-paced environment.  
+1.3.3 The risk-based methodology incorporates the risk profile, which is ascertained by balancing the level of inherent risk with the quality of risk management systems at Als, into the CAMEL rating system. Each of the CAMEL components is, as shown in the following diagram, affected by one or more of the eight inherent risks (credit, market, interest rate, liquidity, operational, legal, reputation and strategic), which the HKMA has identified as risks to be assessed during the supervisory process. These eight inherent risks are described in section 2 below.
+
+![](https://cdn-mineru.openxlab.org.cn/result/2025-10-17/4b70d29d-a521-4c6c-92cd-b0442bf201e9/5e6fb3b7619c11ccb4ee6ed8af410c1bbecdf762a4a76f25e35bed37d39ace90.jpg)
+
+1.3.4 Under the risk-based approach, a change in the CAMEL rating of an AI may result from the qualitative analysis of
+------------------------
+output:
+("entity"{tuple_delimiter}HKMA{tuple_delimiter}ORGANIZATION{tuple_delimiter}The Hong Kong Monetary Authority (HKMA) is the supervisory authority responsible for overseeing Authorized Institutions (AIs) using a risk-based supervisory approach that includes risk assessment and management. It develops guidelines and methodologies to monitor and assess the safety and soundness of AIs)
+{record_delimiter}
+("entity"{tuple_delimiter}AI{tuple_delimiter}ORGANIZATION{tuple_delimiter}Authorized Institutions (AIs) are financial institutions supervised by the HKMA, subject to risk-based supervisory frameworks to ensure their safety and soundness)
+{record_delimiter}
+("entity"{tuple_delimiter}RISK-BASED SUPERVISORY APPROACH{tuple_delimiter}CONCEPT{tuple_delimiter}A supervisory methodology employed by the HKMA that focuses on identifying, assessing, and managing risks faced by AIs, emphasizing forward-looking and dynamic evaluation of risk profiles)
+{record_delimiter}
+("entity"{tuple_delimiter}CAMEL RATING SYSTEM{tuple_delimiter}CONCEPT{tuple_delimiter}A comprehensive rating system used by the HKMA since 1995 to assess an AI's financial condition, compliance, risk management, and overall soundness, incorporating risk profiles and management ratings)
+{record_delimiter}
+("entity"{tuple_delimiter}EIGHT INHERENT RISKS{tuple_delimiter}CONCEPT{tuple_delimiter}The eight types of risks identified by the HKMA to be assessed in AIs: credit, market, interest rate, liquidity, operational, legal, reputation, and strategic risks)
+{record_delimiter}
+("entity"{tuple_delimiter}RISK MANAGEMENT SYSTEM{tuple_delimiter}CONCEPT{tuple_delimiter}A set of systems within an AI designed to manage risks effectively, including board oversight, policies and procedures, risk measurement and monitoring, and internal controls)
+{record_delimiter}
+("entity"{tuple_delimiter}INSTITUTIONAL OVERVIEW{tuple_delimiter}DOCUMENT{tuple_delimiter}A document prepared as part of the risk-based supervisory methodology that provides a concise portrait of an AI's structure, financial condition, business lines, strategy, and affiliated entities)
+{record_delimiter}
+("entity"{tuple_delimiter}RISK ASSESSMENT NARRATIVE{tuple_delimiter}DOCUMENT{tuple_delimiter}A document resulting from the risk assessment exercise that identifies the type, level, and direction of risks of an AI across its business activities)
+{record_delimiter}
+("entity"{tuple_delimiter}PLANNING AND SCOPE MEMORANDUM{tuple_delimiter}DOCUMENT{tuple_delimiter}A document prepared to plan supervisory work and define examination activities tailored to the AI's complexity and risk profile)
+{record_delimiter}
+("entity"{tuple_delimiter}RISK MANAGEMENT RATING{tuple_delimiter}CONCEPT{tuple_delimiter}A rating assigned based on on-site examination results evaluating the effectiveness of an AI's risk management system, incorporated into the CAMEL management component)
+{record_delimiter}
+("entity"{tuple_delimiter}FOUR ELEMENTS OF SOUND RISK MANAGEMENT SYSTEM{tuple_delimiter}CONCEPT{tuple_delimiter}Key components used to evaluate risk management systems: board and senior management oversight, policies and procedures, risk measurement and monitoring, and internal controls including audits)
+{record_delimiter}
+("entity"{tuple_delimiter}RISK ASSESSMENT PROCESS{tuple_delimiter}PROCESS{tuple_delimiter}A formal process developed by the HKMA to identify the type, level, and direction of significant risks of an AI, assessing inherent risks and adequacy of risk management systems)
+{record_delimiter}
+("entity"{tuple_delimiter}INHERENT RISK{tuple_delimiter}CONCEPT{tuple_delimiter}The probability and degree of potential loss from adverse events in an AI's activities without considering the effectiveness of risk management systems)
+{record_delimiter}
+("entity"{tuple_delimiter}DIRECTION OF RISK{tuple_delimiter}CONCEPT{tuple_delimiter}A classification of risk trend over the next 12 months as increasing, stable, or decreasing, used to provide a forward-looking view in risk assessment)
+{record_delimiter}
+("relationship"{tuple_delimiter}HKMA{tuple_delimiter}AI{tuple_delimiter}HKMA supervises Authorized Institutions using a risk-based supervisory approach to monitor their safety and soundness{tuple_delimiter}10)
+{record_delimiter}
+("relationship"{tuple_delimiter}HKMA{tuple_delimiter}RISK-BASED SUPERVISORY APPROACH{tuple_delimiter}HKMA developed and implements the risk-based supervisory approach for effective supervision of AIs{tuple_delimiter}10)
+{record_delimiter}
+("relationship"{tuple_delimiter}RISK-BASED SUPERVISORY APPROACH{tuple_delimiter}CAMEL RATING SYSTEM{tuple_delimiter}The risk-based supervisory approach integrates the risk profile of AIs into the CAMEL rating system to enhance supervisory assessments{tuple_delimiter}9)
+{record_delimiter}
+("relationship"{tuple_delimiter}CAMEL RATING SYSTEM{tuple_delimiter}AI{tuple_delimiter}The CAMEL rating system assesses the financial condition, compliance, risk management, and soundness of AIs{tuple_delimiter}10)
+{record_delimiter}
+("relationship"{tuple_delimiter}EIGHT INHERENT RISKS{tuple_delimiter}RISK ASSESSMENT PROCESS{tuple_delimiter}The eight inherent risks are the focus of the risk assessment process to identify and evaluate risks faced by AIs{tuple_delimiter}9)
+{record_delimiter}
+("relationship"{tuple_delimiter}RISK MANAGEMENT SYSTEM{tuple_delimiter}FOUR ELEMENTS OF SOUND RISK MANAGEMENT SYSTEM{tuple_delimiter}The four elements define the key components used to evaluate the adequacy of an AI's risk management system{tuple_delimiter}10)
+{record_delimiter}
+("relationship"{tuple_delimiter}RISK ASSESSMENT PROCESS{tuple_delimiter}RISK MANAGEMENT RATING{tuple_delimiter}The risk assessment process results in assigning a risk management rating based on evaluation of risk management effectiveness{tuple_delimiter}9)
+{record_delimiter}
+("relationship"{tuple_delimiter}INSTITUTIONAL OVERVIEW{tuple_delimiter}AI{tuple_delimiter}The Institutional Overview document provides a detailed profile of an AI's structure, business, and financial condition{tuple_delimiter}9)
+{record_delimiter}
+("relationship"{tuple_delimiter}RISK ASSESSMENT NARRATIVE{tuple_delimiter}RISK ASSESSMENT PROCESS{tuple_delimiter}The Risk Assessment Narrative is the output document summarizing the findings of the risk assessment process{tuple_delimiter}9)
+{record_delimiter}
+("relationship"{tuple_delimiter}PLANNING AND SCOPE MEMORANDUM{tuple_delimiter}RISK-BASED SUPERVISORY APPROACH{tuple_delimiter}The Planning and Scope Memorandum is prepared as part of the risk-based supervisory approach to tailor examination activities to the AI's risk profile{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}RISK MANAGEMENT RATING{tuple_delimiter}CAMEL RATING SYSTEM{tuple_delimiter}The risk management rating is incorporated into the management component of the CAMEL rating system{tuple_delimiter}10)
+{record_delimiter}
+("relationship"{tuple_delimiter}DIRECTION OF RISK{tuple_delimiter}RISK ASSESSMENT PROCESS{tuple_delimiter}The direction of risk provides a forward-looking classification used in the risk assessment process to evaluate risk trends{tuple_delimiter}8)
+{completion_delimiter}
+#############################
+
+
+Example 2:
+
+text:
+2025-10-17/4b70d29d-a521-4c6c-92cd-b0442bf201e9/5e6fb3b7619c11ccb4ee6ed8af410c1bbecdf762a4a76f25e35bed37d39ace90.jpg)
+
+1.3.4 Under the risk-based approach, a change in the CAMEL rating of an AI may result from the qualitative analysis of its risk profile in addition to the more traditional quantitative analysis of its financial data. An example of such a change would be a down-grade in asset quality to a "3" for an AI which displays current indicators representing an asset quality of "2" but whose credit risk, as a result of recent aggressive lending practices and less than satisfactory credit risk management systems, has been assessed as high.  
+1.3.5 This approach to supervision does not eliminate or change the quantitative approach to assessing the components of the CAMEL rating system but it adds a new dimension, which enables the supervisory process to inject more judgement, based on a forward perspective, in arriving at a final rating.  
+1.3.6 The risk-focused examination process places more emphasis on an evaluation of the quality of risk management systems and internal controls. A risk management rating is assigned taking into account the results of the on-site examination and formally incorporated into the management component of the CAMEL rating. It may also influence the ratings given to the other CAMEL components, as illustrated in para. 1.3.4 above. Section 3 below gives details of the four elements of a sound risk management system and
+
+section 4 describes the risk management rating system.
+
+# 1.4 Risk-based approach and methodology
+
+1.4.1 The risk-based supervisory approach, which emphasises effective planning and examiner judgement, customises examinations to suit the size and activities of Als and to concentrate examiner resources on areas that expose the AI concerned to the greatest degree of risk.  
+1.4.2 The risk-based methodology, shown in the diagram below, consists of six key steps.
+
+![](https://cdn-mineru.openxlab.org.cn/result/2025-10-17/4b70d29d-a521-4c6c-92cd-b0442bf201e9/c05683f27efb1419a5707dc1c6cce63d95e0efd93d3792ed4d42c4ee3d32f185.jpg)
+
+1.4.3 The first step in the risk-based methodology, Understanding the AI, requires the preparation of an Institutional Overview document.  
+1.4.4 The Institutional Overview provides a concise portrait of an Al's structure and financial condition. It summarises key business lines and functions, the business strategy and any planned introduction of new products, describes legal structure and financial condition and identifies problem issues related to the Al itself or its affiliated entities, such as domestic or foreign subsidiaries and
+
+branches.
+
+1.4.5 Information provided in the Institutional Overview is determined by the complexity of the AI and is primarily based upon internal and public sources of data, as well as information gathered from on-site visitations.  
+1.4.6 The second step in the risk-based methodology, Assessing the Risk, results in the completion of a Risk Assessment Narrative.  
+1.4.7 The risk assessment exercise is designed to identify the type, level and direction of risks of an AI.  
+1.4.8 In order to conduct this exercise effectively, a building-block approach is used in which each of the significant activities of the AI is assessed with respect to the level of each of the inherent risks and the risk management systems in place to manage these risks.  
+1.4.9 The objective of the risk assessment exercise is to develop a comprehensive risk profile, which captures all the eight types of inherent risks of the AI. Subsection 1.5 below describes the risk assessment process in more detail.  
+1.4.10 The risk profile is used to complete the third and fourth steps in the risk-based methodology, which are Planning the Supervisory Work and Defining Examination Activities. The document to be prepared for these two steps is the Planning and Scope Memorandum. The HKMA will try to customise examination tasks so that they are consistent with the complexity and risk profile of the AI.  
+1.4.11 The emphasis of the risk-focused examination to be performed in step five is on evaluating the effectiveness of the risk management system of the AI for each type of inherent risks. As previously indicated in para. 1.3.6, a risk management rating is assigned taking into account the on-site examination results, and factored into the management component of the CAMEL rating. The risk management rating may also affect the rating for one or more of the other CAMEL components. A report of examination will then be produced in this step to capture the examination findings and results from the review of the
+
+CAMEL rating.
+
+1.4.12 As the risk-based supervisory methodology revolves around a process of continuing off-site supervision, the Institutional Overview produced in step one will be constantly updated throughout the year in step six, making it a dynamic document which always reflects the most current position of the AI.
+
+# 1.5 Risk assessment
+
+1.5.1 The development of a formal risk assessment process represents an important addition to the HKMA's supervisory approach. The purpose of this risk assessment undertaking is, as indicated earlier, to identify the type, level and direction of all significant risks of an AI. The process consists of determining the level of risk in each of the eight inherent risks by business activity, the direction of risk, the adequacy of existing risk management systems and the impact, if any, of external risk factors. It
+------------------------
+output:
+("entity"{tuple_delimiter}HKMA{tuple_delimiter}ORGANIZATION{tuple_delimiter}The Hong Kong Monetary Authority (HKMA) is the supervisory authority responsible for overseeing Authorized Institutions (AIs) using a risk-based supervisory approach that includes risk assessment and management frameworks)
+{record_delimiter}
+("entity"{tuple_delimiter}AI{tuple_delimiter}ORGANIZATION{tuple_delimiter}Authorized Institutions (AIs) are financial institutions supervised by the HKMA, subject to risk-based supervisory processes to monitor their safety and soundness)
+{record_delimiter}
+("entity"{tuple_delimiter}RISK ASSESSMENT PROCESS{tuple_delimiter}PROCESS{tuple_delimiter}A formal process developed by the HKMA to identify the type, level, and direction of significant risks faced by an AI, including assessment of inherent risks and risk management systems)
+{record_delimiter}
+("entity"{tuple_delimiter}INHERENT RISKS{tuple_delimiter}CONCEPT{tuple_delimiter}Eight types of fundamental risks identified by the HKMA that affect AIs, including credit, market, interest rate, liquidity, operational, legal, reputation, and strategic risks)
+{record_delimiter}
+("entity"{tuple_delimiter}RISK MANAGEMENT SYSTEM{tuple_delimiter}SYSTEM{tuple_delimiter}A set of four key elements evaluated by the HKMA to determine the adequacy of an AI's risk controls: board and senior management oversight, policies and procedures, risk measurement and monitoring, and internal controls including audits)
+{record_delimiter}
+("entity"{tuple_delimiter}CAMEL RATING SYSTEM{tuple_delimiter}FRAMEWORK{tuple_delimiter}A supervisory rating system used by the HKMA since 1995 to assess an AI's financial condition, compliance, risk management, and overall soundness, incorporating risk-based supervision)
+{record_delimiter}
+("entity"{tuple_delimiter}RISK-BASED SUPERVISORY APPROACH{tuple_delimiter}APPROACH{tuple_delimiter}A supervisory methodology employed by the HKMA that focuses on assessing and managing risks of AIs through a structured, forward-looking process integrating risk profiles into CAMEL ratings)
+{record_delimiter}
+("entity"{tuple_delimiter}INSTITUTIONAL OVERVIEW{tuple_delimiter}DOCUMENT{tuple_delimiter}A dynamic document prepared as part of the risk-based methodology that summarizes an AI's structure, financial condition, business lines, strategy, and affiliated entities)
+{record_delimiter}
+("entity"{tuple_delimiter}RISK ASSESSMENT NARRATIVE{tuple_delimiter}DOCUMENT{tuple_delimiter}A document resulting from the risk assessment exercise that identifies the type, level, and direction of risks of an AI)
+{record_delimiter}
+("entity"{tuple_delimiter}PLANNING AND SCOPE MEMORANDUM{tuple_delimiter}DOCUMENT{tuple_delimiter}A document prepared to plan supervisory work and define examination activities tailored to the AI's complexity and risk profile)
+{record_delimiter}
+("entity"{tuple_delimiter}EXAMINATION PROCESS{tuple_delimiter}PROCESS{tuple_delimiter}A risk-focused supervisory activity that evaluates the effectiveness of an AI's risk management system and influences CAMEL ratings)
+{record_delimiter}
+("entity"{tuple_delimiter}BOARD AND SENIOR MANAGEMENT OVERSIGHT{tuple_delimiter}FUNCTION{tuple_delimiter}An element of the risk management system involving active supervision and governance by the AI's board and senior management)
+{record_delimiter}
+("entity"{tuple_delimiter}POLICIES, PROCEDURES AND LIMIT STRUCTURE{tuple_delimiter}FUNCTION{tuple_delimiter}An element of the risk management system comprising organizational rules and limits to manage business activities and risks)
+{record_delimiter}
+("entity"{tuple_delimiter}RISK MEASUREMENT, MONITORING AND MANAGEMENT REPORTING SYSTEMS{tuple_delimiter}FUNCTION{tuple_delimiter}An element of the risk management system involving tools and processes to measure, monitor, and report risks within the AI)
+{record_delimiter}
+("entity"{tuple_delimiter}INTERNAL CONTROLS AND AUDITS{tuple_delimiter}FUNCTION{tuple_delimiter}An element of the risk management system including internal controls and comprehensive audit functions to ensure risk management effectiveness)
+{record_delimiter}
+("relationship"{tuple_delimiter}HKMA{tuple_delimiter}AI{tuple_delimiter}The HKMA supervises Authorized Institutions (AIs) using a risk-based supervisory approach to monitor their safety and soundness{tuple_delimiter}10)
+{record_delimiter}
+("relationship"{tuple_delimiter}HKMA{tuple_delimiter}RISK ASSESSMENT PROCESS{tuple_delimiter}The HKMA developed and implements the formal risk assessment process to identify and evaluate risks of AIs{tuple_delimiter}9)
+{record_delimiter}
+("relationship"{tuple_delimiter}RISK ASSESSMENT PROCESS{tuple_delimiter}INHERENT RISKS{tuple_delimiter}The risk assessment process evaluates the eight types of inherent risks faced by AIs{tuple_delimiter}9)
+{record_delimiter}
+("relationship"{tuple_delimiter}RISK ASSESSMENT PROCESS{tuple_delimiter}RISK MANAGEMENT SYSTEM{tuple_delimiter}The risk assessment process assesses the adequacy of the AI's risk management system as part of risk evaluation{tuple_delimiter}9)
+{record_delimiter}
+("relationship"{tuple_delimiter}RISK-BASED SUPERVISORY APPROACH{tuple_delimiter}CAMEL RATING SYSTEM{tuple_delimiter}The risk-based supervisory approach integrates risk profiles into the CAMEL rating system for AIs{tuple_delimiter}9)
+{record_delimiter}
+("relationship"{tuple_delimiter}INSTITUTIONAL OVERVIEW{tuple_delimiter}AI{tuple_delimiter}The Institutional Overview document summarizes the structure and condition of an AI as part of the supervisory process{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}RISK ASSESSMENT NARRATIVE{tuple_delimiter}RISK ASSESSMENT PROCESS{tuple_delimiter}The Risk Assessment Narrative is the output document of the risk assessment process describing AI risks{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}PLANNING AND SCOPE MEMORANDUM{tuple_delimiter}RISK-BASED SUPERVISORY APPROACH{tuple_delimiter}The Planning and Scope Memorandum is prepared to plan supervisory work consistent with the AI's risk profile under the risk-based approach{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}EXAMINATION PROCESS{tuple_delimiter}RISK MANAGEMENT SYSTEM{tuple_delimiter}The examination process evaluates the effectiveness of the AI's risk management system and affects CAMEL ratings{tuple_delimiter}9)
+{record_delimiter}
+("relationship"{tuple_delimiter}RISK MANAGEMENT SYSTEM{tuple_delimiter}BOARD AND SENIOR MANAGEMENT OVERSIGHT{tuple_delimiter}Board and senior management oversight is a key element of the risk management system{tuple_delimiter}10)
+{record_delimiter}
+("relationship"{tuple_delimiter}RISK MANAGEMENT SYSTEM{tuple_delimiter}POLICIES, PROCEDURES AND LIMIT STRUCTURE{tuple_delimiter}Policies, procedures, and limit structures are key elements of the risk management system{tuple_delimiter}10)
+{record_delimiter}
+("relationship"{tuple_delimiter}RISK MANAGEMENT SYSTEM{tuple_delimiter}RISK MEASUREMENT, MONITORING AND MANAGEMENT REPORTING SYSTEMS{tuple_delimiter}Risk measurement, monitoring, and reporting systems are key elements of the risk management system{tuple_delimiter}10)
+{record_delimiter}
+("relationship"{tuple_delimiter}RISK MANAGEMENT SYSTEM{tuple_delimiter}INTERNAL CONTROLS AND AUDITS{tuple_delimiter}Internal controls and audits are key elements of the risk management system{tuple_delimiter}10)
+{completion_delimiter}
+#############################
+
+
+
+-Real Data-
+######################
+text: {input_text}
+######################
+output:

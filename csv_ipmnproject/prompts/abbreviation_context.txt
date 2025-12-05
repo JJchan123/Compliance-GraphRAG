@@ -1,0 +1,23 @@
+# Financial Compliance Domain Context (HKMA Supervisory Policy Manual)
+
+This document is based on the regulatory framework and terminology of the Hong Kong Monetary Authority (HKMA).
+Unless otherwise specified, please interpret the following abbreviations and terms according to their financial compliance meaning.
+
+Abbreviations:
+- AI: Authorized Institution (as defined in the Banking Ordinance Cap. 155; not Artificial Intelligence)
+- AMB: Approved Money Broker
+- FATF: Financial Action Task Force
+- FSF: Financial Stability Forum (now the Financial Stability Board, FSB)
+- FSB: Financial Stability Board
+- GN: Guidance Note
+- HKMA: Hong Kong Monetary Authority
+- HKSARG: The Government of the Hong Kong Special Administrative Region
+- MA: Monetary Authority
+- MPF: Mandatory Provident Fund
+- MPFA: Mandatory Provident Fund Schemes Authority
+- Para.: Paragraph (in HKMA SPM context)
+- SG: Statutory Guideline
+- SPM: Supervisory Policy Manual
+- TN: Technical Note
+
+When processing or interpreting the text, assume that all terms above follow HKMA’s regulatory definitions and not their generic meanings.

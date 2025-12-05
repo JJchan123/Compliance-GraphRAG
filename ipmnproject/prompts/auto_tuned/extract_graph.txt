@@ -1,0 +1,203 @@
+
+-Goal-
+Given a text document that is potentially relevant to this activity and a list of entity types, identify all entities of those types from the text and all relationships among the identified entities.
+
+-Steps-
+1. Identify all entities. For each identified entity, extract the following information:
+- entity_name: Name of the entity, capitalized
+- entity_type: One of the following types: [risk management, supervisory framework, financial institution, inherent risk, risk assessment, CAMEL rating, regulatory compliance, business activity, risk profile, management quality]
+- entity_description: Comprehensive description of the entity's attributes and activities
+Format each entity as ("entity"{tuple_delimiter}<entity_name>{tuple_delimiter}<entity_type>{tuple_delimiter}<entity_description>)
+
+2. From the entities identified in step 1, identify all pairs of (source_entity, target_entity) that are *clearly related* to each other.
+For each pair of related entities, extract the following information:
+- source_entity: name of the source entity, as identified in step 1
+- target_entity: name of the target entity, as identified in step 1
+- relationship_description: explanation as to why you think the source entity and the target entity are related to each other
+- relationship_strength: an integer score between 1 to 10, indicating strength of the relationship between the source entity and target entity
+Format each relationship as ("relationship"{tuple_delimiter}<source_entity>{tuple_delimiter}<target_entity>{tuple_delimiter}<relationship_description>{tuple_delimiter}<relationship_strength>)
+
+3. Return output in en as a single list of all the entities and relationships identified in steps 1 and 2. Use **{record_delimiter}** as the list delimiter.
+
+4. If you have to translate into en, just translate the descriptions, nothing else!
+
+5. When finished, output {completion_delimiter}.
+
+-Examples-
+######################
+
+Example 1:
+
+entity_types: [risk management, supervisory framework, financial institution, inherent risk, risk assessment, CAMEL rating, regulatory compliance, business activity, risk profile, management quality]
+text:
+ of the AI.  
+1.4.11 The emphasis of the risk-focused examination to be performed in step five is on evaluating the effectiveness of the risk management system of the AI for each type of inherent risks. As previously indicated in para. 1.3.6, a risk management rating is assigned taking into account the on-site examination results, and factored into the management component of the CAMEL rating. The risk management rating may also affect the rating for one or more of the other CAMEL components. A report of examination will then be produced in this step to capture the examination findings and results from the review of the
+
+CAMEL rating.
+
+1.4.12 As the risk-based supervisory methodology revolves around a process of continuing off-site supervision, the Institutional Overview produced in step one will be constantly updated throughout the year in step six, making it a dynamic document which always reflects the most current position of the AI.
+
+# 1.5 Risk assessment
+
+1.5.1 The development of a formal risk assessment process represents an important addition to the HKMA's supervisory approach. The purpose of this risk assessment undertaking is, as indicated earlier, to identify the type, level and direction of all significant risks of an AI. The process consists of determining the level of risk in each of the eight inherent risks by business activity, the direction of risk, the adequacy of existing risk management systems and the impact, if any, of external risk factors. It concludes with a composite risk level for each business activity and an overall risk profile for the AI.  
+1.5.2 The level of inherent risk is defined as the probability and degree of potential loss due to an adverse event or action within a particular activity or product without regard to the adequacy and quality of the relevant risk management system in place. Ascertaining the level of inherent risk is a judgement call after assessing and weighing all the factors and evaluation criteria for each of the inherent risks. For example, if the asset quality of the loan portfolio being assessed has deteriorated to a less than satisfactory rating with a high level of classified credits, the level of inherent credit risk will probably be rated as high.  
+1.5.3 The adequacy of risk management systems is determined by evaluating the four elements of a sound risk management system as follows:
+
+- active Board and senior management oversight;  
+- effective organisational policies, procedures and
+
+limits for managing business activities;
+
+- adequate risk measurement, monitoring and management reporting systems; and  
+- comprehensive internal controls, including an effective internal audit function.
+
+1.5.4 The following eight inherent risks which have been identified by the HKMA are to be assessed during this process:
+
+credit;  
+market;  
+interest rate;  
+liquidity;  
+operational;  
+legal;  
+reputation; and  
+strategic.
+
+1.5.5 New risk types may emerge from time to time. Many of these new risk types can have implications for
+------------------------
+output:
+("entity"{tuple_delimiter}HKMA{tuple_delimiter}FINANCIAL INSTITUTION{tuple_delimiter}The HKMA (Hong Kong Monetary Authority) is the authority responsible for maintaining monetary and banking stability in Hong Kong, overseeing the banking sector and ensuring compliance with regulations.)
+{record_delimiter}
+("entity"{tuple_delimiter}RISK-BASED SUPERVISORY FRAMEWORK{tuple_delimiter}SUPERVISORY FRAMEWORK{tuple_delimiter}A risk-based supervisory framework focuses on evaluating risks in the banking sector, emphasizing the assessment of inherent risks and risk management processes to enhance regulatory compliance and management quality.)
+{record_delimiter}
+("entity"{tuple_delimiter}CAMEL RATING{tuple_delimiter}CAMEL RATING{tuple_delimiter}The CAMEL rating system is used to evaluate the financial condition, compliance, risk management systems, and overall soundness of financial institutions, helping to identify those requiring special supervisory attention.)
+{record_delimiter}
+("entity"{tuple_delimiter}INHERENT RISKS{tuple_delimiter}INHERENT RISK{tuple_delimiter}Inherent risks refer to the potential risks faced by financial institutions, including credit, market, interest rate, liquidity, operational, legal, reputation, and strategic risks that need to be assessed during supervision.)
+{record_delimiter}
+("entity"{tuple_delimiter}RISK PROFILE{tuple_delimiter}RISK PROFILE{tuple_delimiter}The risk profile of a financial institution is a comprehensive assessment of its risk exposure, determined by the level of inherent risks and the effectiveness of its risk management systems.)
+{record_delimiter}
+("entity"{tuple_delimiter}MANAGEMENT QUALITY{tuple_delimiter}MANAGEMENT QUALITY{tuple_delimiter}Management quality refers to the effectiveness of the leadership and governance structures within a financial institution, impacting its ability to manage risks and comply with regulations.)
+{record_delimiter}
+("relationship"{tuple_delimiter}HKMA{tuple_delimiter}RISK-BASED SUPERVISORY FRAMEWORK{tuple_delimiter}The HKMA implements the risk-based supervisory framework to enhance the evaluation of risks in the banking sector and ensure compliance with regulations.{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}RISK-BASED SUPERVISORY FRAMEWORK{tuple_delimiter}CAMEL RATING{tuple_delimiter}The risk-based supervisory framework integrates with the CAMEL rating system to assess the risk profile of financial institutions and ensure effective supervision.{tuple_delimiter}9)
+{record_delimiter}
+("relationship"{tuple_delimiter}CAMEL RATING{tuple_delimiter}INHERENT RISKS{tuple_delimiter}The CAMEL rating system incorporates the assessment of inherent risks to evaluate the overall financial condition and risk management of financial institutions.{tuple_delimiter}7)
+{record_delimiter}
+("relationship"{tuple_delimiter}RISK PROFILE{tuple_delimiter}INHERENT RISKS{tuple_delimiter}The risk profile of a financial institution is determined by evaluating the level of inherent risks it faces and the effectiveness of its risk management systems.{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}RISK PROFILE{tuple_delimiter}MANAGEMENT QUALITY{tuple_delimiter}The risk profile is influenced by the management quality of a financial institution, as effective management is crucial for identifying and mitigating risks.{tuple_delimiter}7)
+{completion_delimiter}
+#############################
+
+
+Example 2:
+
+entity_types: [risk management, supervisory framework, financial institution, inherent risk, risk assessment, CAMEL rating, regulatory compliance, business activity, risk profile, management quality]
+text:
+ on areas that expose the AI concerned to the greatest degree of risk.  
+1.4.2 The risk-based methodology, shown in the diagram below, consists of six key steps.
+
+![](https://cdn-mineru.openxlab.org.cn/result/2025-10-17/4b70d29d-a521-4c6c-92cd-b0442bf201e9/c05683f27efb1419a5707dc1c6cce63d95e0efd93d3792ed4d42c4ee3d32f185.jpg)
+
+1.4.3 The first step in the risk-based methodology, Understanding the AI, requires the preparation of an Institutional Overview document.  
+1.4.4 The Institutional Overview provides a concise portrait of an Al's structure and financial condition. It summarises key business lines and functions, the business strategy and any planned introduction of new products, describes legal structure and financial condition and identifies problem issues related to the Al itself or its affiliated entities, such as domestic or foreign subsidiaries and
+
+branches.
+
+1.4.5 Information provided in the Institutional Overview is determined by the complexity of the AI and is primarily based upon internal and public sources of data, as well as information gathered from on-site visitations.  
+1.4.6 The second step in the risk-based methodology, Assessing the Risk, results in the completion of a Risk Assessment Narrative.  
+1.4.7 The risk assessment exercise is designed to identify the type, level and direction of risks of an AI.  
+1.4.8 In order to conduct this exercise effectively, a building-block approach is used in which each of the significant activities of the AI is assessed with respect to the level of each of the inherent risks and the risk management systems in place to manage these risks.  
+1.4.9 The objective of the risk assessment exercise is to develop a comprehensive risk profile, which captures all the eight types of inherent risks of the AI. Subsection 1.5 below describes the risk assessment process in more detail.  
+1.4.10 The risk profile is used to complete the third and fourth steps in the risk-based methodology, which are Planning the Supervisory Work and Defining Examination Activities. The document to be prepared for these two steps is the Planning and Scope Memorandum. The HKMA will try to customise examination tasks so that they are consistent with the complexity and risk profile of the AI.  
+1.4.11 The emphasis of the risk-focused examination to be performed in step five is on evaluating the effectiveness of the risk management system of the AI for each type of inherent risks. As previously indicated in para. 1.3.6, a risk management rating is assigned taking into account the on-site examination results, and factored into the management component of the CAMEL rating. The risk management rating may also affect the rating for one or more of the
+------------------------
+output:
+("entity"{tuple_delimiter}HKMA{tuple_delimiter}FINANCIAL INSTITUTION{tuple_delimiter}The HKMA (Hong Kong Monetary Authority) is the authority responsible for maintaining monetary and banking stability in Hong Kong, overseeing the banking sector and ensuring compliance with regulations.)
+{record_delimiter}
+("entity"{tuple_delimiter}RISK-BASED SUPERVISORY FRAMEWORK{tuple_delimiter}SUPERVISORY FRAMEWORK{tuple_delimiter}A risk-based supervisory framework focuses on evaluating the risks faced by authorized institutions (AIs) and prioritizing supervisory efforts based on the risk profiles of these institutions.)
+{record_delimiter}
+("entity"{tuple_delimiter}INHERENT RISKS{tuple_delimiter}INHERENT RISK{tuple_delimiter}Inherent risks are the types of risks that an authorized institution faces in its operations, including credit, market, interest rate, liquidity, operational, legal, reputation, and strategic risks.)
+{record_delimiter}
+("entity"{tuple_delimiter}CAMEL RATING{tuple_delimiter}CAMEL RATING{tuple_delimiter}The CAMEL rating system is used to evaluate the financial condition, compliance, risk management systems, and overall soundness of authorized institutions, helping to identify those needing special supervisory attention.)
+{record_delimiter}
+("entity"{tuple_delimiter}RISK PROFILE{tuple_delimiter}RISK PROFILE{tuple_delimiter}A risk profile is a comprehensive assessment of the types and levels of risks faced by an authorized institution, which informs the intensity and focus of supervisory actions.)
+{record_delimiter}
+("entity"{tuple_delimiter}MANAGEMENT QUALITY{tuple_delimiter}MANAGEMENT QUALITY{tuple_delimiter}Management quality refers to the effectiveness of the leadership and governance structures within an authorized institution, impacting its ability to manage risks and comply with regulations.)
+{record_delimiter}
+("relationship"{tuple_delimiter}HKMA{tuple_delimiter}RISK-BASED SUPERVISORY FRAMEWORK{tuple_delimiter}The HKMA implements a risk-based supervisory framework to enhance the evaluation of risks in the banking sector and ensure effective supervision of authorized institutions.{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}RISK-BASED SUPERVISORY FRAMEWORK{tuple_delimiter}INHERENT RISKS{tuple_delimiter}The risk-based supervisory framework assesses inherent risks to prioritize supervisory efforts and focus on high-risk areas.{tuple_delimiter}9)
+{record_delimiter}
+("relationship"{tuple_delimiter}RISK-BASED SUPERVISORY FRAMEWORK{tuple_delimiter}CAMEL RATING{tuple_delimiter}The risk-based supervisory framework integrates the CAMEL rating system to evaluate the financial condition and risk management of authorized institutions.{tuple_delimiter}7)
+{record_delimiter}
+("relationship"{tuple_delimiter}CAMEL RATING{tuple_delimiter}RISK PROFILE{tuple_delimiter}The CAMEL rating system incorporates the risk profile of an authorized institution to assess its overall risk management and compliance.{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}RISK PROFILE{tuple_delimiter}INHERENT RISKS{tuple_delimiter}The risk profile is determined by evaluating the levels of inherent risks faced by an authorized institution.{tuple_delimiter}9)
+{record_delimiter}
+("relationship"{tuple_delimiter}RISK PROFILE{tuple_delimiter}MANAGEMENT QUALITY{tuple_delimiter}The quality of management within an authorized institution affects its risk profile and ability to manage inherent risks effectively.{tuple_delimiter}8)
+{completion_delimiter}
+#############################
+
+
+Example 3:
+
+entity_types: [risk management, supervisory framework, financial institution, inherent risk, risk assessment, CAMEL rating, regulatory compliance, business activity, risk profile, management quality]
+text:
+ supervision as the banking sector develops and risk profiles of Als change in reaction to competitive forces. This should also benefit Als as regulatory effort is focused on high-risk areas warranting management attention.
+
+# 1.2 Key benefits
+
+1.2.1 The key benefits for both the HKMA and Als from this risk-based supervisory framework are:
+
+- better evaluation of risks through separate assessment of inherent risks and risk management processes;  
+- greater emphasis on early identification of emerging risks at individual Als and on a sector-wide basis;  
+- cost-effective use of resources through a sharper focus on risks, which in time should result in examination teams spending less time on site at individual AIs;  
+- more utilisation by the HKMA of management information prepared by AIs;  
+- a better appreciation by supervisors of the management quality of Als, the characteristics of their business and the risks they face;  
+- enhanced value of the supervisory work performed to both the management of Als and the supervisors, who have a common interest in ensuring that risks are properly identified and that adequate and effective control systems are established to monitor and control risks; and  
+cost of supervision, in terms of management time of an AI, will be more directly related to the AI's
+
+risk profile, i.e. the intensity of supervision and the amount and focus of supervisory action will increase or decrease in line with the perceived risk profile of the AI.
+
+# 1.3 Integration with CAMEL rating system
+
+1.3.1 The CAMEL  $^{{1}}$  rating system, which has been implemented at the HKMA since 1995, is designed to assess in a comprehensive manner an Al's financial condition, compliance with laws and regulations, risk management systems and overall operating soundness. Its primary purpose is to help identify those Als where weaknesses in the aforementioned areas require special supervisory attention or warrant a higher than normal degree of supervisory concern.  
+1.3.2 Risk-based supervision is a dynamic and forward-looking approach, which provides the supervisory process with the necessary framework to factor the risk profile of an AI into the CAMEL rating system. Risk-taking has always been present in the banking business, and rightfully so, but has increased significantly, primarily due to the need to remain competitive in a fast-paced environment.  
+1.3.3 The risk-based methodology incorporates the risk profile, which is ascertained by balancing the level of inherent risk with the quality of risk management systems at Als, into the CAMEL rating system. Each of the CAMEL components is, as shown in the following diagram, affected by one or more of the eight inherent risks (credit, market, interest rate, liquidity, operational, legal, reputation and strategic), which the HKMA has identified as risks to be assessed during the supervisory process. These eight inherent risks are described in section 2 below.
+
+![](https://cdn-mineru.openxlab.org.cn/result/
+------------------------
+output:
+("entity"{tuple_delimiter}HKMA{tuple_delimiter}SUPERVISORY FRAMEWORK{tuple_delimiter}The HKMA (Hong Kong Monetary Authority) is the regulatory body overseeing the banking sector, focusing on risk-based supervision to enhance the management of risks in authorized institutions (AIs).)
+{record_delimiter}
+("entity"{tuple_delimiter}RISK-BASED SUPERVISORY FRAMEWORK{tuple_delimiter}SUPERVISORY FRAMEWORK{tuple_delimiter}A framework that emphasizes the evaluation of risks through the assessment of inherent risks and risk management processes, aimed at improving regulatory oversight of AIs.)
+{record_delimiter}
+("entity"{tuple_delimiter}RISK PROFILE{tuple_delimiter}RISK PROFILE{tuple_delimiter}A comprehensive assessment of the types and levels of risks faced by an AI, which influences the intensity of supervision and the focus of supervisory actions.)
+{record_delimiter}
+("entity"{tuple_delimiter}CAMEL RATING{tuple_delimiter}CAMEL RATING{tuple_delimiter}A rating system used by the HKMA to evaluate an AI's financial condition, compliance with laws, risk management systems, and overall operating soundness, integrating the AI's risk profile into the assessment.)
+{record_delimiter}
+("entity"{tuple_delimiter}INHERENT RISKS{tuple_delimiter}INHERENT RISK{tuple_delimiter>The eight types of risks identified by the HKMA that need to be assessed during the supervisory process: credit, market, interest rate, liquidity, operational, legal, reputation, and strategic.)
+{record_delimiter}
+("entity"{tuple_delimiter}MANAGEMENT QUALITY{tuple_delimiter}MANAGEMENT QUALITY{tuple_delimiter}The assessment of the effectiveness and oversight capabilities of an AI's management, which is crucial for identifying and controlling risks.)
+{record_delimiter}
+("relationship"{tuple_delimiter}HKMA{tuple_delimiter}RISK-BASED SUPERVISORY FRAMEWORK{tuple_delimiter}The HKMA implements the risk-based supervisory framework to enhance regulatory oversight of AIs and focus on high-risk areas.{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}RISK-BASED SUPERVISORY FRAMEWORK{tuple_delimiter}RISK PROFILE{tuple_delimiter}The risk-based supervisory framework utilizes the risk profile of AIs to determine the intensity and focus of supervisory actions.{tuple_delimiter}7)
+{record_delimiter}
+("relationship"{tuple_delimiter}RISK PROFILE{tuple_delimiter}CAMEL RATING{tuple_delimiter}The risk profile is integrated into the CAMEL rating system to assess the financial condition and risk management of AIs.{tuple_delimiter}9)
+{record_delimiter}
+("relationship"{tuple_delimiter}CAMEL RATING{tuple_delimiter}INHERENT RISKS{tuple_delimiter}The CAMEL rating system incorporates the assessment of inherent risks to evaluate the overall soundness of an AI.{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}RISK-BASED SUPERVISORY FRAMEWORK{tuple_delimiter}MANAGEMENT QUALITY{tuple_delimiter}The risk-based supervisory framework enhances the evaluation of management quality in AIs, ensuring effective risk control systems are in place.{tuple_delimiter}6)
+{completion_delimiter}
+#############################
+
+
+
+-Real Data-
+######################
+entity_types: [risk management, supervisory framework, financial institution, inherent risk, risk assessment, CAMEL rating, regulatory compliance, business activity, risk profile, management quality]
+text: {input_text}
+######################
+output:

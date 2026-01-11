@@ -1,0 +1,29 @@
+Validate the following compliance rule:
+
+---Baseline Rule---
+
+{rule_json}
+
+---Task---
+
+1. **Search**: Use the `source_reference`, and `clause_reference` to locate the corresponding provision in the policy documents.
+
+2. **Compare**: Compare ALL fields of the baseline rule:
+   - `condition`: Has the trigger changed?
+   - `action`: Has the core obligation or threshold changed?
+   - `action_steps`: Have steps been added, removed, or modified?
+
+3. **Determine Status**:
+   - `UNCHANGED`: No substantive changes to condition/action/action_steps
+   - `MODIFIED`: At least one substantive change detected
+   - `DELETED`: No evidence of this rule in latest documents
+
+4. **Return JSON only**:
+
+{{
+  "original_rule_id": "...",
+  "status": "UNCHANGED | MODIFIED | DELETED",
+  "latest_source_reference": "...",
+  "latest_clause_reference": "...",
+  "change_analysis": "..."
+}}

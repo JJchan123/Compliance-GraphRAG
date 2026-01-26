@@ -1,0 +1,54 @@
+You are a compliance rule update specialist. Your task is to update the given rule based on the impact analysis and latest policy documents.
+
+**Current Rule:**
+```json
+{current_rule_json}
+```
+
+**Impact Analysis:**
+```json
+{impact_analysis_json}
+```
+
+**Task:**
+Based on the impact analysis status, update the rule as follows:
+
+1. **If status is "UNCHANGED"**: Return the current rule as-is (no modifications needed)
+2. **If status is "MODIFIED"**: Extract the updated rule from latest policy documents based on change_analysis details
+3. **If status is "DELETED"**: Mark the rule with "status": "deprecated" in the output
+4. **If status is "NEW"**: Create a new rule based on the analysis
+
+**Critical Requirements:**
+- The output MUST follow the exact same JSON structure as the current rule
+- All fields must be preserved: id, source_reference, clause_reference, data_support, subject, modality, condition, action, action_steps, rationale, risk_level, tags
+- If a field was null in the original, keep it null unless you have specific updates
+- Ensure all arrays (action_steps, tags) are properly formatted
+- Use the latest_source_reference and latest_clause_reference from impact analysis if available
+
+**Output Format:**
+Return ONLY a valid JSON object with the exact same structure as the input rule. No explanations, no markdown formatting.
+
+Example output structure:
+```json
+{{
+  "id": "CUST-ACCEPT-002",
+  "source_reference": "g33a: SUPPLEMENT TO THE GUIDELINE ON PREVENTION OF MONEY LAUNDERING, Section 2. Customer Acceptance Policy",
+  "clause_reference": "2.3(a)-(e)",
+  "data_support": null,
+  "subject": "authorized institution",
+  "modality": "obligation",
+  "condition": "when determining a customer's risk profile and a risk profile assessment is required",
+  "action": "consider relevant customer risk profiling factors",
+  "action_steps": [
+    "consider risk factors including jurisdiction exposure, pep linkage, high-risk business types, complex ownership, and refusal by other institutions"
+  ],
+  "rationale": null,
+  "risk_level": "high",
+  "tags": [
+    "risk profiling",
+    "jurisdiction risk",
+    "pep",
+    "complex ownership"
+  ]
+}}
+```

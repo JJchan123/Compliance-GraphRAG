@@ -1,125 +1,139 @@
-# MinerU `text_level` Refinement Agent
+# MinerU `text_level` Refinement + CSV Export Pipeline
 
-An AI-powered pipeline that corrects `text_level` tags in MinerU's `_content_list.json` output using **Gemini 2.5 Flash** VLM-based Table of Contents extraction and fuzzy matching.
+This folder contains two notebooks that turn MinerU `_content_list.json` into:
+1) a **corrected** `content_list.json` with reliable `text_level: 1` headings, and  
+2) a **GraphRAG-ready CSV** aggregated by section headings.
 
-## Problem
+## What problem this solves
 
-MinerU's OCR/layout detection produces `_content_list.json` files where `text_level: 1` tags are often inaccurate:
+MinerU OCR/layout output often has `text_level: 1` issues:
 
-| Issue | Example |
-|---|---|
-| **False Positives** | `"TABLE OF CONTENTS"`, `"Example:"`, clause numbers like `"5.19"` incorrectly tagged as headings |
-| **False Negatives** | Real section headings in the document body missing `text_level` entirely |
-| **TOC Page Leakage** | TOC entries (pages 1–5) tagged as body headings |
+- **False positives**: non-headings tagged as headings (examples, random short lines, etc.)
+- **False negatives**: real body headings missing `text_level`
+- **Non-text leakage**: some non-text blocks may incorrectly carry `text_level`
+- **TOC duplication**: TOC headings can appear again in the body (same title), causing duplicated sections
 
-## Solution
+This pipeline uses a VLM-extracted TOC (human-verified) as **ground truth** to correct headings.
 
-A 3-stage pipeline with human-in-the-loop verification:
+---
 
-```
-PDF ──► Gemini 2.5 Flash ──► TOC JSON ──► Human Review ──► Fuzzy Match ──► Corrected JSON
-```
+## Notebooks
 
-### Stage 1: VLM TOC Extraction
-- Sends the native PDF to **Gemini 2.5 Flash**
-- Extracts top-level section headings and TOC page boundaries
-- Returns structured JSON with `toc_pages` and `sections`
+### 1) `mineru_text_level_refinement.ipynb` — Correct `text_level`
 
-### Stage 2: Human-in-the-Loop Review
-- Saves the LLM result to `toc_ground_truth.json` for inspection
-- User reviews, optionally edits, and confirms before proceeding
-- Acts as a quality gate to catch any LLM extraction errors
+**Inputs**
+- A PDF (used only for TOC extraction)
+- MinerU `_content_list.json` (the file to correct)
+- `GEMINI_API_KEY` environment variable
 
-### Stage 3: Fuzzy Match & Correct
-- Uses the confirmed ground truth to correct `content_list.json`:
-  - **Remove TOC page tags** — all `text_level` on TOC pages are stripped
-  - **Remove false positives** — body blocks with `text_level: 1` that don't match any ground truth section
-  - **Add false negatives** — body blocks matching ground truth but missing `text_level`
-- Two-pass fuzzy matching (direct ratio + token-set ratio) via `rapidfuzz`
+**Steps**
+1. **Load MinerU JSON** and print statistics (blocks, pages, existing `text_level` blocks).
+2. **Stage 1: Gemini TOC extraction**
+   - Sends native PDF bytes to `gemini-2.5-flash`
+   - Extracts **top-level** TOC sections as:
+     ```json
+     { "sections": [ { "section_id": "string or null", "title": "string" } ] }
+     ```
+3. **Human-in-the-loop gate**
+   - Saves the extracted TOC to `toc_ground_truth.json`
+   - User confirms (`yes`) or edits (`edit`) before correction continues
+4. **Stage 2: Fuzzy match + correction**
+   - Builds match targets from ground truth:
+     - `title`
+     - `"{section_id} {title}"` (only if `section_id` exists)  
+       This improves matching when body headings include numeric prefixes like `"6 Organisations"`.
+   - For each block in `content_list.json`:
+     - If `type != "text"` and it has `text_level`, remove `text_level`
+     - If `type == "text"`:
+       - **Keep** `text_level` if the block matches a ground-truth heading
+       - **Remove** `text_level` if it does not match (false positive)
+       - **Add** `text_level = 1` if it matches but is missing (false negative)
 
-## Output
+**Matching**
+- Normalization: lowercase + collapse whitespace (the “strip dot leaders/page numbers” rule is currently disabled in code)
+- Similarity: `rapidfuzz.fuzz.ratio`
+- Threshold: `FUZZY_THRESHOLD = 95` (strict)
 
-| File | Description |
-|---|---|
-| `*_corrected.json` | Corrected `content_list.json` with fixed `text_level` tags |
-| `*_correction_log.json` | Audit log of all changes (added, removed, kept) with match scores |
-| `toc_ground_truth.json` | Confirmed TOC extraction used as ground truth |
+> Note: The optional “TOC pages removal” and the “token_set_ratio pass” exist in the notebook but are currently commented out.
+
+**Outputs**
+- **Corrected JSON is written by overwriting `JSON_PATH`** (in-place overwrite)
+- `correction_log.json` is saved next to `JSON_PATH`
+- `toc_ground_truth.json` is saved next to `JSON_PATH` (for audit / reuse)
+
+---
+
+### 2) `mineru_to_csv.ipynb` — Aggregate corrected sections into CSV
+
+**Purpose**
+Convert corrected `content_list.json` into a section-level CSV for GraphRAG ingestion.
+
+**Key logic**
+- Treat `text_level == 1` blocks as **section boundaries**
+- Use a **last-occurrence heuristic** to skip TOC duplicates:
+  - headings with identical normalized text appear multiple times
+  - the **last** occurrence is assumed to be the real body heading
+- Aggregate all following text blocks until the next heading
+
+**Outputs**
+- A CSV with columns:
+  - `text` (section heading + section body)
+  - `doc_title`, `version`, `author` (from PDF metadata)
+  - `section_title` (the heading)
+
+---
 
 ## Dependencies
 
-| Package | Purpose |
-|---|---|
-| `google-genai` | Gemini 2.5 Flash API client |
-| `rapidfuzz` | Fast fuzzy string matching |
-| `PyMuPDF (fitz)` | PDF handling (already installed) |
+- `google-genai` (Gemini client)
+- `rapidfuzz` (string similarity)
+- `PyMuPDF` / `fitz` (PDF metadata)
 
-### Install
+Install (Windows / PowerShell):
 
-```bash
-pip install google-genai rapidfuzz
 ```
+pip install google-genai rapidfuzz pymupdf
+```
+
+---
 
 ## Configuration
 
-Edit the configuration cell (Cell 2) in the notebook:
+### Environment variable
+Set your Gemini API key:
 
-```python
-GEMINI_API_KEY = 'your-api-key'          # or set GEMINI_API_KEY env var
-GEMINI_MODEL   = 'gemini-2.5-flash'
-
-PDF_PATH  = r'path\to\document.pdf'
-JSON_PATH = r'path\to\document_content_list.json'
-OUTPUT_DIR = None                         # None = save alongside input
-
-FUZZY_THRESHOLD = 80                      # Minimum fuzzy match score (0-100)
+**PowerShell**
+```
+$env:GEMINI_API_KEY="YOUR_KEY"
 ```
 
-## Notebook Structure
+### Notebook variables
+In `mineru_text_level_refinement.ipynb` adjust:
+- `DOC_CODE`
+- `PDF_PATH`
+- `JSON_PATH`
+- thresholds: `FUZZY_THRESHOLD`, etc.
 
-| Cell | Type | Description |
-|---:|---|---|
-| 1 | Markdown | Title & pipeline overview |
-| 2 | Code | Imports & configuration |
-| 3 | Code | Load `content_list.json` & display statistics |
-| 4 | Markdown | Stage 1 description |
-| 5 | Code | VLM TOC extraction (Gemini 2.5 Flash) |
-| 6 | Markdown | Human-in-the-loop instructions |
-| 7 | Code | Review, save, and confirm TOC result |
-| 8 | Markdown | Stage 2 description |
-| 9 | Code | Fuzzy matching & correction engine |
-| 10 | Code | Save corrected JSON & correction log |
-| 11 | Code | Validation spot-check & cross-reference |
+In `mineru_to_csv.ipynb` adjust:
+- `INPUT_JSON` (use the corrected file)
+- `INPUT_PDF`
+- `OUTPUT_CSV`
 
-## Usage
+---
 
-1. Set your `GEMINI_API_KEY` and file paths in Cell 2
-2. Run Cells 1–5 to extract TOC from the PDF
-3. Review the LLM output in Cell 7 — type `yes` to confirm or `edit` after modifying the saved JSON
-4. Run Cells 9–11 to apply corrections and validate
+## Recommended run order
 
-## Ground Truth JSON Format
+1. Run **`mineru_text_level_refinement.ipynb`**
+   - Confirm / edit `toc_ground_truth.json`
+   - Produce corrected `content_list.json` (in-place overwrite) + `correction_log.json`
+2. Run **`mineru_to_csv.ipynb`**
+   - Produce aggregated CSV for GraphRAG
 
-The VLM produces (and the human confirms) this structure:
+---
 
-```json
-{
-  "toc_pages": [1, 2, 3, 4, 5],
-  "sections": [
-    {"section_id": null, "title": "PART I: INTRODUCTION AND OVERVIEW"},
-    {"section_id": "1",  "title": "Introduction"},
-    {"section_id": "2",  "title": "Overview of the PDPA"},
-    {"section_id": "6",  "title": "Organisations"}
-  ]
-}
-```
+## Notes / gotchas
 
-- `toc_pages`: 0-indexed page numbers containing the Table of Contents
-- `section_id`: section number as string, or `null` for Part titles / Annexes
-- `title`: clean heading text (no dot leaders or page numbers)
-
-## Matching Logic
-
-1. **Normalize** — lowercase, collapse whitespace, strip trailing dots/page numbers
-2. **Pass 1 (strict)** — `fuzz.ratio` ≥ `FUZZY_THRESHOLD` (default 80)
-3. **Pass 2 (loose)** — `fuzz.token_set_ratio` ≥ 90, with length-ratio guard > 0.5 to prevent short-text false matches
-4. Section ID variants are also generated (e.g., matching `"6 Organisations"` against `"Organisations"`)
+- The refinement notebook currently only matches blocks where `block["type"] == "text"`.
+- If your headings in body text include dot leaders/page numbers, consider enabling the commented normalization rule that strips trailing dots/page numbers.
+- If OCR causes small word drops/reordering, consider enabling the commented `token_set_ratio` pass.
+- TOC page-based stripping is present but disabled; current deduplication is primarily handled later by the CSV stage via the “last occurrence wins” rule.

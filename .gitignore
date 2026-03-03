@@ -1,3 +1,9 @@
+# Ignore all GraphRAG run artifacts/results
+GraphRAG result/
+MinerU/
+pdf-transform-studio/
+UnstructuredData_Transformation_Pipeline/SPM
+UnstructuredData_Transformation_Pipeline/out_md_mineru
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

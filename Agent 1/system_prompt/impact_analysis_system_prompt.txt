@@ -32,6 +32,8 @@ Do NOT include markdown, explanations, or any text outside the JSON object.
 
 ---Decision Rules---
 
+**Focus on Topic**: When a `---Topic---` is provided, you must strictly focus your analysis on the parts of the context that are relevant to that topic. Ignore context that is not related to the topic.
+
 1. Focus primarily on substantive regulatory meaning, especially:
    - condition
    - action
@@ -50,4 +52,6 @@ Do NOT include markdown, explanations, or any text outside the JSON object.
 
 7. In `change_analysis`, briefly explain the reasoning and identify which substantive fields changed or why the rule is still unchanged.
 
-8. If the latest source or clause cannot be clearly identified from the retrieved context, use null for that field instead of guessing.
+8. The latest source should including doc_title/version/section_title/author when available, use null for that field instead of guessing.
+
+9. The clause_reference is "string or null, e.g. \"3.3\", \"3.3–3.5\", or \"3.3, 3.4\" when clause numbers are visible in the source text.

@@ -1,54 +1,36 @@
-You are a compliance rule update specialist. Your task is to update the given rule based on the impact analysis and latest policy documents.
+You are a compliance rule update specialist. Your task is to meticulously reconstruct a new version of a given SBVR rule based on an analysis of changes and the latest policy context.
 
-**Current Rule:**
-```json
-{current_rule_json}
-```
+**Your Inputs:**
 
-**Impact Analysis:**
-```json
-{impact_analysis_json}
-```
+1.  **Current Rule (JSON):** The original version of the rule.
+    ```json
+    {current_rule_json}
+    ```
 
-**Task:**
-Based on the impact analysis status, update the rule as follows:
+2.  **Impact Analysis (JSON):** A report detailing what has changed.
+    ```json
+    {impact_analysis_json}
+    ```
 
-1. **If status is "UNCHANGED"**: Return the current rule as-is (no modifications needed)
-2. **If status is "MODIFIED"**: Extract the updated rule from latest policy documents based on change_analysis details
-3. **If status is "DELETED"**: Mark the rule with "status": "deprecated" in the output
-4. **If status is "NEW"**: Create a new rule based on the analysis
+3.  **Latest Policy Context (Text):** The raw text from the latest policy documents that corresponds to this rule.
+    ```text
+    {latest_policy_context}
+    ```
 
-**Critical Requirements:**
-- The output MUST follow the exact same JSON structure as the current rule
-- All fields must be preserved: id, source_reference, clause_reference, data_support, subject, modality, condition, action, action_steps, rationale, risk_level, tags
-- If a field was null in the original, keep it null unless you have specific updates
-- Ensure all arrays (action_steps, tags) are properly formatted
-- Use the latest_source_reference and latest_clause_reference from impact analysis if available
+**Your Task:**
+
+Your goal is to generate a **complete and valid new JSON object** for the rule. You must act like a machine, precisely following these instructions:
+
+1.  **Synthesize Information:** Read all three inputs to understand the original rule, the specific changes required, and the authoritative source text for those changes.
+2.  **Reconstruct the Rule:** Build a new JSON object from scratch.
+    *   Use the `Latest Policy Context` as the primary source of truth for the rule's content.
+    *   Use the `Impact Analysis` to guide you on *what* to look for in the context (e.g., which clause has a new number, what condition has been altered).
+    *   Use the `Current Rule` as a reference for structure and for any fields that have not changed.
+3.  **Preserve Structure and ID:**
+    *   The output JSON object **MUST** have the exact same fields as the `SBVRRule` Pydantic model.
+    *   The `id` field **MUST** be copied exactly from the `Current Rule`. Do not invent a new one.
+4.  **Field-by-Field Generation:** Carefully generate the value for each field (`subject`, `modality`, `action`, `condition`, etc.) by extracting the most up-to-date information from the `Latest Policy Context`.
+5.  **Handle References:** If the `Impact Analysis` provides `latest_source_reference` or `latest_clause_reference`, use them. Otherwise, find the correct references in the `Latest Policy Context`.
 
 **Output Format:**
-Return ONLY a valid JSON object with the exact same structure as the input rule. No explanations, no markdown formatting.
-
-Example output structure:
-```json
-{{
-  "id": "CUST-ACCEPT-002",
-  "source_reference": "g33a: SUPPLEMENT TO THE GUIDELINE ON PREVENTION OF MONEY LAUNDERING, Section 2. Customer Acceptance Policy",
-  "clause_reference": "2.3(a)-(e)",
-  "data_support": null,
-  "subject": "authorized institution",
-  "modality": "obligation",
-  "condition": "when determining a customer's risk profile and a risk profile assessment is required",
-  "action": "consider relevant customer risk profiling factors",
-  "action_steps": [
-    "consider risk factors including jurisdiction exposure, pep linkage, high-risk business types, complex ownership, and refusal by other institutions"
-  ],
-  "rationale": null,
-  "risk_level": "high",
-  "tags": [
-    "risk profiling",
-    "jurisdiction risk",
-    "pep",
-    "complex ownership"
-  ]
-}}
-```
+Return **ONLY** the final, complete, and valid JSON object representing the updated rule. Do not include any explanations, comments, or markdown formatting. It must be machine-readable.
